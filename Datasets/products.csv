@@ -1,0 +1,2001 @@
+id,product_id,product_name,price,quantity,flavors,category,size,calories,ingredients,availability,rating
+1,COF0001,Macchiato,317.45,186,Mint,Cold,Medium,332,"Spices, Sugar",TRUE,3
+2,COF0002,Frappuccino,60.35,172,Hazelnut,Iced,Large,483,"Chocolate, Spices, Coffee Beans, Sugar, Tea Leaves",FALSE,3.5
+3,COF0003,Iced Latte,216.77,26,Cinnamon,Iced,Small,485,"Ice, Sugar, Chocolate, Milk, Tea Leaves",TRUE,3.5
+4,COF0004,Latte,289.52,21,None,Hot,Small,418,"Milk, Tea Leaves",FALSE,3.7
+5,COF0005,Latte,171.15,84,None,Iced,Small,336,"Coffee Beans, Tea Leaves, Ice, Milk, Chocolate",FALSE,2.3
+6,COF0006,Frappuccino,378.72,158,Cinnamon,Iced,Medium,221,"Spices, Coffee Beans",TRUE,4.7
+7,COF0007,Mocha,491.3,116,Hazelnut,Iced,Medium,120,"Ice, Cream",FALSE,2.5
+8,COF0008,Masala Chai,270.07,65,Cardamom,Iced,Small,330,"Sugar, Cream, Chocolate, Coffee Beans",FALSE,1
+9,COF0009,Iced Latte,134.14,192,Vanilla,Hot,Small,484,"Milk, Ice, Sugar",TRUE,1.2
+10,COF0010,Mocha,126.03,178,Caramel,Cold,Small,269,"Cream, Chocolate, Tea Leaves, Ice, Coffee Beans",TRUE,1.9
+11,COF0011,Choco Frappe,175.65,66,Hazelnut,Blended,Small,241,"Tea Leaves, Chocolate, Spices, Cream, Sugar",FALSE,4.1
+12,COF0012,Espresso,118.5,26,Mint,Iced,Medium,115,"Ice, Milk, Cream, Spices, Tea Leaves",FALSE,3.3
+13,COF0013,Americano,71.8,32,Vanilla,Blended,Large,480,"Milk, Ice, Cream, Spices",TRUE,2.7
+14,COF0014,Espresso,234.96,173,Hazelnut,Blended,Medium,417,"Chocolate, Cream",FALSE,2.6
+15,COF0015,Macchiato,263.41,51,Hazelnut,Cold,Medium,276,"Milk, Ice, Coffee Beans, Tea Leaves, Spices",FALSE,3
+16,COF0016,Macchiato,223,187,Caramel,Hot,Large,423,"Spices, Ice, Milk",TRUE,4.1
+17,COF0017,Espresso,135.05,124,Cinnamon,Hot,Small,197,"Sugar, Cream, Spices",TRUE,1.6
+18,COF0018,Masala Chai,303.59,184,Caramel,Hot,Large,145,"Coffee Beans, Cream, Milk, Ice, Tea Leaves",FALSE,4.3
+19,COF0019,Choco Frappe,217.53,47,Vanilla,Hot,Large,252,"Ice, Cream, Milk, Chocolate",FALSE,4.3
+20,COF0020,Latte,286.31,161,Caramel,Iced,Large,394,"Ice, Milk",TRUE,3.3
+21,COF0021,Mocha,333.32,122,Cinnamon,Blended,Medium,102,"Cream, Milk, Coffee Beans, Ice, Spices",FALSE,2.9
+22,COF0022,Masala Chai,320.53,65,Mint,Iced,Small,273,"Ice, Cream, Spices",TRUE,2.7
+23,COF0023,Mocha,264.52,89,Cinnamon,Iced,Small,413,"Coffee Beans, Cream, Milk, Spices, Chocolate",TRUE,4.4
+24,COF0024,Americano,132.37,48,Chocolate,Iced,Small,163,"Milk, Ice, Chocolate, Cream",FALSE,1.8
+25,COF0025,Cappuccino,396.92,147,Mint,Iced,Large,324,"Cream, Chocolate, Ice",TRUE,1.9
+26,COF0026,Cappuccino,282.91,174,None,Iced,Large,222,"Chocolate, Spices",FALSE,1.8
+27,COF0027,Frappuccino,472.8,139,Vanilla,Blended,Medium,468,"Coffee Beans, Milk",FALSE,4.7
+28,COF0028,Americano,445.25,137,Cardamom,Iced,Small,231,"Sugar, Ice, Milk",TRUE,1.8
+29,COF0029,Iced Latte,328.61,133,Cinnamon,Blended,Medium,248,"Milk, Cream",FALSE,3.4
+30,COF0030,Iced Latte,252.03,191,Mint,Hot,Medium,312,"Spices, Sugar, Cream, Milk, Ice",FALSE,2.9
+31,COF0031,Macchiato,147.34,111,Cinnamon,Hot,Small,482,"Cream, Chocolate, Coffee Beans, Milk",TRUE,2.8
+32,COF0032,Espresso,133.4,114,None,Cold,Small,231,"Cream, Spices, Chocolate, Ice",FALSE,4.9
+33,COF0033,Iced Latte,291.38,152,Caramel,Hot,Medium,288,"Ice, Spices, Sugar, Cream, Coffee Beans",FALSE,2.6
+34,COF0034,Masala Chai,365.21,58,Vanilla,Blended,Small,320,"Ice, Tea Leaves",FALSE,1.5
+35,COF0035,Cappuccino,313.51,93,Vanilla,Blended,Medium,328,"Cream, Tea Leaves",TRUE,4.7
+36,COF0036,Masala Chai,146.51,158,Cardamom,Hot,Medium,303,"Milk, Ice",TRUE,1.9
+37,COF0037,Iced Latte,334.28,197,None,Hot,Small,149,"Ice, Tea Leaves",TRUE,2.9
+38,COF0038,Frappuccino,412.8,134,Chocolate,Blended,Large,413,"Coffee Beans, Milk, Spices",TRUE,2
+39,COF0039,Macchiato,233.11,67,Cardamom,Cold,Medium,209,"Ice, Tea Leaves",TRUE,3
+40,COF0040,Espresso,334.86,62,Chocolate,Blended,Medium,278,"Spices, Cream, Milk, Tea Leaves",FALSE,2
+41,COF0041,Cappuccino,481.4,37,Vanilla,Cold,Medium,380,"Coffee Beans, Tea Leaves",TRUE,2.1
+42,COF0042,Choco Frappe,476.42,74,Vanilla,Iced,Large,493,"Ice, Tea Leaves",TRUE,4.3
+43,COF0043,Latte,431.32,28,Caramel,Cold,Small,364,"Milk, Ice, Coffee Beans, Spices",TRUE,4.3
+44,COF0044,Espresso,223.9,88,Caramel,Hot,Medium,306,"Chocolate, Cream, Ice, Spices",FALSE,3.2
+45,COF0045,Choco Frappe,435.56,178,Hazelnut,Iced,Small,443,"Ice, Cream, Coffee Beans, Spices, Sugar",FALSE,2.4
+46,COF0046,Frappuccino,332.42,83,None,Cold,Large,263,"Tea Leaves, Chocolate, Ice",TRUE,4.2
+47,COF0047,Masala Chai,270.48,73,Vanilla,Hot,Small,364,"Milk, Chocolate",FALSE,2.7
+48,COF0048,Espresso,478.93,128,None,Hot,Small,441,"Chocolate, Ice, Cream, Milk",FALSE,3.5
+49,COF0049,Espresso,366.77,110,Mint,Iced,Small,441,"Sugar, Coffee Beans, Cream, Tea Leaves",FALSE,3.4
+50,COF0050,Masala Chai,384.14,29,Mint,Blended,Medium,102,"Milk, Coffee Beans",FALSE,1.1
+51,COF0051,Mocha,323.43,187,Caramel,Iced,Large,409,"Ice, Milk, Spices, Cream",FALSE,2.5
+52,COF0052,Mocha,252.25,111,None,Hot,Medium,407,"Milk, Ice, Cream",FALSE,3.2
+53,COF0053,Frappuccino,322.84,40,None,Blended,Medium,403,"Milk, Cream, Spices",FALSE,3.1
+54,COF0054,Macchiato,274.9,70,Cardamom,Blended,Small,318,"Ice, Coffee Beans, Sugar, Spices, Cream",TRUE,2.4
+55,COF0055,Iced Latte,399.33,113,Cinnamon,Blended,Large,136,"Ice, Spices",TRUE,3.3
+56,COF0056,Macchiato,326.37,146,Cardamom,Blended,Large,169,"Coffee Beans, Cream, Tea Leaves",FALSE,2.5
+57,COF0057,Iced Latte,236.94,48,Cardamom,Iced,Medium,304,"Sugar, Tea Leaves, Spices, Milk, Ice",FALSE,2.4
+58,COF0058,Choco Frappe,397.66,111,Hazelnut,Iced,Large,317,"Tea Leaves, Sugar, Chocolate, Ice, Spices",TRUE,4.9
+59,COF0059,Masala Chai,317.6,114,None,Blended,Small,212,"Sugar, Ice",TRUE,1.3
+60,COF0060,Masala Chai,157.65,75,Cinnamon,Hot,Large,443,"Sugar, Tea Leaves, Ice, Coffee Beans",FALSE,4
+61,COF0061,Macchiato,104.73,176,Caramel,Cold,Small,123,"Spices, Chocolate",TRUE,4.6
+62,COF0062,Espresso,385.37,166,Mint,Iced,Large,375,"Spices, Coffee Beans, Milk, Cream, Sugar",TRUE,5
+63,COF0063,Macchiato,484.58,70,Cinnamon,Hot,Large,472,"Chocolate, Milk, Tea Leaves, Cream, Coffee Beans",FALSE,2.6
+64,COF0064,Cappuccino,133.69,68,Hazelnut,Cold,Medium,196,"Coffee Beans, Chocolate, Ice, Tea Leaves, Milk",TRUE,2.3
+65,COF0065,Espresso,102.73,130,Cinnamon,Hot,Medium,423,"Milk, Sugar",TRUE,4.1
+66,COF0066,Masala Chai,263.61,156,Mint,Cold,Medium,373,"Spices, Cream, Chocolate, Milk, Ice",FALSE,3.8
+67,COF0067,Frappuccino,104.11,80,Vanilla,Blended,Large,331,"Tea Leaves, Milk, Sugar",TRUE,2.4
+68,COF0068,Americano,210.99,53,Cardamom,Cold,Small,272,"Tea Leaves, Cream, Milk",TRUE,1.2
+69,COF0069,Masala Chai,422.96,165,Caramel,Hot,Medium,226,"Ice, Coffee Beans, Spices",FALSE,2.3
+70,COF0070,Choco Frappe,100.68,21,None,Blended,Small,382,"Ice, Spices, Cream, Tea Leaves",FALSE,4.8
+71,COF0071,Mocha,228.41,145,Cardamom,Cold,Small,149,"Spices, Ice, Coffee Beans",FALSE,2.8
+72,COF0072,Cappuccino,181.94,43,Cinnamon,Hot,Large,231,"Milk, Ice, Sugar",FALSE,2.6
+73,COF0073,Frappuccino,453.54,137,Cardamom,Blended,Large,321,"Tea Leaves, Spices, Coffee Beans, Cream, Milk",FALSE,3.7
+74,COF0074,Masala Chai,143.43,118,Vanilla,Iced,Large,414,"Tea Leaves, Ice, Coffee Beans",TRUE,2.4
+75,COF0075,Iced Latte,74.33,96,Caramel,Hot,Medium,244,"Spices, Sugar, Milk",FALSE,2.6
+76,COF0076,Macchiato,259.35,174,Caramel,Hot,Large,310,"Tea Leaves, Milk, Spices, Cream, Chocolate",TRUE,4
+77,COF0077,Cappuccino,328.06,123,Cardamom,Hot,Small,135,"Milk, Sugar, Cream",TRUE,1.1
+78,COF0078,Frappuccino,329.41,65,Cardamom,Cold,Small,295,"Chocolate, Cream, Ice, Sugar, Coffee Beans",FALSE,4.8
+79,COF0079,Choco Frappe,251.72,106,Cinnamon,Cold,Large,286,"Cream, Ice",TRUE,2.4
+80,COF0080,Macchiato,465.42,55,Cinnamon,Blended,Medium,226,"Chocolate, Spices",TRUE,1.9
+81,COF0081,Frappuccino,393.16,139,Mint,Cold,Medium,385,"Tea Leaves, Ice, Chocolate, Milk, Spices",TRUE,1.9
+82,COF0082,Mocha,253.22,113,Cinnamon,Hot,Large,281,"Coffee Beans, Tea Leaves, Ice, Sugar",TRUE,3.4
+83,COF0083,Espresso,383.3,97,Hazelnut,Blended,Small,142,"Milk, Coffee Beans",TRUE,2.1
+84,COF0084,Macchiato,130.01,79,Vanilla,Blended,Large,304,"Cream, Coffee Beans, Spices",TRUE,3.8
+85,COF0085,Frappuccino,375.72,121,None,Blended,Small,362,"Spices, Chocolate, Ice",TRUE,1.7
+86,COF0086,Americano,471.5,121,Mint,Hot,Small,383,"Tea Leaves, Sugar",TRUE,2.6
+87,COF0087,Macchiato,237.07,113,Cardamom,Cold,Medium,493,"Spices, Coffee Beans, Cream, Chocolate, Milk",FALSE,2.4
+88,COF0088,Macchiato,475.67,136,Mint,Blended,Medium,210,"Spices, Coffee Beans, Tea Leaves, Chocolate, Milk",TRUE,1.2
+89,COF0089,Mocha,384.52,69,Cinnamon,Cold,Small,190,"Chocolate, Tea Leaves, Cream, Spices, Milk",TRUE,4.1
+90,COF0090,Americano,475.43,170,Mint,Cold,Small,391,"Chocolate, Tea Leaves, Milk, Cream, Sugar",FALSE,2
+91,COF0091,Cappuccino,484.74,35,Hazelnut,Hot,Large,288,"Ice, Spices, Tea Leaves, Coffee Beans",TRUE,4.2
+92,COF0092,Iced Latte,414.97,29,Mint,Cold,Medium,441,"Chocolate, Spices, Ice, Cream",FALSE,1.8
+93,COF0093,Macchiato,174.92,58,Hazelnut,Iced,Small,215,"Sugar, Tea Leaves",TRUE,3.3
+94,COF0094,Mocha,289.75,185,Chocolate,Cold,Medium,223,"Sugar, Cream",TRUE,3.8
+95,COF0095,Macchiato,359.81,163,Cardamom,Cold,Medium,141,"Milk, Tea Leaves, Cream, Chocolate, Ice",TRUE,3.3
+96,COF0096,Espresso,395.2,42,Hazelnut,Cold,Small,435,"Coffee Beans, Cream",TRUE,4.7
+97,COF0097,Americano,240.79,63,Vanilla,Hot,Large,437,"Sugar, Ice, Coffee Beans, Tea Leaves",TRUE,4.5
+98,COF0098,Cappuccino,186.1,112,Chocolate,Hot,Medium,276,"Sugar, Cream, Chocolate, Ice",TRUE,2.2
+99,COF0099,Masala Chai,219.66,67,Mint,Iced,Large,287,"Cream, Sugar, Tea Leaves",TRUE,4.2
+100,COF0100,Americano,103.77,151,Mint,Blended,Medium,341,"Coffee Beans, Milk",FALSE,4
+101,COF0101,Iced Latte,139.63,168,Caramel,Iced,Small,197,"Milk, Cream, Ice",FALSE,4.6
+102,COF0102,Frappuccino,130.86,160,Hazelnut,Iced,Small,207,"Coffee Beans, Tea Leaves, Cream, Ice",FALSE,4.7
+103,COF0103,Macchiato,203.66,144,Cardamom,Blended,Medium,148,"Milk, Cream",FALSE,3.4
+104,COF0104,Espresso,419.58,119,Cinnamon,Cold,Small,430,"Ice, Sugar, Spices",FALSE,4.3
+105,COF0105,Choco Frappe,248.19,151,Chocolate,Iced,Large,438,"Chocolate, Cream",TRUE,4.4
+106,COF0106,Masala Chai,278.44,50,Cardamom,Hot,Medium,260,"Cream, Sugar, Coffee Beans",TRUE,3.8
+107,COF0107,Macchiato,71.7,38,Cardamom,Iced,Small,419,"Chocolate, Cream, Coffee Beans, Sugar",TRUE,4.5
+108,COF0108,Latte,137.29,89,Mint,Hot,Small,326,"Coffee Beans, Spices, Milk, Cream",FALSE,3.5
+109,COF0109,Cappuccino,403.03,32,Hazelnut,Cold,Large,387,"Tea Leaves, Coffee Beans, Cream",TRUE,2.5
+110,COF0110,Mocha,306.84,145,Hazelnut,Cold,Medium,159,"Tea Leaves, Sugar, Spices, Coffee Beans, Chocolate",FALSE,1.4
+111,COF0111,Espresso,455.68,99,Hazelnut,Iced,Medium,173,"Coffee Beans, Milk, Tea Leaves, Ice",FALSE,1.3
+112,COF0112,Choco Frappe,244.36,61,Hazelnut,Iced,Small,203,"Spices, Cream, Chocolate, Milk",TRUE,2
+113,COF0113,Americano,237.44,71,Mint,Cold,Large,433,"Coffee Beans, Chocolate, Spices, Ice",TRUE,1.9
+114,COF0114,Latte,176.38,23,Hazelnut,Cold,Small,289,"Cream, Coffee Beans",TRUE,2.7
+115,COF0115,Macchiato,360.22,160,Hazelnut,Cold,Medium,187,"Coffee Beans, Tea Leaves",TRUE,3.6
+116,COF0116,Masala Chai,457.61,155,Caramel,Hot,Medium,485,"Cream, Ice, Spices, Sugar",TRUE,2.5
+117,COF0117,Cappuccino,189.2,155,Cinnamon,Blended,Small,492,"Cream, Ice, Chocolate",FALSE,3.9
+118,COF0118,Cappuccino,387.22,103,Hazelnut,Iced,Medium,193,"Ice, Spices, Cream, Sugar",TRUE,2.5
+119,COF0119,Masala Chai,445.6,39,Mint,Cold,Medium,373,"Chocolate, Coffee Beans",TRUE,3.7
+120,COF0120,Mocha,70.28,153,Hazelnut,Cold,Small,497,"Ice, Cream, Spices",FALSE,3.6
+121,COF0121,Iced Latte,268.19,90,Cardamom,Cold,Large,142,"Spices, Milk, Tea Leaves, Sugar",FALSE,2.4
+122,COF0122,Cappuccino,312.54,107,None,Cold,Large,337,"Spices, Sugar, Milk, Tea Leaves, Chocolate",TRUE,4.6
+123,COF0123,Americano,484.5,74,Cardamom,Iced,Large,204,"Tea Leaves, Chocolate, Ice, Coffee Beans, Spices",TRUE,4.2
+124,COF0124,Cappuccino,429.18,160,Cardamom,Cold,Small,173,"Chocolate, Milk, Spices",TRUE,3
+125,COF0125,Macchiato,319.71,138,Vanilla,Blended,Large,146,"Ice, Cream, Spices",TRUE,1.3
+126,COF0126,Iced Latte,256.26,155,Chocolate,Blended,Large,222,"Spices, Ice",TRUE,4.4
+127,COF0127,Masala Chai,157.14,143,None,Blended,Medium,486,"Tea Leaves, Coffee Beans",FALSE,4
+128,COF0128,Masala Chai,438.14,112,Chocolate,Hot,Medium,415,"Tea Leaves, Spices",FALSE,2.9
+129,COF0129,Macchiato,224.52,62,Vanilla,Blended,Large,296,"Cream, Coffee Beans, Ice, Sugar, Milk",TRUE,3.4
+130,COF0130,Masala Chai,70.15,20,Mint,Hot,Large,319,"Tea Leaves, Ice, Chocolate",FALSE,3.5
+131,COF0131,Macchiato,245.21,111,Cinnamon,Cold,Small,247,"Ice, Sugar, Spices",FALSE,4.7
+132,COF0132,Latte,400.86,128,None,Hot,Large,401,"Ice, Cream, Coffee Beans",TRUE,2.2
+133,COF0133,Iced Latte,89.56,67,Cardamom,Cold,Medium,100,"Chocolate, Sugar, Tea Leaves, Coffee Beans",TRUE,4.4
+134,COF0134,Americano,258.75,96,None,Blended,Medium,140,"Tea Leaves, Milk, Cream, Sugar",FALSE,2.8
+135,COF0135,Americano,147.32,190,Cardamom,Iced,Small,109,"Milk, Ice",FALSE,1.1
+136,COF0136,Choco Frappe,215.06,75,Hazelnut,Blended,Medium,218,"Spices, Coffee Beans",TRUE,1.4
+137,COF0137,Latte,338.43,132,Cinnamon,Cold,Medium,181,"Spices, Milk, Coffee Beans",TRUE,3.2
+138,COF0138,Cappuccino,459.2,148,Chocolate,Hot,Large,159,"Coffee Beans, Ice, Cream",FALSE,2.7
+139,COF0139,Macchiato,174.04,136,Mint,Cold,Large,476,"Ice, Sugar, Tea Leaves, Coffee Beans",TRUE,3.3
+140,COF0140,Choco Frappe,167.94,162,Chocolate,Cold,Small,305,"Spices, Ice, Tea Leaves",FALSE,3.1
+141,COF0141,Macchiato,489.71,122,None,Hot,Small,428,"Coffee Beans, Sugar",TRUE,1.9
+142,COF0142,Frappuccino,478.92,105,Caramel,Iced,Large,302,"Coffee Beans, Chocolate, Tea Leaves, Sugar, Cream",TRUE,1.9
+143,COF0143,Macchiato,127.37,199,Hazelnut,Iced,Small,302,"Chocolate, Milk, Coffee Beans",FALSE,1.6
+144,COF0144,Espresso,344.75,154,Vanilla,Blended,Small,381,"Chocolate, Cream, Milk, Spices",FALSE,4.4
+145,COF0145,Mocha,221.73,147,Chocolate,Cold,Medium,381,"Coffee Beans, Cream, Ice",FALSE,5
+146,COF0146,Iced Latte,474.18,107,Cardamom,Iced,Large,414,"Sugar, Ice, Coffee Beans",TRUE,3.1
+147,COF0147,Mocha,326.23,165,None,Cold,Medium,217,"Tea Leaves, Chocolate, Cream, Coffee Beans, Sugar",FALSE,4
+148,COF0148,Espresso,104.71,72,Hazelnut,Cold,Small,411,"Sugar, Ice, Milk, Chocolate",FALSE,1.6
+149,COF0149,Cappuccino,363.82,18,None,Cold,Medium,249,"Sugar, Milk",FALSE,1.9
+150,COF0150,Iced Latte,256.54,65,Cinnamon,Blended,Large,173,"Spices, Ice, Sugar, Coffee Beans",TRUE,1.2
+151,COF0151,Frappuccino,211.38,115,None,Blended,Large,150,"Tea Leaves, Milk, Spices",TRUE,3.9
+152,COF0152,Americano,107.66,25,Mint,Iced,Large,283,"Tea Leaves, Cream",TRUE,1.4
+153,COF0153,Choco Frappe,474.04,21,None,Hot,Large,257,"Chocolate, Spices",TRUE,1.2
+154,COF0154,Frappuccino,442.93,122,Hazelnut,Hot,Large,152,"Ice, Coffee Beans, Milk",TRUE,1.2
+155,COF0155,Cappuccino,203.2,33,None,Cold,Medium,426,"Tea Leaves, Milk, Coffee Beans, Spices",TRUE,3
+156,COF0156,Americano,218.69,43,Cinnamon,Blended,Small,318,"Spices, Sugar, Tea Leaves",TRUE,2.3
+157,COF0157,Mocha,329.91,23,Cardamom,Cold,Small,352,"Ice, Milk",FALSE,1.8
+158,COF0158,Espresso,126.14,152,Mint,Iced,Medium,455,"Coffee Beans, Tea Leaves, Milk, Sugar, Cream",FALSE,3.7
+159,COF0159,Americano,133.62,141,Cardamom,Hot,Small,460,"Ice, Milk",FALSE,4.8
+160,COF0160,Latte,348.52,43,Mint,Blended,Large,284,"Ice, Sugar, Milk",FALSE,2.1
+161,COF0161,Macchiato,403.34,52,Caramel,Iced,Medium,325,"Coffee Beans, Ice, Chocolate",FALSE,2.9
+162,COF0162,Latte,499.76,93,Cardamom,Hot,Large,461,"Chocolate, Coffee Beans, Spices",TRUE,1.7
+163,COF0163,Frappuccino,274.83,88,Hazelnut,Iced,Small,415,"Coffee Beans, Milk, Ice, Cream",FALSE,1.4
+164,COF0164,Choco Frappe,111.97,31,Cardamom,Cold,Medium,270,"Coffee Beans, Milk, Cream, Spices, Sugar",FALSE,3.9
+165,COF0165,Espresso,435.3,145,Caramel,Hot,Large,444,"Milk, Chocolate",TRUE,3.8
+166,COF0166,Macchiato,165.13,120,Caramel,Cold,Medium,313,"Tea Leaves, Milk, Chocolate, Cream, Spices",FALSE,1.6
+167,COF0167,Mocha,438.46,166,Vanilla,Iced,Large,294,"Cream, Spices, Milk, Tea Leaves, Coffee Beans",TRUE,3
+168,COF0168,Mocha,455.35,106,Mint,Iced,Small,384,"Coffee Beans, Milk",FALSE,2.8
+169,COF0169,Mocha,70.52,162,Caramel,Hot,Small,220,"Milk, Chocolate, Spices",TRUE,2
+170,COF0170,Choco Frappe,173.63,28,Caramel,Cold,Medium,201,"Sugar, Milk, Cream",TRUE,2.6
+171,COF0171,Americano,474.95,110,Cinnamon,Hot,Medium,292,"Milk, Ice, Spices, Cream, Sugar",FALSE,2.1
+172,COF0172,Iced Latte,59.42,58,Chocolate,Hot,Large,236,"Milk, Coffee Beans, Chocolate",FALSE,3.8
+173,COF0173,Americano,191.85,114,None,Cold,Medium,428,"Cream, Coffee Beans",TRUE,2.3
+174,COF0174,Cappuccino,209.72,29,Vanilla,Iced,Medium,468,"Spices, Sugar, Chocolate, Cream, Milk",TRUE,1.3
+175,COF0175,Macchiato,250.34,186,Chocolate,Iced,Medium,392,"Coffee Beans, Chocolate, Milk, Cream, Sugar",TRUE,1.4
+176,COF0176,Iced Latte,360.09,109,Vanilla,Cold,Small,315,"Cream, Chocolate, Ice, Milk",FALSE,4.4
+177,COF0177,Macchiato,489.15,41,Hazelnut,Cold,Large,369,"Tea Leaves, Ice",FALSE,4.8
+178,COF0178,Cappuccino,482.29,179,Vanilla,Iced,Small,380,"Coffee Beans, Chocolate, Milk, Cream, Ice",FALSE,2.7
+179,COF0179,Masala Chai,407.75,118,Vanilla,Iced,Medium,286,"Sugar, Coffee Beans, Tea Leaves, Chocolate",TRUE,1.2
+180,COF0180,Mocha,283.4,129,Mint,Iced,Small,185,"Spices, Ice, Cream, Tea Leaves",TRUE,3.1
+181,COF0181,Americano,258.22,119,Caramel,Blended,Medium,484,"Ice, Coffee Beans, Sugar",TRUE,3.2
+182,COF0182,Iced Latte,160.75,173,None,Blended,Large,439,"Spices, Ice, Cream",FALSE,5
+183,COF0183,Espresso,65.81,174,Cardamom,Hot,Small,213,"Chocolate, Tea Leaves, Sugar, Coffee Beans, Cream",FALSE,2.2
+184,COF0184,Mocha,156.47,16,Cinnamon,Blended,Medium,113,"Milk, Cream, Tea Leaves",FALSE,4.4
+185,COF0185,Latte,308.65,30,None,Hot,Small,164,"Milk, Spices, Ice",FALSE,4.3
+186,COF0186,Macchiato,107.18,197,Cardamom,Iced,Large,227,"Sugar, Ice",FALSE,4
+187,COF0187,Choco Frappe,105.66,127,Caramel,Blended,Large,344,"Cream, Spices, Tea Leaves, Chocolate",TRUE,4.5
+188,COF0188,Macchiato,405.33,199,Cardamom,Iced,Large,446,"Spices, Sugar, Milk, Chocolate",TRUE,3.9
+189,COF0189,Latte,132.58,162,Mint,Cold,Large,365,"Coffee Beans, Milk, Sugar",TRUE,3.1
+190,COF0190,Frappuccino,337.13,184,Hazelnut,Hot,Small,492,"Tea Leaves, Sugar",TRUE,2.5
+191,COF0191,Macchiato,418.51,94,Cardamom,Iced,Medium,179,"Chocolate, Tea Leaves",FALSE,1.6
+192,COF0192,Americano,297.33,181,None,Cold,Large,490,"Tea Leaves, Ice, Milk, Sugar",TRUE,3.6
+193,COF0193,Masala Chai,350.5,114,Caramel,Hot,Large,165,"Cream, Tea Leaves, Chocolate, Sugar",FALSE,2.5
+194,COF0194,Macchiato,455.82,159,Mint,Hot,Small,403,"Spices, Tea Leaves, Coffee Beans, Ice, Cream",TRUE,1.7
+195,COF0195,Espresso,279.81,12,Caramel,Cold,Small,478,"Cream, Tea Leaves",FALSE,3.4
+196,COF0196,Masala Chai,224.09,49,Mint,Cold,Medium,168,"Sugar, Coffee Beans, Spices, Chocolate",FALSE,1.3
+197,COF0197,Cappuccino,85.99,144,Hazelnut,Cold,Medium,287,"Sugar, Spices",TRUE,4.1
+198,COF0198,Espresso,445.39,91,Vanilla,Cold,Small,208,"Coffee Beans, Chocolate, Tea Leaves, Milk",TRUE,1.6
+199,COF0199,Masala Chai,141.28,16,Caramel,Iced,Medium,412,"Sugar, Chocolate, Ice",TRUE,3.8
+200,COF0200,Espresso,284.04,52,Caramel,Iced,Medium,448,"Spices, Chocolate, Milk, Tea Leaves, Sugar",TRUE,4.1
+201,COF0201,Macchiato,176.91,14,Hazelnut,Cold,Large,263,"Coffee Beans, Chocolate, Cream, Milk",TRUE,2.9
+202,COF0202,Iced Latte,232.51,26,Caramel,Blended,Large,354,"Coffee Beans, Milk",TRUE,4.9
+203,COF0203,Masala Chai,153.66,161,Hazelnut,Blended,Medium,148,"Cream, Coffee Beans, Chocolate",TRUE,1.9
+204,COF0204,Iced Latte,182.68,50,Vanilla,Cold,Medium,217,"Spices, Coffee Beans, Tea Leaves, Ice",FALSE,4.8
+205,COF0205,Choco Frappe,187.06,64,Chocolate,Cold,Medium,306,"Chocolate, Ice, Spices",FALSE,2.6
+206,COF0206,Masala Chai,209.7,93,Hazelnut,Cold,Small,451,"Milk, Chocolate, Tea Leaves, Coffee Beans",FALSE,2.5
+207,COF0207,Latte,304.1,135,Cardamom,Hot,Small,237,"Ice, Milk, Coffee Beans",FALSE,4.9
+208,COF0208,Masala Chai,98.76,148,Caramel,Hot,Small,292,"Spices, Tea Leaves, Cream, Ice, Milk",FALSE,2.6
+209,COF0209,Choco Frappe,236.06,119,Chocolate,Cold,Large,421,"Tea Leaves, Sugar",FALSE,2.3
+210,COF0210,Macchiato,406.25,32,Cinnamon,Iced,Large,413,"Tea Leaves, Milk, Spices, Sugar, Ice",FALSE,2
+211,COF0211,Frappuccino,304.15,66,Cinnamon,Blended,Large,381,"Coffee Beans, Ice",TRUE,1.3
+212,COF0212,Macchiato,266.15,77,Vanilla,Iced,Small,122,"Milk, Coffee Beans, Ice",FALSE,1.8
+213,COF0213,Espresso,277.69,82,Cardamom,Cold,Medium,265,"Ice, Spices",FALSE,4
+214,COF0214,Americano,119.21,14,Hazelnut,Cold,Medium,294,"Milk, Sugar",FALSE,3.3
+215,COF0215,Iced Latte,245.3,177,None,Iced,Small,344,"Spices, Ice, Chocolate, Coffee Beans",TRUE,4.9
+216,COF0216,Latte,95.51,66,Vanilla,Hot,Large,329,"Chocolate, Ice, Spices, Coffee Beans, Tea Leaves",FALSE,4.6
+217,COF0217,Espresso,140.9,17,Cinnamon,Cold,Small,338,"Spices, Coffee Beans, Milk, Chocolate",TRUE,4.2
+218,COF0218,Macchiato,286.69,121,Chocolate,Hot,Large,351,"Coffee Beans, Sugar",TRUE,2.6
+219,COF0219,Frappuccino,260.59,36,Cinnamon,Hot,Large,477,"Milk, Cream, Sugar, Ice, Tea Leaves",TRUE,3.3
+220,COF0220,Mocha,372.6,100,Vanilla,Blended,Medium,150,"Tea Leaves, Coffee Beans, Ice, Chocolate",FALSE,3.9
+221,COF0221,Espresso,459.15,195,None,Blended,Large,343,"Spices, Coffee Beans, Sugar",FALSE,1.5
+222,COF0222,Espresso,273.15,137,Chocolate,Cold,Large,220,"Spices, Coffee Beans, Tea Leaves, Milk",TRUE,4.1
+223,COF0223,Iced Latte,161.73,175,None,Hot,Medium,126,"Ice, Cream, Spices, Chocolate",FALSE,1.1
+224,COF0224,Choco Frappe,484.62,34,Chocolate,Iced,Medium,179,"Ice, Tea Leaves, Chocolate, Spices",TRUE,3.9
+225,COF0225,Macchiato,194.71,133,Chocolate,Blended,Large,364,"Sugar, Ice, Cream",FALSE,3.1
+226,COF0226,Cappuccino,366.53,111,Vanilla,Blended,Large,141,"Cream, Milk, Tea Leaves, Chocolate",FALSE,4.9
+227,COF0227,Latte,241.19,177,Vanilla,Hot,Medium,260,"Chocolate, Sugar, Cream, Coffee Beans",FALSE,4.5
+228,COF0228,Latte,236.55,38,None,Hot,Large,127,"Cream, Ice, Tea Leaves, Spices, Sugar",FALSE,1.7
+229,COF0229,Frappuccino,453.72,187,Cardamom,Cold,Small,396,"Spices, Coffee Beans, Ice",TRUE,1.2
+230,COF0230,Macchiato,497.7,167,Cardamom,Cold,Small,324,"Milk, Sugar, Chocolate",TRUE,2.8
+231,COF0231,Masala Chai,127.78,65,Cardamom,Hot,Medium,377,"Chocolate, Cream",TRUE,4.3
+232,COF0232,Espresso,256.41,159,Mint,Hot,Large,458,"Milk, Sugar",TRUE,3.9
+233,COF0233,Frappuccino,85.69,157,None,Blended,Medium,172,"Sugar, Milk, Cream",TRUE,2.5
+234,COF0234,Macchiato,432.29,44,Caramel,Hot,Large,270,"Sugar, Coffee Beans, Chocolate, Spices, Cream",FALSE,1.4
+235,COF0235,Choco Frappe,121.54,180,Caramel,Cold,Small,340,"Sugar, Spices, Ice, Chocolate",FALSE,2.1
+236,COF0236,Cappuccino,478.46,61,Caramel,Blended,Small,435,"Spices, Milk, Ice",FALSE,1.3
+237,COF0237,Americano,160.69,64,Cardamom,Iced,Small,320,"Ice, Milk, Coffee Beans, Sugar",TRUE,4.5
+238,COF0238,Macchiato,77.68,187,Vanilla,Blended,Large,275,"Spices, Ice, Milk, Tea Leaves",TRUE,2.4
+239,COF0239,Espresso,205.58,149,None,Iced,Small,327,"Spices, Coffee Beans",TRUE,4.6
+240,COF0240,Latte,408.75,180,Hazelnut,Hot,Medium,264,"Spices, Milk, Cream, Chocolate, Coffee Beans",TRUE,4.9
+241,COF0241,Masala Chai,326.93,113,Cardamom,Cold,Medium,106,"Milk, Cream, Spices, Sugar, Coffee Beans",FALSE,2.5
+242,COF0242,Latte,127.7,83,Hazelnut,Cold,Small,352,"Milk, Sugar",FALSE,1.7
+243,COF0243,Espresso,482.01,200,Mint,Iced,Large,325,"Coffee Beans, Cream, Milk",TRUE,5
+244,COF0244,Cappuccino,250.46,19,None,Cold,Large,300,"Chocolate, Tea Leaves, Spices",TRUE,1.8
+245,COF0245,Latte,267.58,80,Vanilla,Blended,Large,254,"Milk, Tea Leaves, Cream",TRUE,2.2
+246,COF0246,Macchiato,324.62,26,Cinnamon,Iced,Large,340,"Sugar, Milk, Spices, Ice",TRUE,1.5
+247,COF0247,Macchiato,355.29,124,Hazelnut,Cold,Large,343,"Spices, Chocolate, Sugar",TRUE,3.2
+248,COF0248,Americano,56.34,175,Vanilla,Iced,Large,125,"Coffee Beans, Spices",TRUE,4.3
+249,COF0249,Americano,435.32,177,None,Iced,Small,194,"Spices, Coffee Beans, Cream, Chocolate",FALSE,3.2
+250,COF0250,Americano,131.13,161,Caramel,Blended,Medium,237,"Coffee Beans, Cream",FALSE,3.3
+251,COF0251,Frappuccino,85.01,61,Mint,Hot,Small,368,"Spices, Coffee Beans, Tea Leaves, Cream",FALSE,5
+252,COF0252,Frappuccino,98.23,177,Chocolate,Cold,Large,200,"Coffee Beans, Chocolate",TRUE,4.4
+253,COF0253,Cappuccino,186.87,153,Caramel,Hot,Large,269,"Ice, Coffee Beans, Cream",TRUE,4.8
+254,COF0254,Latte,368.5,86,Chocolate,Cold,Large,253,"Ice, Spices, Sugar, Cream, Milk",FALSE,1.1
+255,COF0255,Masala Chai,182.88,123,Chocolate,Blended,Small,321,"Chocolate, Tea Leaves, Spices, Ice, Coffee Beans",TRUE,3.1
+256,COF0256,Mocha,160.07,15,Cardamom,Cold,Small,453,"Milk, Coffee Beans, Tea Leaves, Sugar, Cream",TRUE,2.4
+257,COF0257,Mocha,100.51,132,Caramel,Cold,Large,256,"Sugar, Cream, Chocolate, Spices",FALSE,2.2
+258,COF0258,Cappuccino,300.9,86,Cardamom,Hot,Large,395,"Spices, Tea Leaves, Coffee Beans, Sugar",TRUE,4.6
+259,COF0259,Americano,311.83,51,None,Blended,Medium,285,"Ice, Cream, Sugar",FALSE,2.6
+260,COF0260,Latte,134.05,70,Cinnamon,Iced,Medium,172,"Cream, Coffee Beans, Spices, Sugar, Tea Leaves",TRUE,3.8
+261,COF0261,Cappuccino,273.68,60,Mint,Cold,Large,423,"Milk, Sugar, Chocolate, Cream, Tea Leaves",TRUE,3.4
+262,COF0262,Frappuccino,159.45,90,Chocolate,Blended,Large,425,"Cream, Coffee Beans, Milk, Sugar",TRUE,1.4
+263,COF0263,Mocha,258.68,187,Cinnamon,Cold,Large,434,"Cream, Spices, Sugar, Coffee Beans, Chocolate",FALSE,2.3
+264,COF0264,Cappuccino,369.21,189,Hazelnut,Cold,Small,405,"Milk, Ice",FALSE,3.4
+265,COF0265,Americano,108.79,182,Caramel,Cold,Small,193,"Ice, Milk, Tea Leaves",TRUE,2.5
+266,COF0266,Latte,398.46,123,None,Blended,Large,347,"Spices, Tea Leaves, Sugar, Chocolate",TRUE,2.1
+267,COF0267,Macchiato,198.89,182,Caramel,Iced,Large,131,"Ice, Tea Leaves, Milk",TRUE,4.1
+268,COF0268,Macchiato,405.19,53,Mint,Blended,Medium,465,"Ice, Milk, Chocolate, Tea Leaves",FALSE,4.2
+269,COF0269,Mocha,336,135,None,Iced,Large,200,"Ice, Chocolate",FALSE,2
+270,COF0270,Mocha,213.62,197,Caramel,Hot,Medium,272,"Ice, Milk",FALSE,4.6
+271,COF0271,Cappuccino,172,109,Cardamom,Blended,Small,168,"Ice, Tea Leaves, Coffee Beans, Milk, Chocolate",FALSE,2
+272,COF0272,Frappuccino,259.07,32,Cardamom,Hot,Large,149,"Coffee Beans, Tea Leaves",FALSE,3.1
+273,COF0273,Macchiato,330.99,18,Caramel,Blended,Small,232,"Milk, Ice, Coffee Beans, Cream, Sugar",FALSE,2.7
+274,COF0274,Macchiato,363.37,57,Cinnamon,Iced,Small,322,"Cream, Ice",TRUE,3
+275,COF0275,Macchiato,97.55,146,Hazelnut,Cold,Small,386,"Ice, Spices, Coffee Beans, Milk",FALSE,4.6
+276,COF0276,Masala Chai,434.58,17,Vanilla,Cold,Large,421,"Ice, Spices",FALSE,1.7
+277,COF0277,Latte,396.65,84,Cardamom,Blended,Small,392,"Coffee Beans, Sugar, Tea Leaves",TRUE,2.5
+278,COF0278,Masala Chai,172.41,33,Chocolate,Iced,Small,261,"Coffee Beans, Sugar",TRUE,4.7
+279,COF0279,Iced Latte,361.43,15,Cardamom,Hot,Medium,351,"Tea Leaves, Coffee Beans, Ice, Chocolate",TRUE,3
+280,COF0280,Choco Frappe,72.26,126,Vanilla,Cold,Small,172,"Cream, Sugar, Ice",FALSE,3.8
+281,COF0281,Choco Frappe,393.74,60,None,Cold,Small,214,"Chocolate, Spices",FALSE,5
+282,COF0282,Iced Latte,222.96,194,Vanilla,Blended,Medium,406,"Sugar, Coffee Beans",TRUE,3.5
+283,COF0283,Iced Latte,133.1,143,Mint,Cold,Large,373,"Chocolate, Spices, Tea Leaves, Ice, Milk",TRUE,2.9
+284,COF0284,Macchiato,232.81,70,Vanilla,Hot,Large,474,"Tea Leaves, Sugar, Milk, Chocolate",TRUE,2.2
+285,COF0285,Cappuccino,480.45,123,Hazelnut,Hot,Small,163,"Coffee Beans, Milk, Chocolate, Tea Leaves",TRUE,1.9
+286,COF0286,Choco Frappe,298.66,12,Chocolate,Hot,Medium,310,"Tea Leaves, Milk, Cream, Spices",TRUE,5
+287,COF0287,Macchiato,214.99,133,Cinnamon,Cold,Small,246,"Spices, Cream, Tea Leaves, Sugar, Chocolate",FALSE,1.5
+288,COF0288,Iced Latte,477.21,187,Cinnamon,Blended,Medium,370,"Tea Leaves, Ice, Sugar",TRUE,3.5
+289,COF0289,Espresso,328.56,144,Vanilla,Hot,Large,393,"Spices, Coffee Beans, Chocolate, Milk",FALSE,4.5
+290,COF0290,Iced Latte,239.3,78,Cinnamon,Blended,Small,463,"Sugar, Coffee Beans, Cream, Spices",FALSE,2.1
+291,COF0291,Iced Latte,188.76,50,Mint,Hot,Medium,196,"Milk, Chocolate, Tea Leaves",FALSE,1.4
+292,COF0292,Choco Frappe,170.77,177,None,Hot,Large,302,"Cream, Ice",FALSE,3.9
+293,COF0293,Choco Frappe,142.97,15,Cardamom,Hot,Small,483,"Sugar, Cream",FALSE,4.4
+294,COF0294,Iced Latte,458.97,189,Vanilla,Iced,Medium,343,"Sugar, Coffee Beans, Cream",TRUE,4.3
+295,COF0295,Frappuccino,215.76,68,Caramel,Hot,Small,107,"Milk, Coffee Beans",FALSE,2.5
+296,COF0296,Masala Chai,466.24,143,Cinnamon,Hot,Medium,263,"Milk, Cream",TRUE,3.1
+297,COF0297,Cappuccino,418.67,86,Vanilla,Cold,Large,436,"Coffee Beans, Chocolate, Tea Leaves, Spices",FALSE,1.1
+298,COF0298,Latte,177.25,42,Caramel,Hot,Medium,229,"Coffee Beans, Milk, Chocolate",TRUE,1.3
+299,COF0299,Cappuccino,62.44,177,None,Cold,Small,200,"Sugar, Chocolate, Spices, Coffee Beans, Ice",FALSE,1
+300,COF0300,Macchiato,394.2,10,Vanilla,Blended,Small,269,"Ice, Chocolate, Tea Leaves",TRUE,2
+301,COF0301,Frappuccino,93.08,35,Cardamom,Iced,Small,344,"Spices, Milk",TRUE,3
+302,COF0302,Masala Chai,430.3,195,Hazelnut,Hot,Large,366,"Sugar, Coffee Beans, Spices, Milk",FALSE,2.1
+303,COF0303,Mocha,490.19,138,None,Blended,Small,336,"Sugar, Chocolate",FALSE,2.8
+304,COF0304,Frappuccino,441.14,72,Chocolate,Cold,Large,293,"Sugar, Ice, Milk",FALSE,2.4
+305,COF0305,Latte,364.51,140,None,Hot,Small,191,"Chocolate, Coffee Beans, Tea Leaves, Milk, Spices",FALSE,3.9
+306,COF0306,Espresso,154.49,74,Vanilla,Hot,Large,383,"Ice, Sugar",TRUE,1.9
+307,COF0307,Choco Frappe,480.8,59,Chocolate,Hot,Small,104,"Sugar, Milk, Coffee Beans",TRUE,3.7
+308,COF0308,Mocha,323.19,82,Chocolate,Hot,Small,198,"Ice, Tea Leaves",TRUE,3
+309,COF0309,Iced Latte,395.98,117,Caramel,Hot,Medium,442,"Chocolate, Spices, Cream, Coffee Beans, Sugar",FALSE,1.8
+310,COF0310,Iced Latte,432.23,49,Chocolate,Blended,Large,487,"Milk, Ice, Chocolate, Cream",FALSE,3.9
+311,COF0311,Americano,305.72,16,Cinnamon,Hot,Small,227,"Tea Leaves, Sugar, Cream, Spices",TRUE,1.9
+312,COF0312,Americano,157.47,149,Vanilla,Iced,Large,308,"Milk, Chocolate",FALSE,2.3
+313,COF0313,Iced Latte,209.88,137,Hazelnut,Cold,Small,318,"Coffee Beans, Milk, Chocolate",TRUE,2.7
+314,COF0314,Iced Latte,439.47,56,Hazelnut,Cold,Small,445,"Ice, Cream, Spices, Milk, Tea Leaves",TRUE,4.7
+315,COF0315,Iced Latte,324.13,88,Cinnamon,Blended,Medium,100,"Chocolate, Ice",TRUE,2.2
+316,COF0316,Americano,68.66,173,Hazelnut,Hot,Medium,212,"Tea Leaves, Chocolate, Coffee Beans, Milk, Ice",FALSE,2.3
+317,COF0317,Mocha,221.56,23,None,Blended,Large,390,"Sugar, Coffee Beans, Chocolate, Cream",FALSE,1.6
+318,COF0318,Iced Latte,458.71,197,Cinnamon,Cold,Small,358,"Ice, Tea Leaves, Milk, Cream, Spices",FALSE,3.1
+319,COF0319,Espresso,72.3,34,Caramel,Cold,Small,131,"Tea Leaves, Sugar, Milk, Coffee Beans, Spices",TRUE,1.7
+320,COF0320,Espresso,456.18,104,Vanilla,Blended,Small,398,"Coffee Beans, Chocolate",TRUE,3.9
+321,COF0321,Espresso,366.87,126,Caramel,Blended,Large,383,"Coffee Beans, Tea Leaves, Sugar, Milk, Spices",TRUE,1.4
+322,COF0322,Frappuccino,186.86,184,Mint,Hot,Medium,212,"Tea Leaves, Milk, Chocolate, Sugar, Ice",TRUE,3.3
+323,COF0323,Espresso,435.33,46,Chocolate,Hot,Medium,139,"Ice, Spices",TRUE,4.6
+324,COF0324,Macchiato,299.67,42,Caramel,Iced,Medium,333,"Cream, Coffee Beans, Milk",TRUE,3.6
+325,COF0325,Choco Frappe,147.14,186,Cinnamon,Iced,Medium,354,"Tea Leaves, Sugar, Cream, Milk",FALSE,3.5
+326,COF0326,Latte,160.6,103,Mint,Blended,Large,246,"Chocolate, Coffee Beans, Tea Leaves",FALSE,2.3
+327,COF0327,Latte,70.96,95,Vanilla,Iced,Large,421,"Ice, Cream, Spices, Coffee Beans, Sugar",TRUE,4.7
+328,COF0328,Latte,449.9,99,Cardamom,Iced,Medium,388,"Chocolate, Tea Leaves, Sugar, Ice, Spices",FALSE,2.6
+329,COF0329,Macchiato,267.87,56,Caramel,Hot,Large,369,"Ice, Spices",TRUE,3.4
+330,COF0330,Choco Frappe,380.13,197,None,Cold,Medium,139,"Milk, Sugar, Tea Leaves, Spices, Coffee Beans",FALSE,2.4
+331,COF0331,Espresso,405.9,11,None,Cold,Small,101,"Sugar, Tea Leaves, Cream",FALSE,1.6
+332,COF0332,Cappuccino,56.01,67,Caramel,Blended,Large,366,"Spices, Sugar",FALSE,3.6
+333,COF0333,Iced Latte,61.31,86,Cinnamon,Cold,Small,455,"Sugar, Coffee Beans, Chocolate",TRUE,2.9
+334,COF0334,Choco Frappe,254.21,160,Vanilla,Iced,Small,398,"Ice, Tea Leaves, Sugar",TRUE,2.6
+335,COF0335,Iced Latte,204.08,88,Hazelnut,Cold,Medium,416,"Sugar, Spices, Cream, Milk, Ice",TRUE,2.8
+336,COF0336,Americano,232.84,192,None,Iced,Large,103,"Ice, Sugar",TRUE,4.4
+337,COF0337,Iced Latte,319.87,23,Cinnamon,Iced,Large,314,"Sugar, Cream, Coffee Beans",TRUE,2.6
+338,COF0338,Masala Chai,251.21,97,Vanilla,Blended,Medium,334,"Cream, Coffee Beans, Spices, Ice, Chocolate",FALSE,4.4
+339,COF0339,Latte,299.63,160,Caramel,Cold,Large,277,"Tea Leaves, Milk, Spices, Chocolate",FALSE,2.8
+340,COF0340,Mocha,302.04,77,Vanilla,Iced,Medium,116,"Tea Leaves, Cream, Chocolate, Milk, Coffee Beans",TRUE,4
+341,COF0341,Espresso,466.9,137,Chocolate,Blended,Small,497,"Spices, Cream, Milk, Coffee Beans",TRUE,2.5
+342,COF0342,Mocha,445.43,73,Hazelnut,Iced,Large,110,"Sugar, Coffee Beans, Spices",TRUE,3.5
+343,COF0343,Espresso,289.26,194,Vanilla,Hot,Large,270,"Coffee Beans, Spices, Cream, Chocolate, Ice",FALSE,2.8
+344,COF0344,Mocha,464.36,138,None,Iced,Large,409,"Sugar, Chocolate, Spices",FALSE,2.3
+345,COF0345,Espresso,372.27,190,Cinnamon,Hot,Small,410,"Sugar, Tea Leaves, Cream",TRUE,3.4
+346,COF0346,Frappuccino,173.04,60,Chocolate,Blended,Medium,364,"Spices, Milk, Cream, Coffee Beans, Ice",TRUE,3.6
+347,COF0347,Masala Chai,481.06,114,Caramel,Hot,Medium,310,"Coffee Beans, Spices",TRUE,2.1
+348,COF0348,Masala Chai,468.58,10,Vanilla,Iced,Large,454,"Milk, Spices, Cream, Coffee Beans",TRUE,5
+349,COF0349,Frappuccino,303.89,44,Caramel,Cold,Medium,319,"Coffee Beans, Tea Leaves, Milk, Sugar",FALSE,1.5
+350,COF0350,Mocha,424.39,134,Vanilla,Iced,Large,447,"Milk, Coffee Beans, Cream, Sugar, Spices",TRUE,1.2
+351,COF0351,Macchiato,486.88,33,Vanilla,Cold,Large,434,"Spices, Ice, Cream, Coffee Beans",TRUE,2.8
+352,COF0352,Mocha,177.28,175,Cardamom,Blended,Small,490,"Spices, Milk, Coffee Beans",FALSE,2.8
+353,COF0353,Masala Chai,98.83,169,Cardamom,Hot,Medium,402,"Tea Leaves, Chocolate, Cream",TRUE,3.6
+354,COF0354,Iced Latte,235.02,187,Hazelnut,Iced,Large,146,"Ice, Milk, Coffee Beans, Chocolate, Spices",TRUE,4.1
+355,COF0355,Americano,459.17,138,Chocolate,Iced,Large,357,"Coffee Beans, Spices, Cream, Chocolate",FALSE,2.9
+356,COF0356,Americano,485.71,51,Chocolate,Iced,Large,304,"Coffee Beans, Tea Leaves, Cream, Milk",TRUE,4
+357,COF0357,Americano,260.45,54,Caramel,Hot,Large,175,"Ice, Coffee Beans, Cream",TRUE,2.1
+358,COF0358,Cappuccino,130.32,56,Vanilla,Blended,Small,397,"Chocolate, Tea Leaves, Cream, Ice, Milk",FALSE,3.7
+359,COF0359,Mocha,411.54,84,Vanilla,Cold,Medium,235,"Spices, Sugar, Coffee Beans",FALSE,1.3
+360,COF0360,Cappuccino,354.84,39,Hazelnut,Iced,Medium,233,"Cream, Chocolate, Sugar, Spices, Coffee Beans",TRUE,2.4
+361,COF0361,Americano,112.33,142,Cinnamon,Cold,Medium,173,"Spices, Cream",FALSE,1.5
+362,COF0362,Macchiato,118.81,93,Cardamom,Blended,Medium,170,"Cream, Ice",TRUE,2.8
+363,COF0363,Mocha,150.13,93,Hazelnut,Cold,Large,370,"Tea Leaves, Milk",TRUE,1.6
+364,COF0364,Choco Frappe,228.13,82,Cardamom,Hot,Medium,110,"Cream, Tea Leaves",FALSE,1.8
+365,COF0365,Americano,390.27,157,Vanilla,Iced,Large,293,"Ice, Cream, Coffee Beans, Spices",TRUE,4.3
+366,COF0366,Macchiato,208.32,28,Vanilla,Iced,Small,440,"Spices, Tea Leaves, Coffee Beans, Chocolate",FALSE,5
+367,COF0367,Mocha,470.1,124,Hazelnut,Hot,Large,491,"Tea Leaves, Spices",TRUE,3.1
+368,COF0368,Americano,434.51,13,Caramel,Hot,Small,104,"Milk, Chocolate, Coffee Beans",FALSE,2.2
+369,COF0369,Choco Frappe,71.59,40,Vanilla,Cold,Large,193,"Ice, Coffee Beans",TRUE,1.5
+370,COF0370,Masala Chai,499.17,69,Cardamom,Hot,Small,100,"Tea Leaves, Coffee Beans",TRUE,2.8
+371,COF0371,Americano,57.15,77,Caramel,Cold,Medium,218,"Coffee Beans, Ice, Chocolate, Milk, Sugar",FALSE,4.7
+372,COF0372,Mocha,481.42,14,Hazelnut,Hot,Medium,353,"Ice, Milk, Sugar, Coffee Beans",TRUE,1.4
+373,COF0373,Mocha,462.03,149,Chocolate,Hot,Large,150,"Ice, Milk",TRUE,4.2
+374,COF0374,Macchiato,154.3,144,Chocolate,Blended,Small,150,"Spices, Ice, Chocolate, Coffee Beans, Tea Leaves",TRUE,1.7
+375,COF0375,Mocha,470.35,26,Mint,Hot,Small,165,"Chocolate, Tea Leaves, Spices, Sugar, Ice",TRUE,2
+376,COF0376,Frappuccino,387.22,41,Vanilla,Hot,Large,398,"Tea Leaves, Ice, Milk, Cream",FALSE,1.9
+377,COF0377,Iced Latte,200.76,150,Cinnamon,Blended,Large,121,"Cream, Spices, Chocolate, Milk",FALSE,2.3
+378,COF0378,Mocha,135.85,194,Cinnamon,Hot,Large,282,"Milk, Coffee Beans",TRUE,3.3
+379,COF0379,Latte,132.87,44,None,Cold,Large,104,"Cream, Ice",TRUE,2.4
+380,COF0380,Macchiato,326.23,175,Mint,Hot,Large,235,"Milk, Ice, Sugar, Cream, Chocolate",TRUE,3.7
+381,COF0381,Choco Frappe,359.87,193,Cardamom,Blended,Large,482,"Spices, Chocolate, Milk",TRUE,1.5
+382,COF0382,Espresso,375.51,45,Chocolate,Blended,Small,153,"Cream, Coffee Beans",FALSE,5
+383,COF0383,Frappuccino,97.48,199,Hazelnut,Blended,Large,228,"Spices, Tea Leaves, Sugar, Coffee Beans",TRUE,4.2
+384,COF0384,Frappuccino,261.9,162,Cinnamon,Cold,Large,384,"Tea Leaves, Ice",FALSE,4.2
+385,COF0385,Latte,346.03,117,Vanilla,Hot,Large,240,"Chocolate, Tea Leaves",TRUE,1.2
+386,COF0386,Latte,353.77,108,None,Blended,Medium,124,"Cream, Sugar",TRUE,1.2
+387,COF0387,Mocha,233.9,49,None,Blended,Large,496,"Cream, Chocolate, Tea Leaves, Sugar, Milk",FALSE,1.1
+388,COF0388,Cappuccino,100.31,23,Vanilla,Cold,Small,173,"Spices, Cream",FALSE,4.8
+389,COF0389,Macchiato,363.71,71,None,Hot,Medium,377,"Coffee Beans, Sugar, Milk",TRUE,3.4
+390,COF0390,Frappuccino,418.89,78,Cinnamon,Cold,Large,386,"Spices, Ice",FALSE,2.2
+391,COF0391,Masala Chai,58.59,193,Vanilla,Cold,Medium,450,"Coffee Beans, Chocolate, Ice",FALSE,2.3
+392,COF0392,Cappuccino,282.57,57,None,Blended,Large,198,"Spices, Coffee Beans",TRUE,3.8
+393,COF0393,Iced Latte,366.51,17,Chocolate,Hot,Small,410,"Sugar, Chocolate, Ice",FALSE,1.4
+394,COF0394,Macchiato,274.28,98,Cinnamon,Cold,Medium,196,"Ice, Coffee Beans, Sugar, Tea Leaves, Milk",TRUE,4.9
+395,COF0395,Mocha,311.06,147,Chocolate,Hot,Small,377,"Tea Leaves, Milk",FALSE,1.7
+396,COF0396,Cappuccino,320.98,90,Vanilla,Hot,Medium,320,"Cream, Coffee Beans, Spices",TRUE,2.1
+397,COF0397,Frappuccino,73.9,95,Caramel,Cold,Large,267,"Spices, Cream, Chocolate, Sugar, Coffee Beans",FALSE,2.7
+398,COF0398,Americano,462.96,112,Cardamom,Blended,Large,363,"Spices, Chocolate, Cream, Ice, Tea Leaves",FALSE,2.7
+399,COF0399,Macchiato,482.55,133,Mint,Iced,Small,402,"Ice, Milk",TRUE,1.7
+400,COF0400,Macchiato,425.65,193,Caramel,Blended,Large,225,"Chocolate, Tea Leaves, Coffee Beans, Cream, Sugar",FALSE,3.2
+401,COF0401,Choco Frappe,404.44,98,Cardamom,Cold,Large,182,"Spices, Tea Leaves, Ice, Coffee Beans",TRUE,4
+402,COF0402,Latte,267.5,25,Caramel,Hot,Medium,265,"Spices, Coffee Beans, Tea Leaves",TRUE,3.6
+403,COF0403,Iced Latte,437.72,161,Hazelnut,Blended,Large,364,"Tea Leaves, Sugar, Coffee Beans, Milk, Ice",FALSE,1.9
+404,COF0404,Americano,199.84,75,Hazelnut,Hot,Large,153,"Tea Leaves, Chocolate, Spices, Sugar, Coffee Beans",FALSE,2.4
+405,COF0405,Latte,471.7,106,Cinnamon,Blended,Large,418,"Spices, Tea Leaves, Coffee Beans, Sugar",FALSE,3.7
+406,COF0406,Macchiato,282.61,99,Cinnamon,Cold,Large,403,"Tea Leaves, Cream, Milk",TRUE,3.6
+407,COF0407,Cappuccino,330.41,177,Cardamom,Cold,Small,277,"Spices, Tea Leaves, Milk, Coffee Beans",TRUE,1.1
+408,COF0408,Iced Latte,248.55,26,Cardamom,Cold,Small,476,"Spices, Tea Leaves, Chocolate, Ice",TRUE,2.2
+409,COF0409,Iced Latte,129.8,96,None,Iced,Medium,263,"Milk, Spices, Tea Leaves",TRUE,2.2
+410,COF0410,Iced Latte,112.27,47,Chocolate,Cold,Large,210,"Sugar, Chocolate, Cream",TRUE,3.9
+411,COF0411,Frappuccino,298.49,25,Mint,Iced,Medium,374,"Tea Leaves, Spices",TRUE,4.9
+412,COF0412,Masala Chai,470.42,127,Caramel,Blended,Large,461,"Spices, Tea Leaves, Ice, Chocolate, Coffee Beans",TRUE,4.1
+413,COF0413,Masala Chai,386.01,180,Cardamom,Iced,Medium,140,"Ice, Spices, Sugar",TRUE,2.4
+414,COF0414,Choco Frappe,215.35,35,Chocolate,Blended,Large,208,"Milk, Coffee Beans, Tea Leaves, Sugar, Cream",TRUE,3.2
+415,COF0415,Americano,154.36,112,None,Blended,Medium,474,"Sugar, Ice, Cream",FALSE,4.3
+416,COF0416,Frappuccino,193.71,19,Cinnamon,Hot,Medium,128,"Chocolate, Coffee Beans",TRUE,3.1
+417,COF0417,Espresso,300.77,83,Mint,Cold,Medium,273,"Chocolate, Spices",TRUE,4.3
+418,COF0418,Americano,335.49,172,Vanilla,Blended,Small,497,"Spices, Cream",TRUE,1.9
+419,COF0419,Espresso,264.79,78,Mint,Iced,Medium,143,"Spices, Chocolate",FALSE,4
+420,COF0420,Espresso,316.66,11,None,Cold,Medium,306,"Spices, Sugar",FALSE,2.5
+421,COF0421,Frappuccino,179.49,84,Hazelnut,Iced,Large,113,"Ice, Spices, Chocolate, Coffee Beans",TRUE,4
+422,COF0422,Choco Frappe,468.16,52,Mint,Blended,Large,489,"Tea Leaves, Spices, Cream",FALSE,3
+423,COF0423,Frappuccino,440.23,72,Hazelnut,Iced,Medium,450,"Coffee Beans, Sugar",FALSE,3.7
+424,COF0424,Latte,373.99,137,Chocolate,Blended,Small,432,"Spices, Coffee Beans, Sugar, Cream, Chocolate",FALSE,4.7
+425,COF0425,Americano,189.31,12,Vanilla,Iced,Small,330,"Coffee Beans, Spices, Ice, Milk",FALSE,3.5
+426,COF0426,Choco Frappe,163.52,137,Caramel,Blended,Small,138,"Milk, Ice, Spices",FALSE,4.3
+427,COF0427,Espresso,416.62,13,Chocolate,Blended,Small,107,"Chocolate, Milk, Cream, Coffee Beans",TRUE,4
+428,COF0428,Cappuccino,74.88,200,Hazelnut,Iced,Medium,228,"Ice, Tea Leaves, Coffee Beans",FALSE,1.2
+429,COF0429,Latte,144.3,22,None,Blended,Small,100,"Milk, Cream",TRUE,2.2
+430,COF0430,Choco Frappe,148.08,14,Cinnamon,Hot,Large,268,"Sugar, Coffee Beans, Cream, Milk, Ice",FALSE,2.5
+431,COF0431,Iced Latte,380.54,104,Caramel,Iced,Small,332,"Chocolate, Coffee Beans, Cream, Spices, Sugar",FALSE,1.9
+432,COF0432,Americano,194.91,196,None,Blended,Large,334,"Milk, Sugar, Cream, Ice, Coffee Beans",TRUE,3.9
+433,COF0433,Macchiato,226.47,152,Hazelnut,Iced,Large,213,"Coffee Beans, Chocolate, Spices, Ice, Milk",FALSE,4.7
+434,COF0434,Latte,461.91,194,Chocolate,Cold,Medium,322,"Tea Leaves, Ice, Sugar, Spices",TRUE,1.9
+435,COF0435,Mocha,59.75,90,Mint,Cold,Large,173,"Ice, Cream, Milk, Tea Leaves",FALSE,3.3
+436,COF0436,Choco Frappe,173.4,133,Mint,Hot,Small,212,"Milk, Ice, Spices, Coffee Beans, Sugar",TRUE,4.9
+437,COF0437,Iced Latte,383.46,113,Cinnamon,Cold,Medium,424,"Ice, Milk, Tea Leaves, Spices, Chocolate",FALSE,4.7
+438,COF0438,Iced Latte,377.71,101,Cardamom,Blended,Small,422,"Spices, Milk",FALSE,4.9
+439,COF0439,Masala Chai,316.18,79,Cardamom,Cold,Large,385,"Ice, Chocolate",FALSE,4.1
+440,COF0440,Americano,377.93,60,Mint,Blended,Medium,336,"Ice, Sugar, Spices, Cream",TRUE,3.8
+441,COF0441,Americano,264.78,161,None,Blended,Small,295,"Spices, Ice",TRUE,3.2
+442,COF0442,Frappuccino,65.52,80,Mint,Cold,Medium,187,"Sugar, Tea Leaves, Ice, Chocolate, Cream",FALSE,2.8
+443,COF0443,Espresso,161.29,136,Mint,Cold,Small,326,"Milk, Chocolate, Spices",FALSE,3
+444,COF0444,Macchiato,441.85,199,None,Cold,Medium,332,"Coffee Beans, Cream, Ice, Spices, Milk",FALSE,4.2
+445,COF0445,Cappuccino,383.59,189,Caramel,Hot,Medium,420,"Milk, Coffee Beans, Chocolate",FALSE,1.4
+446,COF0446,Americano,386.72,26,Caramel,Cold,Medium,173,"Ice, Milk, Chocolate, Sugar, Tea Leaves",FALSE,1.1
+447,COF0447,Espresso,482.74,189,Cardamom,Blended,Medium,115,"Coffee Beans, Sugar, Ice, Milk",FALSE,3.8
+448,COF0448,Espresso,341.91,38,Cinnamon,Iced,Large,498,"Tea Leaves, Milk, Spices, Ice",TRUE,3.7
+449,COF0449,Mocha,275.12,44,None,Hot,Small,270,"Spices, Cream, Milk, Ice",FALSE,1
+450,COF0450,Iced Latte,194.04,80,Cinnamon,Blended,Small,138,"Tea Leaves, Chocolate, Cream",TRUE,3.8
+451,COF0451,Mocha,130.62,128,Mint,Cold,Large,391,"Chocolate, Milk",FALSE,1.7
+452,COF0452,Espresso,82.83,151,Caramel,Cold,Large,452,"Coffee Beans, Milk, Tea Leaves",TRUE,1.9
+453,COF0453,Macchiato,291.25,34,Vanilla,Iced,Small,249,"Cream, Sugar",TRUE,4.9
+454,COF0454,Americano,393.4,12,Cardamom,Iced,Medium,253,"Milk, Chocolate, Ice, Spices, Sugar",TRUE,2
+455,COF0455,Frappuccino,118.37,163,Hazelnut,Hot,Large,277,"Spices, Ice",TRUE,1.1
+456,COF0456,Americano,466.01,61,Cinnamon,Cold,Medium,386,"Milk, Spices, Chocolate, Sugar",TRUE,2
+457,COF0457,Choco Frappe,481.74,113,Cinnamon,Cold,Large,302,"Cream, Spices, Milk, Chocolate, Coffee Beans",TRUE,1.3
+458,COF0458,Mocha,388.91,57,Cinnamon,Hot,Medium,492,"Ice, Chocolate, Coffee Beans",FALSE,4.6
+459,COF0459,Macchiato,245.28,27,Chocolate,Iced,Large,441,"Spices, Coffee Beans, Cream",FALSE,1.3
+460,COF0460,Espresso,150.99,53,Caramel,Cold,Small,146,"Sugar, Chocolate",FALSE,1.3
+461,COF0461,Choco Frappe,57.34,94,Mint,Hot,Small,109,"Cream, Chocolate",TRUE,3
+462,COF0462,Latte,204.97,54,Cardamom,Iced,Medium,167,"Ice, Spices",TRUE,3.1
+463,COF0463,Iced Latte,64.23,99,Caramel,Hot,Medium,379,"Spices, Sugar, Chocolate, Ice, Milk",TRUE,1.4
+464,COF0464,Iced Latte,478.14,167,Hazelnut,Blended,Small,337,"Milk, Spices, Chocolate",FALSE,3.8
+465,COF0465,Mocha,108.86,172,Chocolate,Cold,Medium,396,"Cream, Spices, Milk, Chocolate, Sugar",TRUE,1.2
+466,COF0466,Americano,305.27,142,Vanilla,Blended,Large,491,"Sugar, Chocolate, Spices, Tea Leaves",FALSE,3.4
+467,COF0467,Espresso,305.37,200,Cardamom,Cold,Medium,109,"Chocolate, Cream, Sugar",TRUE,2
+468,COF0468,Iced Latte,482.3,117,None,Blended,Large,288,"Tea Leaves, Spices, Chocolate, Milk",FALSE,3.4
+469,COF0469,Americano,104.48,57,Mint,Iced,Large,383,"Ice, Coffee Beans",TRUE,3.8
+470,COF0470,Cappuccino,375.65,57,None,Hot,Large,329,"Chocolate, Coffee Beans, Ice",TRUE,2.6
+471,COF0471,Iced Latte,449.63,75,Vanilla,Cold,Medium,181,"Chocolate, Milk, Coffee Beans, Spices, Cream",FALSE,1.9
+472,COF0472,Masala Chai,477.99,161,Cinnamon,Blended,Medium,393,"Spices, Coffee Beans",FALSE,3.2
+473,COF0473,Choco Frappe,466.4,61,Mint,Cold,Large,183,"Milk, Tea Leaves, Spices, Sugar, Coffee Beans",FALSE,1.9
+474,COF0474,Masala Chai,382.76,168,Mint,Iced,Small,204,"Milk, Sugar, Tea Leaves",TRUE,3.7
+475,COF0475,Frappuccino,423.54,63,Hazelnut,Blended,Medium,106,"Coffee Beans, Chocolate, Cream",FALSE,3.4
+476,COF0476,Mocha,337.3,70,Chocolate,Hot,Large,261,"Milk, Chocolate, Cream, Tea Leaves, Ice",FALSE,4.3
+477,COF0477,Espresso,463.9,89,Mint,Cold,Small,374,"Sugar, Chocolate, Tea Leaves, Coffee Beans, Ice",TRUE,3.6
+478,COF0478,Masala Chai,446.05,174,Cardamom,Blended,Small,460,"Milk, Cream, Ice, Coffee Beans",TRUE,3.1
+479,COF0479,Mocha,214.66,44,Cinnamon,Blended,Large,259,"Milk, Chocolate, Spices",TRUE,3.3
+480,COF0480,Latte,101.35,96,Vanilla,Blended,Large,429,"Tea Leaves, Coffee Beans",TRUE,1.2
+481,COF0481,Frappuccino,408.28,29,Chocolate,Iced,Medium,365,"Milk, Coffee Beans",FALSE,3.8
+482,COF0482,Macchiato,74.35,69,Chocolate,Cold,Medium,419,"Coffee Beans, Milk, Tea Leaves",FALSE,1.6
+483,COF0483,Mocha,298.44,23,Cardamom,Iced,Medium,177,"Chocolate, Ice, Coffee Beans, Sugar",TRUE,1.1
+484,COF0484,Frappuccino,328.55,193,Cardamom,Blended,Small,197,"Cream, Milk, Sugar",FALSE,3.9
+485,COF0485,Iced Latte,234.58,118,Caramel,Blended,Small,305,"Coffee Beans, Cream",FALSE,2.5
+486,COF0486,Latte,284.65,107,Hazelnut,Hot,Small,131,"Spices, Sugar, Milk, Chocolate, Coffee Beans",FALSE,4.6
+487,COF0487,Cappuccino,98.39,148,Mint,Cold,Medium,233,"Cream, Chocolate, Ice",FALSE,4.5
+488,COF0488,Cappuccino,157.67,42,Caramel,Blended,Medium,125,"Chocolate, Sugar, Spices, Tea Leaves, Cream",TRUE,3.9
+489,COF0489,Iced Latte,289.92,22,None,Blended,Small,378,"Ice, Chocolate, Milk, Tea Leaves, Cream",FALSE,3.1
+490,COF0490,Choco Frappe,108.3,185,Vanilla,Iced,Large,346,"Tea Leaves, Chocolate, Coffee Beans, Milk, Ice",TRUE,4.6
+491,COF0491,Iced Latte,442.87,179,Hazelnut,Hot,Small,210,"Tea Leaves, Milk",FALSE,2.5
+492,COF0492,Espresso,249.05,195,Mint,Hot,Medium,150,"Cream, Sugar, Chocolate, Coffee Beans",TRUE,4.3
+493,COF0493,Latte,120.57,54,Cardamom,Cold,Small,433,"Cream, Spices",FALSE,2.5
+494,COF0494,Cappuccino,73.99,112,Hazelnut,Blended,Small,221,"Coffee Beans, Tea Leaves, Ice",TRUE,4.2
+495,COF0495,Americano,357.01,58,Mint,Iced,Small,169,"Ice, Spices, Chocolate",TRUE,2.3
+496,COF0496,Iced Latte,443.62,93,Cardamom,Cold,Large,233,"Coffee Beans, Cream, Ice, Chocolate",TRUE,3
+497,COF0497,Latte,239.92,162,Cinnamon,Cold,Medium,328,"Coffee Beans, Chocolate, Spices, Sugar, Ice",TRUE,1.7
+498,COF0498,Choco Frappe,335.18,99,None,Cold,Large,358,"Coffee Beans, Spices",FALSE,2.9
+499,COF0499,Mocha,263.35,158,Vanilla,Hot,Medium,111,"Tea Leaves, Cream",TRUE,2.9
+500,COF0500,Mocha,111.66,95,Vanilla,Iced,Large,365,"Coffee Beans, Tea Leaves, Spices, Milk, Sugar",FALSE,4.7
+501,COF0501,Iced Latte,301.43,192,Mint,Iced,Small,336,"Spices, Milk",TRUE,2.3
+502,COF0502,Choco Frappe,409.6,58,Vanilla,Cold,Large,318,"Cream, Spices",TRUE,1.8
+503,COF0503,Macchiato,346.16,162,Cardamom,Iced,Large,278,"Milk, Tea Leaves, Chocolate, Coffee Beans",FALSE,2.2
+504,COF0504,Americano,348.64,134,Cinnamon,Hot,Small,200,"Sugar, Ice",TRUE,2.1
+505,COF0505,Latte,359.48,200,Caramel,Iced,Medium,105,"Cream, Coffee Beans, Chocolate, Spices, Sugar",TRUE,2.5
+506,COF0506,Americano,104.23,124,Cinnamon,Iced,Small,120,"Ice, Sugar, Milk",TRUE,3.7
+507,COF0507,Mocha,70.14,109,Cinnamon,Blended,Small,121,"Spices, Chocolate, Coffee Beans",FALSE,3.4
+508,COF0508,Masala Chai,395.88,139,Vanilla,Hot,Small,250,"Chocolate, Tea Leaves, Milk, Cream, Spices",FALSE,4.1
+509,COF0509,Choco Frappe,371.98,56,Hazelnut,Cold,Medium,117,"Milk, Sugar, Chocolate, Coffee Beans",FALSE,3.8
+510,COF0510,Iced Latte,418.69,180,None,Iced,Small,484,"Cream, Chocolate, Spices, Sugar, Milk",TRUE,1
+511,COF0511,Frappuccino,83.18,115,None,Cold,Large,121,"Tea Leaves, Cream, Sugar, Ice, Milk",TRUE,2.3
+512,COF0512,Espresso,490.57,171,Hazelnut,Blended,Large,104,"Chocolate, Spices, Ice, Sugar",TRUE,3
+513,COF0513,Espresso,198.51,27,Hazelnut,Hot,Small,128,"Milk, Cream",FALSE,4.1
+514,COF0514,Cappuccino,169.3,173,Mint,Iced,Large,382,"Coffee Beans, Cream, Ice, Spices",TRUE,2.8
+515,COF0515,Espresso,101.44,179,Mint,Hot,Large,490,"Sugar, Spices, Ice, Chocolate, Cream",FALSE,2.3
+516,COF0516,Masala Chai,240.61,43,None,Cold,Large,128,"Sugar, Ice",TRUE,1.8
+517,COF0517,Frappuccino,68.95,31,Caramel,Iced,Small,373,"Spices, Ice, Chocolate, Coffee Beans, Tea Leaves",FALSE,1.5
+518,COF0518,Mocha,125.4,97,Caramel,Iced,Medium,283,"Coffee Beans, Milk, Cream, Chocolate, Tea Leaves",FALSE,4.3
+519,COF0519,Espresso,170.41,194,Vanilla,Cold,Small,467,"Tea Leaves, Spices, Milk",TRUE,3
+520,COF0520,Cappuccino,86.43,42,Chocolate,Hot,Large,284,"Milk, Spices",TRUE,4
+521,COF0521,Frappuccino,359.1,38,Cinnamon,Iced,Medium,177,"Milk, Sugar, Chocolate, Coffee Beans",TRUE,1.9
+522,COF0522,Espresso,466.82,66,Chocolate,Iced,Small,100,"Tea Leaves, Cream, Spices, Chocolate",FALSE,2.1
+523,COF0523,Mocha,57.15,172,Caramel,Hot,Large,401,"Sugar, Ice",TRUE,3.2
+524,COF0524,Americano,485.28,41,Cinnamon,Blended,Small,113,"Ice, Milk, Spices, Tea Leaves",FALSE,1.7
+525,COF0525,Choco Frappe,328.29,171,None,Iced,Large,178,"Ice, Chocolate",FALSE,3.7
+526,COF0526,Choco Frappe,425.68,163,Cinnamon,Cold,Medium,457,"Tea Leaves, Ice, Coffee Beans",FALSE,4.1
+527,COF0527,Masala Chai,140.08,111,Cardamom,Iced,Medium,489,"Milk, Chocolate",FALSE,1.9
+528,COF0528,Espresso,178.34,127,Vanilla,Blended,Medium,300,"Tea Leaves, Ice, Coffee Beans",TRUE,1.2
+529,COF0529,Latte,80.01,15,Cardamom,Blended,Medium,219,"Chocolate, Milk",TRUE,4.6
+530,COF0530,Choco Frappe,261.99,64,Hazelnut,Blended,Small,150,"Chocolate, Milk, Coffee Beans, Sugar",FALSE,1.4
+531,COF0531,Espresso,363.66,106,Mint,Blended,Small,149,"Coffee Beans, Sugar, Chocolate, Milk",FALSE,4.2
+532,COF0532,Iced Latte,486.28,67,Cardamom,Blended,Small,102,"Spices, Ice",FALSE,2.2
+533,COF0533,Americano,309.07,59,Mint,Cold,Large,107,"Chocolate, Ice, Milk, Tea Leaves",TRUE,1.7
+534,COF0534,Latte,102.86,175,Cardamom,Hot,Large,175,"Sugar, Cream, Tea Leaves, Spices, Milk",FALSE,3
+535,COF0535,Frappuccino,147.36,115,None,Blended,Medium,477,"Milk, Ice",TRUE,3.5
+536,COF0536,Masala Chai,468.74,141,Vanilla,Iced,Medium,215,"Sugar, Spices, Tea Leaves",TRUE,1.4
+537,COF0537,Iced Latte,158.58,29,Hazelnut,Cold,Medium,228,"Ice, Tea Leaves, Milk, Sugar",FALSE,4.3
+538,COF0538,Mocha,319.07,58,Vanilla,Cold,Large,209,"Tea Leaves, Sugar, Cream",FALSE,3.8
+539,COF0539,Frappuccino,420.49,165,Vanilla,Cold,Small,161,"Sugar, Tea Leaves, Coffee Beans, Chocolate",FALSE,1.8
+540,COF0540,Cappuccino,197.77,15,None,Cold,Large,150,"Chocolate, Coffee Beans, Sugar, Tea Leaves, Spices",TRUE,1.9
+541,COF0541,Latte,344.44,89,Chocolate,Cold,Medium,411,"Chocolate, Spices, Milk, Ice",FALSE,1.2
+542,COF0542,Cappuccino,231.37,31,Vanilla,Blended,Large,274,"Spices, Coffee Beans, Sugar",FALSE,1.5
+543,COF0543,Frappuccino,464.46,39,None,Iced,Medium,213,"Coffee Beans, Chocolate, Sugar, Milk",FALSE,3.1
+544,COF0544,Choco Frappe,135.86,193,None,Cold,Medium,387,"Ice, Chocolate, Cream, Tea Leaves",TRUE,4.9
+545,COF0545,Iced Latte,69.87,28,Caramel,Blended,Small,414,"Ice, Coffee Beans, Tea Leaves, Spices",FALSE,1.4
+546,COF0546,Choco Frappe,131.68,105,Chocolate,Blended,Small,157,"Cream, Spices, Milk, Coffee Beans, Chocolate",TRUE,4
+547,COF0547,Macchiato,121.15,98,Chocolate,Hot,Large,337,"Cream, Chocolate, Coffee Beans, Tea Leaves, Sugar",FALSE,3.4
+548,COF0548,Macchiato,493.31,138,Vanilla,Hot,Large,417,"Ice, Cream",FALSE,4
+549,COF0549,Masala Chai,91.49,111,Cinnamon,Hot,Medium,323,"Sugar, Cream",FALSE,4.5
+550,COF0550,Choco Frappe,351.57,168,Vanilla,Hot,Large,156,"Cream, Milk, Chocolate, Coffee Beans, Tea Leaves",FALSE,3.1
+551,COF0551,Espresso,189.93,128,Cinnamon,Blended,Medium,286,"Sugar, Milk, Ice",TRUE,4.6
+552,COF0552,Iced Latte,408.66,161,Mint,Blended,Large,374,"Coffee Beans, Chocolate, Ice, Milk, Spices",FALSE,3.5
+553,COF0553,Iced Latte,348.3,164,None,Iced,Large,482,"Chocolate, Ice, Sugar",TRUE,2.6
+554,COF0554,Espresso,119.25,191,Hazelnut,Hot,Medium,262,"Ice, Coffee Beans, Tea Leaves, Milk",TRUE,4.2
+555,COF0555,Masala Chai,204.42,68,Chocolate,Cold,Small,175,"Spices, Chocolate, Tea Leaves, Milk",FALSE,4
+556,COF0556,Cappuccino,164.96,36,Hazelnut,Iced,Small,486,"Sugar, Tea Leaves, Chocolate",TRUE,3.1
+557,COF0557,Masala Chai,130.1,104,Caramel,Hot,Large,274,"Sugar, Chocolate, Milk, Cream",FALSE,1.6
+558,COF0558,Frappuccino,486.56,119,Chocolate,Cold,Medium,315,"Tea Leaves, Ice, Spices",FALSE,1.3
+559,COF0559,Frappuccino,233.65,62,Hazelnut,Cold,Medium,416,"Sugar, Milk",FALSE,3.2
+560,COF0560,Latte,290.68,70,Cardamom,Cold,Medium,442,"Spices, Cream",TRUE,3.6
+561,COF0561,Latte,275.29,89,None,Cold,Small,216,"Sugar, Ice, Coffee Beans, Tea Leaves",FALSE,3
+562,COF0562,Macchiato,420.17,30,Hazelnut,Blended,Large,203,"Ice, Cream, Milk",FALSE,1.3
+563,COF0563,Espresso,434.54,20,Vanilla,Hot,Medium,365,"Chocolate, Cream, Coffee Beans, Milk, Sugar",TRUE,2.3
+564,COF0564,Mocha,183.71,129,Vanilla,Cold,Medium,248,"Tea Leaves, Milk, Coffee Beans, Sugar, Cream",TRUE,2.4
+565,COF0565,Masala Chai,349.45,190,Caramel,Blended,Small,326,"Tea Leaves, Sugar, Coffee Beans, Spices",FALSE,3.3
+566,COF0566,Choco Frappe,355.39,193,Cardamom,Cold,Large,424,"Tea Leaves, Sugar, Spices",FALSE,2.9
+567,COF0567,Latte,89.67,123,Mint,Blended,Medium,400,"Cream, Tea Leaves",FALSE,2.6
+568,COF0568,Macchiato,237.42,31,Chocolate,Hot,Small,151,"Sugar, Tea Leaves, Chocolate",TRUE,3.6
+569,COF0569,Iced Latte,253.97,34,Caramel,Iced,Medium,458,"Sugar, Tea Leaves",TRUE,2.1
+570,COF0570,Choco Frappe,228.25,17,None,Blended,Medium,326,"Coffee Beans, Cream, Milk, Chocolate, Tea Leaves",FALSE,2.3
+571,COF0571,Espresso,67.13,181,None,Hot,Small,209,"Coffee Beans, Chocolate, Sugar, Spices, Ice",TRUE,2.8
+572,COF0572,Latte,331.08,157,Cardamom,Cold,Medium,118,"Ice, Tea Leaves",TRUE,4.9
+573,COF0573,Macchiato,124.36,154,Hazelnut,Cold,Small,356,"Sugar, Ice, Coffee Beans",FALSE,4.5
+574,COF0574,Macchiato,220.18,51,Vanilla,Hot,Medium,407,"Coffee Beans, Tea Leaves, Ice, Sugar",TRUE,4.3
+575,COF0575,Cappuccino,429.24,188,None,Iced,Medium,355,"Tea Leaves, Cream, Sugar",FALSE,4.9
+576,COF0576,Mocha,470.06,164,Chocolate,Blended,Small,493,"Tea Leaves, Cream, Coffee Beans",TRUE,4.4
+577,COF0577,Latte,377.82,51,Caramel,Iced,Medium,381,"Ice, Spices",TRUE,1.3
+578,COF0578,Mocha,350.71,13,Vanilla,Hot,Medium,327,"Coffee Beans, Ice",TRUE,4.7
+579,COF0579,Masala Chai,272.94,150,Caramel,Iced,Large,360,"Sugar, Spices, Milk, Tea Leaves, Ice",TRUE,1.8
+580,COF0580,Macchiato,392.43,146,Cinnamon,Cold,Large,194,"Tea Leaves, Cream, Sugar, Ice",TRUE,4.7
+581,COF0581,Latte,85.47,149,Caramel,Blended,Small,237,"Tea Leaves, Coffee Beans",TRUE,1.8
+582,COF0582,Espresso,238.53,53,Caramel,Cold,Large,100,"Milk, Chocolate, Spices",TRUE,4.8
+583,COF0583,Macchiato,260.06,50,None,Hot,Medium,432,"Chocolate, Milk",FALSE,2.2
+584,COF0584,Latte,362.38,94,Chocolate,Blended,Medium,296,"Sugar, Ice",TRUE,1.7
+585,COF0585,Iced Latte,461.7,75,Chocolate,Cold,Small,427,"Tea Leaves, Milk",FALSE,3.7
+586,COF0586,Mocha,69.15,109,Cardamom,Cold,Medium,289,"Tea Leaves, Coffee Beans, Sugar, Spices",FALSE,4.4
+587,COF0587,Americano,361.86,16,Hazelnut,Cold,Medium,329,"Coffee Beans, Sugar, Cream, Spices, Tea Leaves",TRUE,4.1
+588,COF0588,Iced Latte,335.2,90,Vanilla,Cold,Medium,304,"Cream, Coffee Beans, Milk, Tea Leaves, Sugar",TRUE,4.4
+589,COF0589,Masala Chai,170.21,164,Hazelnut,Blended,Small,348,"Cream, Ice, Coffee Beans, Milk",TRUE,1.2
+590,COF0590,Mocha,341.94,167,Cinnamon,Blended,Small,454,"Tea Leaves, Ice, Coffee Beans, Chocolate, Milk",TRUE,4.3
+591,COF0591,Latte,424.83,117,Vanilla,Blended,Medium,132,"Coffee Beans, Chocolate, Ice, Tea Leaves, Cream",TRUE,2.1
+592,COF0592,Iced Latte,256.14,46,Cardamom,Blended,Large,261,"Milk, Cream, Sugar, Spices, Tea Leaves",TRUE,2.5
+593,COF0593,Mocha,480.04,91,Vanilla,Hot,Medium,175,"Coffee Beans, Spices",FALSE,1.6
+594,COF0594,Americano,344.35,25,Cinnamon,Iced,Large,239,"Coffee Beans, Ice, Milk, Chocolate",FALSE,3.7
+595,COF0595,Frappuccino,474.46,181,Vanilla,Iced,Medium,477,"Chocolate, Tea Leaves",TRUE,1.7
+596,COF0596,Macchiato,468.97,53,Cardamom,Blended,Small,206,"Coffee Beans, Tea Leaves, Ice",TRUE,3.5
+597,COF0597,Choco Frappe,229.01,22,Vanilla,Cold,Medium,338,"Ice, Coffee Beans, Chocolate, Cream, Tea Leaves",TRUE,2.7
+598,COF0598,Espresso,152.56,31,Vanilla,Iced,Large,255,"Tea Leaves, Milk",FALSE,2.7
+599,COF0599,Choco Frappe,359.77,139,Caramel,Iced,Medium,181,"Ice, Sugar, Cream",TRUE,2.3
+600,COF0600,Espresso,313.41,12,Mint,Blended,Small,282,"Sugar, Cream, Chocolate, Ice",TRUE,2.5
+601,COF0601,Iced Latte,328.43,143,Caramel,Cold,Medium,472,"Sugar, Chocolate, Cream, Milk",TRUE,3.4
+602,COF0602,Masala Chai,354.33,153,Chocolate,Cold,Small,312,"Spices, Chocolate, Cream, Tea Leaves",FALSE,4.8
+603,COF0603,Masala Chai,390.28,163,Cinnamon,Blended,Large,459,"Cream, Ice, Sugar, Coffee Beans",TRUE,1.2
+604,COF0604,Americano,300.08,37,Cinnamon,Hot,Large,247,"Coffee Beans, Spices",TRUE,1.8
+605,COF0605,Choco Frappe,459.69,160,Hazelnut,Hot,Large,153,"Chocolate, Spices, Tea Leaves, Sugar, Cream",TRUE,1.1
+606,COF0606,Espresso,316.46,10,Mint,Cold,Medium,251,"Ice, Cream, Milk, Tea Leaves, Spices",TRUE,4.3
+607,COF0607,Mocha,384.39,61,Vanilla,Iced,Large,333,"Chocolate, Sugar, Spices",FALSE,1
+608,COF0608,Iced Latte,142.03,132,Cinnamon,Iced,Medium,199,"Sugar, Coffee Beans, Chocolate, Ice, Cream",TRUE,2.5
+609,COF0609,Iced Latte,360.33,107,Cinnamon,Cold,Small,278,"Sugar, Chocolate",FALSE,4.8
+610,COF0610,Iced Latte,426.42,97,Mint,Cold,Small,279,"Spices, Coffee Beans, Milk, Chocolate, Ice",FALSE,4.3
+611,COF0611,Latte,238.08,54,None,Cold,Medium,349,"Cream, Sugar, Spices",FALSE,4.9
+612,COF0612,Mocha,211.48,114,Mint,Blended,Medium,392,"Tea Leaves, Milk",TRUE,3.4
+613,COF0613,Choco Frappe,151.46,106,Chocolate,Cold,Large,388,"Coffee Beans, Ice, Sugar, Tea Leaves, Milk",TRUE,3.7
+614,COF0614,Mocha,176.3,178,Chocolate,Blended,Medium,407,"Tea Leaves, Ice, Chocolate",FALSE,3
+615,COF0615,Mocha,380.02,161,Cardamom,Iced,Large,472,"Coffee Beans, Cream, Chocolate, Tea Leaves",TRUE,2.3
+616,COF0616,Americano,253.68,27,Cinnamon,Iced,Small,477,"Sugar, Chocolate, Milk",TRUE,4.3
+617,COF0617,Cappuccino,390.7,92,Cardamom,Iced,Medium,474,"Tea Leaves, Cream, Spices",TRUE,3.7
+618,COF0618,Macchiato,289.67,133,None,Hot,Large,295,"Tea Leaves, Coffee Beans, Ice, Milk",TRUE,2.7
+619,COF0619,Mocha,479.37,128,Chocolate,Cold,Large,408,"Sugar, Cream, Spices, Ice, Milk",FALSE,4.7
+620,COF0620,Choco Frappe,182.91,180,Chocolate,Iced,Small,193,"Spices, Coffee Beans",TRUE,3.2
+621,COF0621,Masala Chai,355.09,135,Cardamom,Blended,Medium,251,"Chocolate, Cream",TRUE,1.9
+622,COF0622,Cappuccino,163.12,49,Vanilla,Iced,Small,326,"Cream, Chocolate",TRUE,2
+623,COF0623,Frappuccino,458.73,83,Mint,Hot,Medium,401,"Chocolate, Cream",TRUE,1.3
+624,COF0624,Latte,320.04,120,Mint,Cold,Medium,324,"Chocolate, Tea Leaves, Cream",FALSE,4.2
+625,COF0625,Americano,263.86,196,Cinnamon,Hot,Small,216,"Ice, Coffee Beans, Tea Leaves",FALSE,1.6
+626,COF0626,Latte,66.08,95,Mint,Iced,Large,272,"Tea Leaves, Spices, Coffee Beans, Cream",TRUE,2.8
+627,COF0627,Choco Frappe,226.58,188,Cinnamon,Blended,Large,420,"Sugar, Tea Leaves, Ice",FALSE,1.2
+628,COF0628,Choco Frappe,455.52,65,Chocolate,Blended,Small,390,"Ice, Coffee Beans",FALSE,3
+629,COF0629,Choco Frappe,109.31,32,Cardamom,Iced,Medium,471,"Cream, Coffee Beans, Ice, Spices",FALSE,4.4
+630,COF0630,Iced Latte,420.82,185,Caramel,Cold,Large,135,"Coffee Beans, Milk, Spices, Sugar, Tea Leaves",FALSE,2.1
+631,COF0631,Americano,436.68,125,Chocolate,Hot,Large,414,"Coffee Beans, Sugar",TRUE,3
+632,COF0632,Cappuccino,249.62,170,Chocolate,Iced,Large,134,"Tea Leaves, Chocolate, Coffee Beans, Milk, Cream",FALSE,1.2
+633,COF0633,Latte,381.74,82,Caramel,Iced,Small,178,"Chocolate, Spices, Cream, Tea Leaves, Sugar",TRUE,1.4
+634,COF0634,Frappuccino,257.34,177,Hazelnut,Cold,Large,355,"Spices, Milk",TRUE,1.4
+635,COF0635,Masala Chai,449.93,46,Chocolate,Hot,Large,298,"Tea Leaves, Milk, Cream, Sugar",FALSE,4.4
+636,COF0636,Americano,215.52,151,Cardamom,Iced,Small,347,"Tea Leaves, Ice, Chocolate, Coffee Beans",TRUE,1.3
+637,COF0637,Latte,413.97,104,Vanilla,Iced,Large,402,"Ice, Sugar",FALSE,2.7
+638,COF0638,Americano,382.33,24,Hazelnut,Blended,Medium,228,"Chocolate, Coffee Beans, Cream, Spices",FALSE,1.8
+639,COF0639,Americano,449.93,30,Vanilla,Hot,Large,182,"Sugar, Milk, Spices, Tea Leaves",TRUE,2
+640,COF0640,Masala Chai,373.57,125,Mint,Cold,Large,108,"Milk, Sugar, Ice, Spices",TRUE,4.5
+641,COF0641,Americano,118.65,181,None,Blended,Medium,489,"Spices, Tea Leaves, Coffee Beans",TRUE,2.4
+642,COF0642,Latte,469.4,19,Cardamom,Cold,Large,105,"Tea Leaves, Milk, Coffee Beans, Sugar",TRUE,1.5
+643,COF0643,Cappuccino,180.27,77,Vanilla,Cold,Small,493,"Coffee Beans, Tea Leaves, Sugar",FALSE,4.2
+644,COF0644,Masala Chai,240.65,20,Cardamom,Iced,Small,421,"Milk, Cream, Spices",TRUE,3
+645,COF0645,Mocha,234.29,64,Cardamom,Blended,Medium,296,"Tea Leaves, Milk, Ice, Chocolate",FALSE,4.6
+646,COF0646,Latte,208.05,158,Cinnamon,Cold,Large,276,"Ice, Cream, Coffee Beans, Spices",TRUE,5
+647,COF0647,Choco Frappe,498.45,28,None,Iced,Small,469,"Coffee Beans, Tea Leaves, Cream",FALSE,3.8
+648,COF0648,Americano,102.79,166,Caramel,Blended,Small,377,"Sugar, Coffee Beans, Cream",TRUE,1.9
+649,COF0649,Frappuccino,173.2,165,Cinnamon,Iced,Large,406,"Ice, Milk, Chocolate, Tea Leaves",FALSE,1.8
+650,COF0650,Latte,335.41,158,Mint,Blended,Large,478,"Ice, Coffee Beans, Milk",TRUE,2.8
+651,COF0651,Mocha,377.91,134,Mint,Hot,Medium,377,"Coffee Beans, Milk",TRUE,1.8
+652,COF0652,Cappuccino,217.25,157,Mint,Cold,Medium,497,"Ice, Spices, Milk, Sugar, Tea Leaves",FALSE,1.1
+653,COF0653,Masala Chai,226.97,46,Mint,Iced,Large,421,"Sugar, Milk",FALSE,1.1
+654,COF0654,Choco Frappe,340.98,68,Cinnamon,Hot,Small,302,"Spices, Ice, Sugar",FALSE,4.5
+655,COF0655,Espresso,356.71,109,Chocolate,Iced,Large,446,"Coffee Beans, Chocolate, Cream",FALSE,3.8
+656,COF0656,Iced Latte,452.2,40,Vanilla,Hot,Medium,377,"Cream, Ice, Sugar",TRUE,2
+657,COF0657,Espresso,452.49,120,Hazelnut,Blended,Medium,213,"Tea Leaves, Spices, Cream",TRUE,1.9
+658,COF0658,Frappuccino,128.04,120,Mint,Blended,Small,303,"Coffee Beans, Cream",FALSE,1.4
+659,COF0659,Masala Chai,316.12,169,Cinnamon,Iced,Small,196,"Ice, Milk, Tea Leaves",TRUE,1.5
+660,COF0660,Macchiato,275.81,63,None,Blended,Medium,103,"Milk, Tea Leaves, Spices",FALSE,3.7
+661,COF0661,Iced Latte,323.07,168,Chocolate,Blended,Large,344,"Chocolate, Sugar, Milk, Coffee Beans, Cream",FALSE,1.2
+662,COF0662,Americano,174.1,91,Vanilla,Iced,Medium,155,"Milk, Coffee Beans, Chocolate",FALSE,1.2
+663,COF0663,Americano,346.52,106,Vanilla,Iced,Medium,335,"Milk, Sugar, Cream",TRUE,2
+664,COF0664,Frappuccino,307.2,46,None,Blended,Large,437,"Milk, Ice, Chocolate, Cream",TRUE,2.5
+665,COF0665,Masala Chai,375.18,105,Mint,Blended,Medium,150,"Tea Leaves, Coffee Beans, Milk, Spices, Cream",FALSE,2
+666,COF0666,Macchiato,106.55,149,Hazelnut,Iced,Medium,410,"Spices, Ice",FALSE,2.1
+667,COF0667,Americano,211.27,121,Cinnamon,Cold,Large,184,"Spices, Chocolate",FALSE,2.8
+668,COF0668,Americano,114.81,138,Cinnamon,Cold,Medium,146,"Tea Leaves, Ice, Sugar, Cream, Coffee Beans",TRUE,3.9
+669,COF0669,Latte,156.22,131,None,Hot,Medium,449,"Sugar, Spices",FALSE,5
+670,COF0670,Frappuccino,89.85,64,Hazelnut,Hot,Large,226,"Tea Leaves, Coffee Beans, Cream, Chocolate, Sugar",TRUE,4
+671,COF0671,Choco Frappe,461.97,97,Vanilla,Blended,Medium,274,"Chocolate, Sugar, Tea Leaves, Cream, Milk",FALSE,3.5
+672,COF0672,Macchiato,497.58,13,None,Blended,Medium,312,"Sugar, Spices, Ice",TRUE,1.4
+673,COF0673,Cappuccino,55.57,111,Vanilla,Cold,Large,188,"Milk, Sugar",FALSE,3.1
+674,COF0674,Espresso,82.17,102,Vanilla,Blended,Medium,335,"Ice, Cream",FALSE,1.1
+675,COF0675,Espresso,491.56,46,Cinnamon,Iced,Small,169,"Tea Leaves, Cream, Coffee Beans, Ice",TRUE,3.9
+676,COF0676,Frappuccino,247.45,67,Mint,Blended,Small,194,"Spices, Cream, Milk, Ice, Coffee Beans",FALSE,1
+677,COF0677,Choco Frappe,371.75,51,Hazelnut,Blended,Small,435,"Milk, Cream",TRUE,2.3
+678,COF0678,Choco Frappe,148.55,113,Chocolate,Hot,Large,335,"Milk, Tea Leaves, Cream, Spices",TRUE,3.7
+679,COF0679,Cappuccino,72.1,103,Vanilla,Iced,Small,424,"Coffee Beans, Milk, Spices, Cream",TRUE,2.9
+680,COF0680,Mocha,398.63,39,Vanilla,Cold,Small,133,"Coffee Beans, Spices, Ice",FALSE,1.6
+681,COF0681,Macchiato,137.79,59,None,Blended,Small,350,"Spices, Ice, Tea Leaves, Chocolate",FALSE,2.7
+682,COF0682,Iced Latte,148.86,176,Hazelnut,Hot,Large,261,"Cream, Ice",FALSE,4.4
+683,COF0683,Frappuccino,300.4,57,Caramel,Blended,Small,186,"Tea Leaves, Ice, Spices, Coffee Beans, Chocolate",FALSE,3.6
+684,COF0684,Masala Chai,120.39,73,Chocolate,Blended,Large,260,"Sugar, Spices, Milk, Chocolate",TRUE,3.4
+685,COF0685,Mocha,230.82,132,Mint,Cold,Large,221,"Sugar, Tea Leaves",TRUE,1.6
+686,COF0686,Mocha,271.76,41,Hazelnut,Blended,Small,321,"Cream, Milk, Tea Leaves",FALSE,4.2
+687,COF0687,Mocha,50.86,30,None,Blended,Small,289,"Milk, Chocolate, Coffee Beans, Tea Leaves",FALSE,4
+688,COF0688,Latte,154.55,184,Cinnamon,Blended,Small,280,"Milk, Spices, Sugar, Tea Leaves",TRUE,1.7
+689,COF0689,Frappuccino,72.1,90,Vanilla,Cold,Large,255,"Ice, Spices, Cream, Coffee Beans",TRUE,3.4
+690,COF0690,Frappuccino,392.4,133,Hazelnut,Hot,Small,415,"Spices, Sugar, Ice, Coffee Beans",FALSE,3.4
+691,COF0691,Masala Chai,363.58,163,Caramel,Cold,Medium,171,"Cream, Ice",FALSE,1.7
+692,COF0692,Frappuccino,492.8,109,Mint,Cold,Medium,334,"Sugar, Coffee Beans",TRUE,3.8
+693,COF0693,Choco Frappe,71.17,31,Hazelnut,Cold,Small,215,"Cream, Ice, Milk, Tea Leaves",FALSE,4.5
+694,COF0694,Espresso,74.69,174,Caramel,Cold,Large,155,"Chocolate, Sugar, Tea Leaves, Milk",TRUE,4.7
+695,COF0695,Americano,492.49,112,Hazelnut,Iced,Large,311,"Cream, Spices",FALSE,3.4
+696,COF0696,Choco Frappe,271.34,127,Hazelnut,Iced,Medium,401,"Coffee Beans, Chocolate, Spices, Cream",FALSE,4.2
+697,COF0697,Latte,332.84,163,Hazelnut,Iced,Large,113,"Chocolate, Coffee Beans, Tea Leaves",FALSE,1.8
+698,COF0698,Americano,126.71,72,Hazelnut,Iced,Medium,305,"Spices, Ice",FALSE,4.7
+699,COF0699,Choco Frappe,214.05,182,Caramel,Cold,Small,215,"Tea Leaves, Coffee Beans, Sugar",TRUE,4.9
+700,COF0700,Latte,276.22,185,Caramel,Iced,Medium,492,"Chocolate, Spices, Cream, Ice, Coffee Beans",FALSE,2.1
+701,COF0701,Frappuccino,195.43,179,Cinnamon,Iced,Medium,235,"Tea Leaves, Milk, Sugar",TRUE,2.5
+702,COF0702,Frappuccino,456.36,83,Caramel,Blended,Small,282,"Ice, Cream, Milk, Tea Leaves",FALSE,3.6
+703,COF0703,Latte,389.74,73,Cardamom,Blended,Large,322,"Cream, Tea Leaves, Milk, Coffee Beans",FALSE,1.2
+704,COF0704,Frappuccino,226.97,124,None,Cold,Large,146,"Milk, Sugar, Chocolate, Ice",FALSE,4.8
+705,COF0705,Cappuccino,429.22,191,Cardamom,Cold,Large,493,"Sugar, Ice",FALSE,2.8
+706,COF0706,Macchiato,108.11,175,Cinnamon,Iced,Medium,420,"Milk, Sugar, Tea Leaves",TRUE,2.5
+707,COF0707,Masala Chai,272.58,145,Vanilla,Cold,Medium,232,"Chocolate, Sugar, Coffee Beans",FALSE,3.5
+708,COF0708,Espresso,210.28,64,Mint,Cold,Medium,492,"Sugar, Cream, Tea Leaves",FALSE,1.2
+709,COF0709,Cappuccino,107.25,144,Caramel,Hot,Small,241,"Cream, Milk, Spices",TRUE,1.8
+710,COF0710,Latte,58.1,134,Mint,Hot,Small,442,"Milk, Cream, Sugar, Ice, Spices",TRUE,4.2
+711,COF0711,Cappuccino,363.5,71,Hazelnut,Iced,Small,441,"Milk, Ice, Cream",FALSE,3.7
+712,COF0712,Masala Chai,223.68,121,Chocolate,Cold,Medium,413,"Chocolate, Cream, Ice, Tea Leaves",TRUE,3.7
+713,COF0713,Frappuccino,192.46,64,Vanilla,Iced,Medium,205,"Coffee Beans, Ice, Spices, Tea Leaves",FALSE,4.5
+714,COF0714,Espresso,106.57,74,None,Blended,Medium,212,"Chocolate, Spices, Tea Leaves, Sugar, Milk",FALSE,4.4
+715,COF0715,Macchiato,89.26,48,Mint,Iced,Medium,455,"Tea Leaves, Chocolate, Ice",FALSE,4.6
+716,COF0716,Masala Chai,425.35,183,Hazelnut,Iced,Large,143,"Ice, Tea Leaves, Cream",TRUE,4.4
+717,COF0717,Mocha,102.25,126,Cinnamon,Hot,Small,115,"Spices, Milk",FALSE,2.8
+718,COF0718,Latte,239.34,105,None,Cold,Small,337,"Milk, Chocolate, Tea Leaves",FALSE,2.6
+719,COF0719,Choco Frappe,64.04,23,Cardamom,Hot,Large,220,"Chocolate, Sugar",TRUE,2.2
+720,COF0720,Americano,335.66,159,Mint,Iced,Medium,454,"Cream, Milk, Chocolate, Spices",FALSE,2.5
+721,COF0721,Macchiato,85.33,37,None,Hot,Small,332,"Milk, Ice, Sugar, Spices",TRUE,3.9
+722,COF0722,Iced Latte,310.89,116,Cinnamon,Hot,Medium,108,"Sugar, Tea Leaves",FALSE,2.7
+723,COF0723,Americano,128.24,22,Cinnamon,Blended,Medium,452,"Ice, Cream",TRUE,4.1
+724,COF0724,Espresso,218.85,154,Cardamom,Iced,Large,233,"Ice, Cream, Chocolate, Milk, Coffee Beans",FALSE,3.7
+725,COF0725,Latte,98.09,134,Cinnamon,Cold,Medium,372,"Chocolate, Coffee Beans, Spices",FALSE,1.4
+726,COF0726,Macchiato,110.69,182,Cardamom,Iced,Medium,176,"Coffee Beans, Chocolate, Ice, Cream",FALSE,1.4
+727,COF0727,Iced Latte,174.15,107,Hazelnut,Hot,Medium,323,"Spices, Cream",TRUE,1.3
+728,COF0728,Espresso,113.55,170,Vanilla,Blended,Small,421,"Ice, Spices, Coffee Beans",TRUE,3.3
+729,COF0729,Mocha,368.68,115,None,Blended,Small,148,"Milk, Spices, Sugar",TRUE,1.4
+730,COF0730,Masala Chai,444.91,11,Cardamom,Cold,Small,497,"Sugar, Ice, Cream, Spices, Chocolate",TRUE,3.2
+731,COF0731,Macchiato,469.18,31,None,Hot,Large,252,"Sugar, Coffee Beans",FALSE,2
+732,COF0732,Masala Chai,457.62,80,Cardamom,Hot,Medium,292,"Milk, Ice",FALSE,2.5
+733,COF0733,Latte,449.29,42,None,Cold,Medium,194,"Sugar, Ice, Coffee Beans, Chocolate",TRUE,2.2
+734,COF0734,Iced Latte,480.39,72,Chocolate,Hot,Small,411,"Spices, Milk, Chocolate, Coffee Beans",TRUE,4.5
+735,COF0735,Choco Frappe,265.38,112,Vanilla,Hot,Medium,132,"Ice, Sugar",TRUE,3.9
+736,COF0736,Espresso,388.55,157,None,Hot,Large,369,"Spices, Chocolate, Milk",TRUE,3.2
+737,COF0737,Cappuccino,58.05,198,None,Hot,Small,185,"Tea Leaves, Spices",FALSE,3.1
+738,COF0738,Cappuccino,188.92,82,Caramel,Cold,Large,196,"Coffee Beans, Spices",FALSE,1.4
+739,COF0739,Mocha,367.16,142,Chocolate,Cold,Small,437,"Tea Leaves, Milk, Sugar, Ice, Cream",TRUE,2.9
+740,COF0740,Cappuccino,191.7,133,Mint,Blended,Small,359,"Chocolate, Sugar, Milk",TRUE,3
+741,COF0741,Latte,447.55,120,None,Cold,Large,483,"Sugar, Tea Leaves, Chocolate, Coffee Beans, Milk",FALSE,2.4
+742,COF0742,Latte,404.4,92,Mint,Cold,Large,266,"Cream, Tea Leaves, Spices, Coffee Beans, Chocolate",TRUE,2.8
+743,COF0743,Masala Chai,339.95,162,Caramel,Blended,Large,250,"Coffee Beans, Sugar, Spices",FALSE,4.3
+744,COF0744,Frappuccino,231.95,53,None,Blended,Medium,182,"Spices, Coffee Beans, Chocolate, Sugar, Cream",TRUE,4.8
+745,COF0745,Americano,243.39,96,Caramel,Blended,Large,406,"Tea Leaves, Sugar, Cream",TRUE,3.3
+746,COF0746,Masala Chai,484.88,26,Vanilla,Blended,Large,326,"Tea Leaves, Coffee Beans, Chocolate",FALSE,4.5
+747,COF0747,Americano,217.91,54,None,Cold,Small,283,"Spices, Milk",TRUE,4.1
+748,COF0748,Choco Frappe,390.67,106,None,Blended,Small,435,"Chocolate, Milk, Cream, Tea Leaves, Sugar",FALSE,4.1
+749,COF0749,Macchiato,387.68,48,Cardamom,Hot,Medium,300,"Cream, Chocolate, Spices, Tea Leaves, Ice",FALSE,4.6
+750,COF0750,Latte,433.37,150,None,Cold,Large,381,"Cream, Spices, Milk, Ice, Sugar",TRUE,3
+751,COF0751,Macchiato,240.48,131,Cinnamon,Cold,Large,364,"Spices, Cream, Tea Leaves, Sugar, Coffee Beans",FALSE,1.2
+752,COF0752,Frappuccino,400.89,142,Cardamom,Iced,Small,147,"Coffee Beans, Milk",FALSE,4.9
+753,COF0753,Americano,133.59,161,Chocolate,Hot,Medium,476,"Milk, Sugar, Tea Leaves, Chocolate",TRUE,3.7
+754,COF0754,Iced Latte,463.75,147,Chocolate,Iced,Small,265,"Ice, Chocolate, Coffee Beans",TRUE,3.1
+755,COF0755,Macchiato,229.86,160,Cardamom,Iced,Medium,498,"Tea Leaves, Ice, Chocolate",TRUE,2.6
+756,COF0756,Mocha,93.98,117,Caramel,Blended,Small,494,"Coffee Beans, Cream, Chocolate, Sugar",FALSE,1.6
+757,COF0757,Espresso,282.9,49,Vanilla,Cold,Large,106,"Sugar, Chocolate",FALSE,4.2
+758,COF0758,Frappuccino,138.58,19,Chocolate,Blended,Small,308,"Chocolate, Ice, Sugar, Spices, Coffee Beans",TRUE,5
+759,COF0759,Latte,341.89,194,Mint,Iced,Small,396,"Spices, Coffee Beans",FALSE,2.9
+760,COF0760,Cappuccino,111.03,194,Mint,Hot,Small,346,"Chocolate, Spices",FALSE,1.2
+761,COF0761,Cappuccino,142.91,161,Hazelnut,Cold,Small,471,"Chocolate, Milk, Ice, Tea Leaves",FALSE,4.6
+762,COF0762,Masala Chai,384.12,36,None,Blended,Medium,180,"Milk, Coffee Beans, Ice, Sugar, Spices",TRUE,3.2
+763,COF0763,Masala Chai,53.99,189,Vanilla,Blended,Medium,445,"Coffee Beans, Spices, Sugar",TRUE,4.1
+764,COF0764,Iced Latte,291.41,121,Cinnamon,Cold,Medium,333,"Chocolate, Cream, Sugar",TRUE,1.4
+765,COF0765,Americano,123.47,34,Caramel,Cold,Small,222,"Sugar, Ice",TRUE,4.1
+766,COF0766,Macchiato,136.13,106,Caramel,Iced,Medium,289,"Coffee Beans, Spices",TRUE,2.9
+767,COF0767,Masala Chai,276.33,28,Cardamom,Cold,Large,153,"Chocolate, Ice, Coffee Beans, Milk, Cream",TRUE,3.3
+768,COF0768,Mocha,455.29,79,None,Blended,Small,385,"Sugar, Chocolate, Tea Leaves",FALSE,4.7
+769,COF0769,Latte,276.75,24,Caramel,Hot,Small,460,"Cream, Spices",FALSE,1
+770,COF0770,Masala Chai,461.14,52,Hazelnut,Cold,Large,386,"Cream, Chocolate",TRUE,1.8
+771,COF0771,Espresso,213.35,177,Cardamom,Hot,Small,228,"Chocolate, Milk, Ice, Sugar, Cream",FALSE,4.7
+772,COF0772,Latte,199.92,134,Chocolate,Hot,Large,299,"Chocolate, Cream, Ice, Sugar",TRUE,4.5
+773,COF0773,Iced Latte,333.59,123,Caramel,Blended,Small,258,"Coffee Beans, Cream, Milk",TRUE,3.6
+774,COF0774,Mocha,383.22,196,None,Blended,Large,101,"Milk, Chocolate, Spices, Coffee Beans, Ice",FALSE,4.3
+775,COF0775,Macchiato,193.87,198,Chocolate,Hot,Large,170,"Cream, Spices",FALSE,1
+776,COF0776,Macchiato,144.92,60,Chocolate,Iced,Large,260,"Tea Leaves, Milk, Sugar, Coffee Beans, Chocolate",FALSE,1.2
+777,COF0777,Americano,313.85,129,Cardamom,Iced,Medium,367,"Milk, Chocolate",TRUE,2.3
+778,COF0778,Macchiato,152.58,15,Vanilla,Iced,Large,311,"Cream, Milk, Spices",FALSE,1.6
+779,COF0779,Cappuccino,436.06,11,Vanilla,Hot,Medium,290,"Sugar, Chocolate",FALSE,1.2
+780,COF0780,Macchiato,193.73,143,Mint,Cold,Medium,296,"Ice, Coffee Beans, Cream, Milk",TRUE,4.3
+781,COF0781,Americano,113.49,170,Hazelnut,Iced,Medium,413,"Chocolate, Spices",TRUE,1.8
+782,COF0782,Espresso,459.69,192,None,Hot,Small,385,"Spices, Ice",TRUE,1.5
+783,COF0783,Iced Latte,431.07,178,Vanilla,Iced,Large,382,"Tea Leaves, Coffee Beans, Milk, Cream, Sugar",TRUE,4
+784,COF0784,Frappuccino,278.81,172,Chocolate,Cold,Small,188,"Sugar, Coffee Beans, Spices, Milk, Tea Leaves",TRUE,2.8
+785,COF0785,Masala Chai,385.33,97,Vanilla,Hot,Small,342,"Coffee Beans, Cream, Spices",TRUE,3.6
+786,COF0786,Iced Latte,431.74,193,Cardamom,Iced,Large,334,"Spices, Ice, Coffee Beans, Tea Leaves, Cream",FALSE,1.8
+787,COF0787,Macchiato,491.42,189,Vanilla,Iced,Medium,250,"Tea Leaves, Ice, Coffee Beans, Milk",FALSE,1.3
+788,COF0788,Cappuccino,70.17,53,Cinnamon,Iced,Small,372,"Cream, Sugar, Coffee Beans, Milk",FALSE,1.7
+789,COF0789,Americano,482.61,103,Mint,Blended,Medium,401,"Ice, Tea Leaves, Cream, Chocolate, Coffee Beans",FALSE,4.8
+790,COF0790,Macchiato,292.88,175,Cardamom,Hot,Medium,306,"Chocolate, Cream, Ice",FALSE,2.4
+791,COF0791,Cappuccino,304.13,62,Caramel,Hot,Large,296,"Sugar, Tea Leaves, Spices, Cream, Ice",TRUE,3.4
+792,COF0792,Espresso,215.37,115,Mint,Iced,Medium,475,"Spices, Ice, Tea Leaves, Cream",TRUE,3.4
+793,COF0793,Mocha,496.86,130,Vanilla,Hot,Large,271,"Coffee Beans, Spices, Sugar",FALSE,3.8
+794,COF0794,Frappuccino,305.8,154,Chocolate,Cold,Medium,453,"Cream, Sugar, Milk, Coffee Beans",FALSE,3.8
+795,COF0795,Latte,380.91,79,Cinnamon,Hot,Small,381,"Coffee Beans, Sugar",TRUE,4.8
+796,COF0796,Choco Frappe,221.71,140,Mint,Hot,Large,226,"Chocolate, Tea Leaves, Cream, Sugar, Spices",FALSE,4.6
+797,COF0797,Mocha,471.94,71,Vanilla,Hot,Medium,422,"Spices, Sugar, Ice, Coffee Beans",FALSE,4
+798,COF0798,Macchiato,328.43,196,None,Iced,Medium,301,"Cream, Sugar, Coffee Beans",FALSE,2
+799,COF0799,Mocha,410.11,86,Cardamom,Cold,Large,428,"Cream, Coffee Beans, Milk",TRUE,1.9
+800,COF0800,Cappuccino,396.73,31,Hazelnut,Cold,Large,326,"Sugar, Cream, Spices, Tea Leaves",FALSE,4
+801,COF0801,Choco Frappe,257.69,136,Chocolate,Cold,Large,301,"Cream, Tea Leaves, Sugar, Ice",FALSE,4.7
+802,COF0802,Espresso,137.43,26,Caramel,Cold,Large,105,"Tea Leaves, Chocolate, Cream, Ice",TRUE,2
+803,COF0803,Cappuccino,196.36,50,Cardamom,Cold,Small,180,"Tea Leaves, Ice, Coffee Beans",FALSE,4.9
+804,COF0804,Macchiato,389,183,Chocolate,Hot,Small,411,"Tea Leaves, Spices, Cream, Ice, Chocolate",TRUE,2.7
+805,COF0805,Mocha,128.04,82,Chocolate,Cold,Large,469,"Milk, Cream, Sugar, Tea Leaves",TRUE,2.2
+806,COF0806,Americano,111.09,179,Mint,Cold,Medium,171,"Sugar, Ice, Tea Leaves",FALSE,1.9
+807,COF0807,Frappuccino,244.96,85,Vanilla,Hot,Small,324,"Tea Leaves, Milk",TRUE,3.7
+808,COF0808,Americano,369.33,103,Vanilla,Iced,Large,308,"Tea Leaves, Milk, Spices",TRUE,3
+809,COF0809,Masala Chai,66.59,96,Mint,Cold,Small,355,"Coffee Beans, Ice, Tea Leaves, Spices, Chocolate",TRUE,3.6
+810,COF0810,Cappuccino,178.46,144,Mint,Hot,Medium,171,"Milk, Spices, Tea Leaves",TRUE,1.8
+811,COF0811,Macchiato,452.25,169,Caramel,Blended,Small,367,"Ice, Tea Leaves, Spices, Chocolate, Coffee Beans",FALSE,3.1
+812,COF0812,Americano,319.27,22,Hazelnut,Blended,Large,400,"Tea Leaves, Ice, Cream",TRUE,2.1
+813,COF0813,Frappuccino,260.57,91,Mint,Cold,Large,415,"Coffee Beans, Ice, Tea Leaves, Chocolate",FALSE,2.5
+814,COF0814,Espresso,71.93,63,Hazelnut,Hot,Large,324,"Cream, Coffee Beans, Sugar, Chocolate",FALSE,3.1
+815,COF0815,Frappuccino,380.92,167,Caramel,Cold,Large,473,"Tea Leaves, Cream",FALSE,3.8
+816,COF0816,Latte,186.98,142,Chocolate,Cold,Small,136,"Milk, Sugar, Tea Leaves, Spices, Coffee Beans",FALSE,3.7
+817,COF0817,Latte,477.01,193,Mint,Hot,Medium,457,"Tea Leaves, Cream, Spices, Coffee Beans, Ice",TRUE,1.3
+818,COF0818,Latte,85.05,88,Mint,Iced,Small,316,"Chocolate, Tea Leaves, Cream, Milk, Spices",TRUE,4.3
+819,COF0819,Choco Frappe,165.99,122,Chocolate,Hot,Medium,268,"Milk, Coffee Beans, Chocolate, Cream, Sugar",TRUE,3.4
+820,COF0820,Latte,310.22,98,None,Blended,Medium,431,"Chocolate, Milk, Cream, Sugar",TRUE,1.3
+821,COF0821,Latte,197.92,149,Caramel,Hot,Small,294,"Spices, Ice, Sugar, Cream, Chocolate",TRUE,3.6
+822,COF0822,Espresso,408.11,86,Vanilla,Iced,Small,412,"Chocolate, Cream, Coffee Beans",TRUE,2.5
+823,COF0823,Espresso,191.3,157,Hazelnut,Hot,Medium,106,"Ice, Cream, Chocolate, Coffee Beans, Milk",TRUE,2.8
+824,COF0824,Mocha,414.56,37,Vanilla,Iced,Medium,314,"Ice, Milk, Chocolate",FALSE,4.9
+825,COF0825,Americano,288.33,79,Cinnamon,Hot,Small,333,"Ice, Milk",FALSE,3.1
+826,COF0826,Masala Chai,226.24,106,None,Hot,Medium,470,"Tea Leaves, Cream, Chocolate",FALSE,3.7
+827,COF0827,Macchiato,256.96,119,Caramel,Cold,Small,385,"Milk, Ice",FALSE,1.8
+828,COF0828,Mocha,442.5,87,None,Iced,Medium,414,"Tea Leaves, Spices, Cream, Ice, Coffee Beans",FALSE,2.3
+829,COF0829,Mocha,228.6,49,Mint,Hot,Large,178,"Sugar, Cream, Milk, Spices, Ice",TRUE,1.4
+830,COF0830,Americano,383.19,29,Cinnamon,Iced,Large,123,"Milk, Sugar, Ice",FALSE,3.6
+831,COF0831,Macchiato,198.75,50,Hazelnut,Hot,Large,189,"Sugar, Milk",TRUE,2.3
+832,COF0832,Mocha,400.14,41,Cardamom,Cold,Small,305,"Sugar, Milk, Cream",TRUE,3.1
+833,COF0833,Iced Latte,340.61,191,Cinnamon,Hot,Large,233,"Cream, Ice, Tea Leaves, Spices",TRUE,4.7
+834,COF0834,Iced Latte,165.16,146,Mint,Blended,Medium,107,"Cream, Spices",FALSE,2.9
+835,COF0835,Choco Frappe,121.99,153,Caramel,Blended,Small,442,"Spices, Ice, Cream, Chocolate",TRUE,2.4
+836,COF0836,Iced Latte,136.36,116,Chocolate,Hot,Small,121,"Spices, Ice, Coffee Beans, Cream",TRUE,2.5
+837,COF0837,Masala Chai,499.88,51,Mint,Hot,Medium,144,"Coffee Beans, Milk, Sugar, Ice, Spices",TRUE,4.4
+838,COF0838,Mocha,482.38,87,Mint,Hot,Large,154,"Spices, Milk, Coffee Beans, Chocolate, Tea Leaves",FALSE,4.6
+839,COF0839,Americano,181.73,160,Chocolate,Cold,Large,128,"Ice, Sugar",TRUE,1.6
+840,COF0840,Americano,414.99,187,Hazelnut,Blended,Large,207,"Chocolate, Cream, Coffee Beans, Milk, Ice",TRUE,1.5
+841,COF0841,Americano,180.53,186,Cardamom,Hot,Large,158,"Cream, Milk, Tea Leaves",TRUE,3.8
+842,COF0842,Macchiato,231.87,133,Vanilla,Cold,Medium,118,"Milk, Sugar, Coffee Beans, Spices",TRUE,1.8
+843,COF0843,Macchiato,170.04,187,Vanilla,Cold,Medium,163,"Spices, Chocolate, Ice",TRUE,2.3
+844,COF0844,Iced Latte,253.11,17,Caramel,Hot,Large,339,"Chocolate, Milk, Ice",TRUE,3.6
+845,COF0845,Cappuccino,401.46,102,Hazelnut,Hot,Small,360,"Chocolate, Coffee Beans, Milk, Spices",TRUE,3.4
+846,COF0846,Masala Chai,409.52,89,None,Iced,Large,259,"Chocolate, Cream",FALSE,4.5
+847,COF0847,Espresso,232.8,111,Cardamom,Blended,Large,383,"Sugar, Coffee Beans, Chocolate",TRUE,4.7
+848,COF0848,Choco Frappe,357.2,136,Cinnamon,Blended,Small,148,"Cream, Sugar, Milk, Spices",FALSE,3.3
+849,COF0849,Masala Chai,127.04,150,Caramel,Iced,Small,311,"Tea Leaves, Chocolate, Ice, Cream, Sugar",FALSE,4.4
+850,COF0850,Espresso,268.55,21,Hazelnut,Hot,Large,352,"Milk, Coffee Beans, Chocolate, Spices",FALSE,4.2
+851,COF0851,Americano,192.12,106,Vanilla,Cold,Small,194,"Chocolate, Sugar, Milk, Spices, Ice",TRUE,3.1
+852,COF0852,Espresso,323.9,42,Caramel,Iced,Large,219,"Tea Leaves, Sugar, Ice, Cream, Chocolate",TRUE,3.4
+853,COF0853,Choco Frappe,146.02,179,Caramel,Hot,Small,449,"Cream, Spices",TRUE,4.5
+854,COF0854,Masala Chai,490.05,14,Chocolate,Cold,Small,284,"Sugar, Spices, Cream, Tea Leaves",TRUE,3.3
+855,COF0855,Masala Chai,191.33,192,Cinnamon,Blended,Medium,450,"Tea Leaves, Coffee Beans, Milk, Spices, Chocolate",FALSE,2.5
+856,COF0856,Americano,447,138,Caramel,Cold,Large,325,"Spices, Tea Leaves, Cream, Sugar, Chocolate",TRUE,3.7
+857,COF0857,Espresso,472.24,60,Caramel,Iced,Large,140,"Tea Leaves, Sugar, Ice, Chocolate",FALSE,2.9
+858,COF0858,Masala Chai,252.37,176,Vanilla,Cold,Medium,442,"Tea Leaves, Milk",FALSE,1.6
+859,COF0859,Choco Frappe,460.71,45,Chocolate,Blended,Small,444,"Coffee Beans, Milk, Chocolate",FALSE,3.9
+860,COF0860,Frappuccino,453.81,151,Cinnamon,Blended,Small,342,"Coffee Beans, Chocolate",TRUE,2.8
+861,COF0861,Choco Frappe,448.13,140,Vanilla,Cold,Medium,235,"Milk, Chocolate, Coffee Beans, Cream, Ice",FALSE,3.6
+862,COF0862,Latte,410.13,171,Mint,Cold,Large,141,"Ice, Cream, Spices",TRUE,1.4
+863,COF0863,Macchiato,360.19,118,Chocolate,Iced,Large,119,"Chocolate, Coffee Beans",TRUE,4.4
+864,COF0864,Cappuccino,119.43,43,Vanilla,Cold,Medium,440,"Coffee Beans, Cream, Tea Leaves, Chocolate, Spices",FALSE,4
+865,COF0865,Masala Chai,462.35,160,Caramel,Hot,Small,277,"Ice, Coffee Beans, Tea Leaves",FALSE,3.2
+866,COF0866,Cappuccino,403.59,14,Vanilla,Iced,Large,236,"Chocolate, Tea Leaves",TRUE,1.8
+867,COF0867,Masala Chai,170.96,185,Hazelnut,Iced,Small,168,"Coffee Beans, Ice, Spices",FALSE,4.4
+868,COF0868,Masala Chai,371.24,51,Chocolate,Hot,Large,123,"Sugar, Milk",TRUE,2
+869,COF0869,Macchiato,414.73,69,Cardamom,Blended,Medium,494,"Cream, Milk, Tea Leaves",TRUE,4.4
+870,COF0870,Frappuccino,377.64,61,None,Hot,Small,257,"Sugar, Chocolate",TRUE,4.7
+871,COF0871,Americano,316.36,33,Cardamom,Blended,Medium,352,"Sugar, Coffee Beans, Cream, Chocolate",TRUE,3.2
+872,COF0872,Americano,117.12,76,Hazelnut,Blended,Small,147,"Tea Leaves, Milk, Spices",TRUE,4
+873,COF0873,Espresso,323.31,29,Caramel,Hot,Small,336,"Coffee Beans, Milk, Spices, Sugar",FALSE,3.2
+874,COF0874,Mocha,224.98,122,Caramel,Blended,Small,483,"Coffee Beans, Tea Leaves",FALSE,3
+875,COF0875,Latte,476.04,193,Cardamom,Cold,Small,332,"Tea Leaves, Milk, Cream",FALSE,3.2
+876,COF0876,Macchiato,174.36,127,Cardamom,Cold,Large,354,"Milk, Cream, Tea Leaves",TRUE,4
+877,COF0877,Cappuccino,61.22,120,None,Cold,Large,312,"Milk, Ice",FALSE,4.9
+878,COF0878,Masala Chai,104.5,62,Mint,Blended,Large,476,"Coffee Beans, Milk, Chocolate, Ice",FALSE,3.4
+879,COF0879,Iced Latte,477.91,123,Vanilla,Blended,Large,433,"Sugar, Coffee Beans, Ice, Tea Leaves",FALSE,3.2
+880,COF0880,Frappuccino,407.23,75,Mint,Cold,Large,176,"Chocolate, Cream",FALSE,3.8
+881,COF0881,Americano,453.2,68,Hazelnut,Cold,Small,228,"Coffee Beans, Cream, Sugar",TRUE,2.8
+882,COF0882,Macchiato,495.94,91,Caramel,Hot,Medium,331,"Coffee Beans, Cream, Sugar, Milk, Spices",FALSE,4.9
+883,COF0883,Americano,275.14,191,Caramel,Hot,Small,390,"Chocolate, Sugar, Tea Leaves, Coffee Beans, Spices",FALSE,3.3
+884,COF0884,Frappuccino,388.41,75,Cardamom,Hot,Small,371,"Ice, Tea Leaves, Coffee Beans",TRUE,2.9
+885,COF0885,Latte,363.35,138,Hazelnut,Blended,Small,124,"Cream, Chocolate, Sugar, Coffee Beans",FALSE,2.3
+886,COF0886,Americano,462.94,50,Vanilla,Cold,Small,179,"Milk, Ice, Spices, Tea Leaves",FALSE,4.9
+887,COF0887,Iced Latte,203.42,175,Mint,Hot,Small,180,"Tea Leaves, Ice, Spices",TRUE,2.7
+888,COF0888,Americano,80.87,63,Vanilla,Cold,Small,437,"Ice, Chocolate",TRUE,4.6
+889,COF0889,Macchiato,163.37,189,Caramel,Hot,Medium,427,"Milk, Cream, Spices",FALSE,1.9
+890,COF0890,Macchiato,404.14,189,Chocolate,Cold,Small,450,"Tea Leaves, Sugar",TRUE,3.9
+891,COF0891,Choco Frappe,93.08,114,None,Iced,Small,431,"Spices, Coffee Beans, Chocolate, Tea Leaves",FALSE,2
+892,COF0892,Americano,203.07,27,Mint,Iced,Small,374,"Chocolate, Tea Leaves, Spices, Milk",FALSE,2.6
+893,COF0893,Cappuccino,281.85,52,Cardamom,Hot,Large,137,"Milk, Coffee Beans, Tea Leaves",FALSE,4.7
+894,COF0894,Choco Frappe,182.89,92,Vanilla,Blended,Medium,388,"Cream, Tea Leaves, Sugar",TRUE,4.7
+895,COF0895,Macchiato,236.25,157,Caramel,Cold,Large,395,"Coffee Beans, Milk",TRUE,4.7
+896,COF0896,Espresso,134.97,121,Vanilla,Hot,Small,243,"Chocolate, Spices, Ice",FALSE,2.2
+897,COF0897,Espresso,237.23,61,Mint,Iced,Large,398,"Spices, Coffee Beans",FALSE,1.2
+898,COF0898,Masala Chai,421.64,58,Vanilla,Blended,Small,368,"Tea Leaves, Spices, Milk, Cream",TRUE,1.3
+899,COF0899,Espresso,277.89,107,Cinnamon,Iced,Medium,479,"Chocolate, Sugar, Tea Leaves, Milk, Coffee Beans",FALSE,1.1
+900,COF0900,Frappuccino,239.54,143,Cardamom,Blended,Large,155,"Ice, Milk, Sugar, Coffee Beans, Spices",TRUE,3.3
+901,COF0901,Mocha,344.05,48,Hazelnut,Blended,Medium,208,"Cream, Sugar, Spices",TRUE,4.6
+902,COF0902,Choco Frappe,480.36,113,None,Blended,Large,313,"Sugar, Cream, Tea Leaves, Chocolate, Milk",TRUE,3.9
+903,COF0903,Masala Chai,318.82,20,None,Hot,Large,240,"Cream, Milk, Ice, Coffee Beans",TRUE,1.6
+904,COF0904,Iced Latte,107.22,65,Cardamom,Iced,Small,170,"Chocolate, Milk, Coffee Beans, Spices, Sugar",TRUE,4.7
+905,COF0905,Latte,51.07,32,Vanilla,Blended,Large,452,"Spices, Milk, Sugar, Coffee Beans, Cream",FALSE,3.6
+906,COF0906,Mocha,412.34,197,None,Blended,Medium,160,"Chocolate, Cream, Ice, Tea Leaves, Milk",FALSE,3.6
+907,COF0907,Mocha,66.16,189,Chocolate,Hot,Small,179,"Chocolate, Ice",FALSE,2.4
+908,COF0908,Espresso,261.75,26,None,Iced,Medium,233,"Coffee Beans, Spices",TRUE,1.9
+909,COF0909,Americano,73.02,81,None,Hot,Small,130,"Milk, Spices, Tea Leaves",FALSE,2.6
+910,COF0910,Americano,152.99,29,Cardamom,Iced,Small,161,"Coffee Beans, Ice, Tea Leaves",TRUE,3.7
+911,COF0911,Cappuccino,454.52,124,None,Cold,Large,394,"Cream, Chocolate",TRUE,1.1
+912,COF0912,Iced Latte,104.73,190,Vanilla,Blended,Medium,242,"Coffee Beans, Sugar",FALSE,2.8
+913,COF0913,Frappuccino,140.18,157,Vanilla,Hot,Small,151,"Ice, Coffee Beans, Sugar, Cream",FALSE,4.6
+914,COF0914,Frappuccino,424.16,72,Caramel,Hot,Small,376,"Cream, Coffee Beans, Sugar",FALSE,2.7
+915,COF0915,Macchiato,185.71,64,Cinnamon,Blended,Medium,110,"Tea Leaves, Cream",FALSE,2.3
+916,COF0916,Masala Chai,461.81,104,Hazelnut,Blended,Small,148,"Coffee Beans, Chocolate, Cream, Milk, Spices",TRUE,1.8
+917,COF0917,Frappuccino,386.45,150,Caramel,Hot,Small,116,"Coffee Beans, Chocolate",FALSE,4.9
+918,COF0918,Frappuccino,93.67,182,Vanilla,Blended,Medium,461,"Chocolate, Tea Leaves, Spices, Ice, Sugar",TRUE,4.6
+919,COF0919,Cappuccino,199.49,60,Vanilla,Iced,Medium,146,"Tea Leaves, Cream, Ice, Chocolate",FALSE,2
+920,COF0920,Cappuccino,347.79,98,Vanilla,Cold,Small,129,"Spices, Sugar, Ice, Cream, Chocolate",FALSE,5
+921,COF0921,Choco Frappe,492.32,163,Vanilla,Iced,Large,407,"Milk, Ice, Coffee Beans",FALSE,3.7
+922,COF0922,Americano,456.51,101,Cinnamon,Blended,Large,452,"Coffee Beans, Ice, Spices",TRUE,3.9
+923,COF0923,Masala Chai,237.94,130,None,Iced,Large,274,"Tea Leaves, Coffee Beans, Milk, Sugar, Cream",FALSE,2.1
+924,COF0924,Macchiato,404.41,107,Cinnamon,Hot,Small,128,"Milk, Spices, Ice",TRUE,2.6
+925,COF0925,Latte,447.26,151,Mint,Blended,Small,133,"Chocolate, Tea Leaves, Ice, Coffee Beans",FALSE,1.3
+926,COF0926,Choco Frappe,446.1,135,Cinnamon,Iced,Medium,458,"Coffee Beans, Chocolate",TRUE,4.2
+927,COF0927,Cappuccino,367,75,Vanilla,Hot,Large,256,"Chocolate, Cream, Sugar, Spices",TRUE,3.6
+928,COF0928,Iced Latte,221.47,89,Mint,Cold,Large,318,"Ice, Coffee Beans, Tea Leaves, Chocolate, Milk",TRUE,3
+929,COF0929,Masala Chai,214.24,33,Mint,Cold,Small,178,"Tea Leaves, Ice",TRUE,4.2
+930,COF0930,Frappuccino,320.99,178,Chocolate,Iced,Large,483,"Milk, Ice",FALSE,1.2
+931,COF0931,Americano,491.11,36,Vanilla,Hot,Large,372,"Chocolate, Ice, Cream, Milk",TRUE,3.5
+932,COF0932,Mocha,249.03,184,Vanilla,Blended,Small,129,"Coffee Beans, Ice, Spices, Sugar, Milk",TRUE,1.4
+933,COF0933,Iced Latte,314.79,57,Chocolate,Blended,Large,273,"Spices, Chocolate, Cream, Tea Leaves, Ice",FALSE,3.4
+934,COF0934,Frappuccino,207.19,125,Cardamom,Blended,Large,460,"Ice, Chocolate",FALSE,1.8
+935,COF0935,Espresso,497.52,121,None,Hot,Small,115,"Chocolate, Coffee Beans",FALSE,1.7
+936,COF0936,Macchiato,262.08,80,Caramel,Iced,Medium,136,"Milk, Coffee Beans",TRUE,2.8
+937,COF0937,Iced Latte,229.42,64,Cinnamon,Blended,Medium,100,"Ice, Chocolate",TRUE,3.8
+938,COF0938,Masala Chai,100.41,25,Hazelnut,Blended,Large,314,"Chocolate, Tea Leaves, Cream, Spices, Ice",FALSE,2.8
+939,COF0939,Espresso,244.02,172,Vanilla,Blended,Small,417,"Chocolate, Tea Leaves",TRUE,2.8
+940,COF0940,Espresso,143.53,169,Cinnamon,Iced,Small,115,"Coffee Beans, Sugar",TRUE,3.4
+941,COF0941,Iced Latte,374.18,27,None,Blended,Small,134,"Tea Leaves, Spices, Cream",TRUE,1.9
+942,COF0942,Latte,319.4,115,Vanilla,Iced,Large,216,"Cream, Ice",FALSE,1.5
+943,COF0943,Americano,71.36,50,Cardamom,Iced,Medium,144,"Chocolate, Milk, Tea Leaves, Coffee Beans, Cream",FALSE,2.9
+944,COF0944,Masala Chai,489.56,30,Mint,Hot,Large,251,"Coffee Beans, Ice",TRUE,3.9
+945,COF0945,Latte,99.62,32,Caramel,Blended,Medium,249,"Tea Leaves, Milk",FALSE,2.6
+946,COF0946,Mocha,316.05,102,Cinnamon,Blended,Large,279,"Cream, Sugar, Chocolate",TRUE,2.5
+947,COF0947,Iced Latte,473.43,55,Caramel,Blended,Large,254,"Spices, Coffee Beans, Cream, Tea Leaves",FALSE,2.9
+948,COF0948,Iced Latte,496.61,60,Cinnamon,Hot,Small,113,"Milk, Coffee Beans",FALSE,1.9
+949,COF0949,Espresso,213.06,118,Vanilla,Cold,Large,283,"Coffee Beans, Cream, Tea Leaves",TRUE,3.2
+950,COF0950,Espresso,385.58,31,Cinnamon,Hot,Small,310,"Spices, Ice, Chocolate",TRUE,3
+951,COF0951,Americano,404.72,107,Vanilla,Blended,Large,180,"Chocolate, Milk, Coffee Beans, Tea Leaves",FALSE,1.5
+952,COF0952,Americano,114.07,121,None,Cold,Small,294,"Ice, Chocolate",FALSE,4.4
+953,COF0953,Mocha,171.42,152,None,Iced,Medium,323,"Milk, Coffee Beans, Ice",FALSE,4.7
+954,COF0954,Frappuccino,105.17,45,None,Iced,Large,238,"Spices, Cream, Milk, Coffee Beans",TRUE,3
+955,COF0955,Macchiato,381.97,51,Caramel,Iced,Small,275,"Spices, Coffee Beans, Chocolate, Sugar",FALSE,4.5
+956,COF0956,Choco Frappe,334.19,129,Mint,Blended,Medium,295,"Spices, Tea Leaves",FALSE,2.2
+957,COF0957,Choco Frappe,290.4,193,Caramel,Hot,Large,188,"Chocolate, Cream",FALSE,4.5
+958,COF0958,Choco Frappe,208.19,20,Mint,Iced,Medium,169,"Milk, Sugar, Chocolate, Ice",FALSE,3.4
+959,COF0959,Frappuccino,310.77,124,Cinnamon,Iced,Large,123,"Chocolate, Cream, Coffee Beans",FALSE,3.1
+960,COF0960,Masala Chai,278.61,194,Cardamom,Iced,Large,155,"Tea Leaves, Cream, Sugar, Coffee Beans, Ice",FALSE,2.6
+961,COF0961,Macchiato,192.48,63,Mint,Iced,Small,271,"Cream, Milk, Tea Leaves, Ice, Chocolate",FALSE,4.1
+962,COF0962,Choco Frappe,101.07,145,Chocolate,Cold,Small,358,"Chocolate, Sugar, Cream, Coffee Beans, Ice",TRUE,2.6
+963,COF0963,Iced Latte,320.31,191,Chocolate,Iced,Large,109,"Cream, Spices, Tea Leaves, Sugar, Coffee Beans",FALSE,1.3
+964,COF0964,Mocha,226.31,106,None,Blended,Small,342,"Spices, Sugar",FALSE,3.5
+965,COF0965,Americano,379.27,152,Cardamom,Blended,Medium,466,"Tea Leaves, Sugar, Spices",TRUE,1.7
+966,COF0966,Masala Chai,108.55,50,Hazelnut,Blended,Medium,290,"Spices, Coffee Beans, Cream, Ice",FALSE,3.7
+967,COF0967,Espresso,397.27,17,Hazelnut,Blended,Medium,368,"Ice, Cream, Spices, Milk, Sugar",TRUE,3.3
+968,COF0968,Latte,222.47,128,Mint,Iced,Large,147,"Cream, Coffee Beans, Milk, Sugar, Tea Leaves",FALSE,2.4
+969,COF0969,Frappuccino,412.92,142,Cinnamon,Iced,Medium,386,"Chocolate, Coffee Beans",TRUE,2
+970,COF0970,Cappuccino,163.67,101,Chocolate,Hot,Medium,146,"Sugar, Tea Leaves, Spices, Coffee Beans",FALSE,3.3
+971,COF0971,Latte,482.78,19,Hazelnut,Blended,Medium,105,"Sugar, Tea Leaves, Milk",TRUE,2.8
+972,COF0972,Espresso,216.2,113,None,Hot,Medium,391,"Cream, Chocolate",TRUE,3.5
+973,COF0973,Americano,382.14,91,Cardamom,Blended,Small,495,"Spices, Tea Leaves, Cream",TRUE,4.7
+974,COF0974,Latte,403.7,76,Hazelnut,Blended,Medium,362,"Spices, Sugar",FALSE,1.2
+975,COF0975,Frappuccino,434.68,10,None,Iced,Large,483,"Coffee Beans, Spices, Milk, Chocolate",FALSE,1.1
+976,COF0976,Mocha,207.63,177,None,Cold,Small,193,"Ice, Chocolate",FALSE,3.9
+977,COF0977,Latte,272.85,144,Caramel,Cold,Small,218,"Ice, Milk, Cream",TRUE,4.7
+978,COF0978,Iced Latte,342.6,97,Mint,Iced,Large,467,"Sugar, Coffee Beans, Tea Leaves, Ice, Spices",TRUE,4.8
+979,COF0979,Frappuccino,385.7,114,Cinnamon,Hot,Small,273,"Coffee Beans, Sugar, Ice, Chocolate, Milk",FALSE,1
+980,COF0980,Iced Latte,408.73,76,Caramel,Cold,Small,407,"Ice, Chocolate, Spices, Cream",TRUE,1.4
+981,COF0981,Americano,486.64,184,Cardamom,Blended,Medium,122,"Tea Leaves, Cream, Milk, Coffee Beans, Chocolate",FALSE,2.7
+982,COF0982,Iced Latte,465.55,142,Vanilla,Hot,Large,218,"Tea Leaves, Spices",TRUE,2.7
+983,COF0983,Choco Frappe,493.09,64,Vanilla,Hot,Large,404,"Spices, Chocolate",TRUE,2.6
+984,COF0984,Americano,226.05,34,None,Iced,Medium,232,"Milk, Cream, Ice, Tea Leaves, Spices",FALSE,2.4
+985,COF0985,Espresso,342.2,93,Cinnamon,Hot,Small,479,"Milk, Chocolate, Spices",TRUE,2.9
+986,COF0986,Choco Frappe,178.82,61,Mint,Hot,Medium,109,"Milk, Cream, Coffee Beans, Sugar, Ice",TRUE,3.4
+987,COF0987,Latte,395.03,69,Vanilla,Iced,Medium,173,"Sugar, Ice, Chocolate, Spices",TRUE,1.2
+988,COF0988,Espresso,142.28,196,Mint,Hot,Medium,180,"Ice, Tea Leaves, Chocolate, Milk",TRUE,4
+989,COF0989,Americano,142.59,83,Cardamom,Hot,Small,474,"Spices, Coffee Beans, Tea Leaves, Ice, Chocolate",FALSE,3.3
+990,COF0990,Mocha,68.72,178,Chocolate,Iced,Medium,408,"Ice, Coffee Beans",TRUE,4.6
+991,COF0991,Mocha,478.05,146,Chocolate,Blended,Large,433,"Coffee Beans, Milk, Sugar, Tea Leaves",FALSE,1.5
+992,COF0992,Frappuccino,477.54,124,Cardamom,Cold,Large,427,"Coffee Beans, Milk",TRUE,3.8
+993,COF0993,Cappuccino,191.33,129,Cardamom,Cold,Small,166,"Ice, Spices",TRUE,2.2
+994,COF0994,Choco Frappe,159.79,99,Mint,Blended,Large,399,"Cream, Tea Leaves, Sugar, Chocolate, Ice",TRUE,2.5
+995,COF0995,Iced Latte,290.94,152,Mint,Blended,Large,163,"Coffee Beans, Sugar, Ice",FALSE,4.2
+996,COF0996,Frappuccino,226.23,64,Hazelnut,Blended,Medium,342,"Spices, Tea Leaves",FALSE,2.2
+997,COF0997,Espresso,187.07,18,Caramel,Blended,Small,441,"Chocolate, Tea Leaves, Coffee Beans, Ice, Milk",TRUE,1.4
+998,COF0998,Latte,151.91,13,Cinnamon,Iced,Small,460,"Chocolate, Coffee Beans, Tea Leaves, Sugar, Spices",TRUE,2
+999,COF0999,Americano,296.62,14,Vanilla,Blended,Medium,424,"Chocolate, Sugar, Ice, Coffee Beans",FALSE,3.9
+1000,COF1000,Iced Latte,442.03,143,Chocolate,Cold,Large,167,"Ice, Coffee Beans, Milk",TRUE,4.4
+1001,COF1001,Mocha,263.44,17,Cardamom,Hot,Large,283,"Sugar, Milk, Spices",TRUE,2.6
+1002,COF1002,Macchiato,71.71,156,Cardamom,Hot,Large,494,"Tea Leaves, Ice, Spices, Sugar",TRUE,4
+1003,COF1003,Cappuccino,56.85,162,Chocolate,Blended,Medium,392,"Cream, Spices, Ice, Tea Leaves",TRUE,3.4
+1004,COF1004,Frappuccino,337.7,136,Cinnamon,Hot,Large,461,"Sugar, Spices, Milk, Tea Leaves, Coffee Beans",TRUE,1.3
+1005,COF1005,Frappuccino,69.12,196,Cardamom,Hot,Small,225,"Ice, Sugar",FALSE,1.1
+1006,COF1006,Masala Chai,205.68,181,Hazelnut,Blended,Medium,313,"Milk, Tea Leaves, Spices, Ice",TRUE,4.7
+1007,COF1007,Iced Latte,99.31,103,Mint,Cold,Small,278,"Cream, Chocolate, Sugar, Coffee Beans",FALSE,4.4
+1008,COF1008,Cappuccino,311.09,25,Cinnamon,Cold,Medium,403,"Cream, Coffee Beans, Spices",TRUE,1.2
+1009,COF1009,Cappuccino,460.96,102,Caramel,Hot,Large,493,"Cream, Sugar, Milk, Tea Leaves",TRUE,4.1
+1010,COF1010,Cappuccino,88.68,90,Cinnamon,Cold,Large,170,"Ice, Milk",TRUE,3.9
+1011,COF1011,Latte,204.05,169,Vanilla,Iced,Small,427,"Sugar, Chocolate",FALSE,2.5
+1012,COF1012,Macchiato,359.6,42,Vanilla,Iced,Large,431,"Spices, Ice, Cream, Coffee Beans",TRUE,3.1
+1013,COF1013,Mocha,107.11,29,Caramel,Blended,Large,337,"Cream, Coffee Beans, Chocolate",TRUE,3
+1014,COF1014,Americano,338.52,36,Caramel,Hot,Small,402,"Tea Leaves, Milk, Coffee Beans, Cream, Chocolate",FALSE,3.9
+1015,COF1015,Masala Chai,103.59,40,Cinnamon,Iced,Large,200,"Ice, Milk, Spices",FALSE,4.4
+1016,COF1016,Latte,472.62,189,Mint,Blended,Large,337,"Cream, Milk",FALSE,2.6
+1017,COF1017,Frappuccino,397.69,78,Cinnamon,Iced,Large,170,"Spices, Ice",FALSE,3.5
+1018,COF1018,Cappuccino,318.31,107,Mint,Hot,Large,196,"Milk, Sugar, Cream, Chocolate, Spices",TRUE,3.4
+1019,COF1019,Macchiato,452.33,121,Vanilla,Cold,Medium,281,"Tea Leaves, Milk, Spices, Cream",TRUE,3.8
+1020,COF1020,Frappuccino,366.3,188,Caramel,Iced,Small,261,"Milk, Ice, Cream, Coffee Beans",TRUE,3.9
+1021,COF1021,Macchiato,107.99,172,Hazelnut,Hot,Medium,403,"Milk, Chocolate, Sugar, Coffee Beans",TRUE,1.2
+1022,COF1022,Cappuccino,390.32,37,Chocolate,Iced,Large,386,"Chocolate, Coffee Beans, Sugar, Ice, Cream",TRUE,4.6
+1023,COF1023,Masala Chai,240.22,191,Caramel,Cold,Medium,334,"Sugar, Tea Leaves, Cream, Milk",TRUE,3.6
+1024,COF1024,Espresso,342.53,92,Cinnamon,Iced,Large,387,"Tea Leaves, Spices, Coffee Beans, Milk, Sugar",TRUE,2.1
+1025,COF1025,Iced Latte,495.32,72,Caramel,Cold,Medium,429,"Milk, Coffee Beans, Ice, Tea Leaves, Cream",FALSE,4.3
+1026,COF1026,Masala Chai,353.61,105,Chocolate,Hot,Small,333,"Milk, Coffee Beans, Spices, Cream, Tea Leaves",TRUE,1.7
+1027,COF1027,Americano,202.52,172,Cinnamon,Cold,Large,497,"Cream, Chocolate, Ice, Tea Leaves",FALSE,3.1
+1028,COF1028,Cappuccino,71.2,43,Cardamom,Iced,Large,321,"Sugar, Spices",FALSE,1.5
+1029,COF1029,Frappuccino,168.4,112,Vanilla,Iced,Small,441,"Spices, Sugar, Ice, Chocolate, Tea Leaves",FALSE,2.4
+1030,COF1030,Espresso,334.34,116,Caramel,Blended,Large,161,"Sugar, Spices, Tea Leaves, Chocolate",TRUE,1.1
+1031,COF1031,Cappuccino,74.13,77,Chocolate,Hot,Small,484,"Tea Leaves, Sugar, Cream",TRUE,2.2
+1032,COF1032,Frappuccino,253.3,184,Chocolate,Cold,Small,318,"Sugar, Tea Leaves, Cream, Coffee Beans, Spices",FALSE,1.6
+1033,COF1033,Macchiato,277.77,17,Hazelnut,Iced,Medium,280,"Chocolate, Sugar",TRUE,3.5
+1034,COF1034,Choco Frappe,313.21,46,Vanilla,Hot,Small,434,"Chocolate, Coffee Beans, Milk, Sugar",TRUE,4.9
+1035,COF1035,Iced Latte,298.58,124,Cinnamon,Hot,Large,117,"Coffee Beans, Spices",FALSE,3.4
+1036,COF1036,Iced Latte,455.33,200,None,Hot,Small,224,"Sugar, Coffee Beans",FALSE,3.1
+1037,COF1037,Choco Frappe,137.68,152,Vanilla,Hot,Medium,341,"Spices, Ice",FALSE,1.6
+1038,COF1038,Latte,110.3,128,None,Cold,Medium,127,"Cream, Chocolate, Ice, Tea Leaves, Coffee Beans",TRUE,1.1
+1039,COF1039,Iced Latte,478.15,165,Vanilla,Hot,Medium,174,"Sugar, Coffee Beans, Tea Leaves, Cream, Milk",FALSE,4.6
+1040,COF1040,Americano,418.97,88,Cinnamon,Iced,Large,488,"Coffee Beans, Cream",FALSE,4.5
+1041,COF1041,Espresso,441.19,150,Caramel,Cold,Small,182,"Spices, Ice, Milk, Tea Leaves",TRUE,3.1
+1042,COF1042,Americano,253.99,101,Chocolate,Blended,Medium,386,"Chocolate, Cream, Milk",TRUE,2.3
+1043,COF1043,Americano,51.51,134,None,Cold,Small,442,"Milk, Tea Leaves, Chocolate, Ice",FALSE,2.7
+1044,COF1044,Espresso,71.48,135,Vanilla,Blended,Medium,497,"Coffee Beans, Chocolate, Spices, Tea Leaves, Sugar",TRUE,3
+1045,COF1045,Iced Latte,284.77,56,Hazelnut,Cold,Large,111,"Chocolate, Ice, Cream, Spices",FALSE,3.9
+1046,COF1046,Frappuccino,324.67,57,None,Hot,Large,435,"Spices, Sugar, Chocolate, Coffee Beans",TRUE,1.8
+1047,COF1047,Americano,184.13,65,Mint,Iced,Large,182,"Cream, Ice, Chocolate",FALSE,2.7
+1048,COF1048,Latte,90.67,106,None,Iced,Large,185,"Cream, Tea Leaves, Milk, Coffee Beans",FALSE,4.1
+1049,COF1049,Iced Latte,269.06,140,Chocolate,Hot,Medium,244,"Tea Leaves, Ice, Chocolate",FALSE,1.1
+1050,COF1050,Cappuccino,154.74,146,Hazelnut,Cold,Medium,357,"Ice, Milk",FALSE,2.6
+1051,COF1051,Americano,323.57,130,Mint,Iced,Small,225,"Cream, Sugar, Ice",FALSE,3.6
+1052,COF1052,Espresso,241.09,129,Cardamom,Blended,Medium,481,"Coffee Beans, Cream",TRUE,2
+1053,COF1053,Macchiato,131.4,120,Vanilla,Iced,Small,223,"Tea Leaves, Ice, Chocolate",TRUE,3
+1054,COF1054,Americano,173.32,106,None,Hot,Large,440,"Chocolate, Spices",FALSE,4.5
+1055,COF1055,Iced Latte,60.04,23,Hazelnut,Blended,Small,189,"Ice, Coffee Beans, Spices",TRUE,4.8
+1056,COF1056,Choco Frappe,471.9,160,Cinnamon,Cold,Large,204,"Coffee Beans, Spices, Milk, Cream",TRUE,4.2
+1057,COF1057,Iced Latte,118.8,51,Cinnamon,Cold,Small,318,"Cream, Sugar, Tea Leaves, Coffee Beans, Chocolate",TRUE,3.2
+1058,COF1058,Espresso,375.64,80,Mint,Iced,Small,188,"Cream, Milk, Coffee Beans, Spices",TRUE,1.8
+1059,COF1059,Mocha,177.25,166,None,Iced,Large,102,"Spices, Milk",FALSE,2.4
+1060,COF1060,Mocha,285.14,11,Cinnamon,Cold,Large,140,"Spices, Milk, Ice",TRUE,1.9
+1061,COF1061,Espresso,277.54,71,Vanilla,Blended,Large,375,"Chocolate, Ice, Spices",FALSE,2.4
+1062,COF1062,Espresso,360.33,152,Vanilla,Blended,Medium,389,"Coffee Beans, Milk, Spices, Ice, Chocolate",FALSE,4.6
+1063,COF1063,Latte,433.86,98,Cardamom,Cold,Small,337,"Tea Leaves, Sugar, Cream",FALSE,4.9
+1064,COF1064,Choco Frappe,359.64,162,Caramel,Cold,Medium,213,"Tea Leaves, Cream, Spices",FALSE,3
+1065,COF1065,Mocha,223.73,158,Cardamom,Hot,Small,256,"Milk, Sugar",FALSE,1.9
+1066,COF1066,Masala Chai,381.45,156,Vanilla,Iced,Small,424,"Chocolate, Cream, Milk",FALSE,3.6
+1067,COF1067,Espresso,291.09,159,None,Iced,Medium,326,"Milk, Cream, Chocolate, Coffee Beans, Sugar",FALSE,3.4
+1068,COF1068,Macchiato,266.39,146,Hazelnut,Iced,Medium,161,"Milk, Sugar, Coffee Beans, Cream",TRUE,2.2
+1069,COF1069,Frappuccino,65.54,98,Mint,Cold,Large,272,"Coffee Beans, Chocolate",TRUE,3.6
+1070,COF1070,Mocha,340.41,72,Mint,Blended,Small,235,"Tea Leaves, Cream, Sugar, Ice",TRUE,4.6
+1071,COF1071,Espresso,254.46,167,None,Blended,Small,116,"Tea Leaves, Milk, Sugar, Spices, Ice",TRUE,1.8
+1072,COF1072,Iced Latte,336.95,32,Cardamom,Cold,Large,275,"Ice, Tea Leaves, Coffee Beans",FALSE,3.9
+1073,COF1073,Cappuccino,132.18,47,Hazelnut,Cold,Medium,494,"Chocolate, Sugar, Ice, Coffee Beans, Cream",FALSE,3.2
+1074,COF1074,Espresso,84.8,152,Hazelnut,Iced,Small,437,"Ice, Cream, Tea Leaves",FALSE,1.8
+1075,COF1075,Espresso,493.24,196,Vanilla,Cold,Small,190,"Milk, Sugar, Ice",FALSE,1.9
+1076,COF1076,Macchiato,336.34,18,Caramel,Iced,Small,473,"Ice, Chocolate",TRUE,1.3
+1077,COF1077,Iced Latte,394.16,82,Cardamom,Iced,Small,344,"Ice, Cream, Milk, Coffee Beans",TRUE,2.2
+1078,COF1078,Americano,205.1,167,None,Cold,Small,403,"Milk, Tea Leaves, Ice, Spices",TRUE,2.6
+1079,COF1079,Americano,172.59,14,Mint,Iced,Large,345,"Sugar, Coffee Beans, Tea Leaves, Cream, Spices",TRUE,4.2
+1080,COF1080,Latte,337.74,111,Hazelnut,Cold,Medium,216,"Ice, Milk",TRUE,3.9
+1081,COF1081,Americano,333.7,64,Mint,Cold,Large,268,"Ice, Cream, Spices, Coffee Beans",TRUE,4.7
+1082,COF1082,Americano,219.1,196,Vanilla,Cold,Large,342,"Sugar, Spices",FALSE,2.3
+1083,COF1083,Macchiato,357.74,28,Chocolate,Cold,Medium,163,"Cream, Chocolate, Tea Leaves, Milk, Sugar",FALSE,3.5
+1084,COF1084,Mocha,431.23,104,Vanilla,Hot,Medium,374,"Coffee Beans, Cream, Tea Leaves, Chocolate, Ice",FALSE,2.2
+1085,COF1085,Choco Frappe,499.57,29,Cardamom,Cold,Small,197,"Coffee Beans, Milk, Cream, Sugar",TRUE,4.8
+1086,COF1086,Choco Frappe,429.71,139,Vanilla,Cold,Medium,198,"Tea Leaves, Ice",TRUE,4.7
+1087,COF1087,Americano,209.51,18,Mint,Iced,Large,375,"Ice, Coffee Beans, Tea Leaves, Chocolate, Sugar",FALSE,4.2
+1088,COF1088,Frappuccino,467.64,97,Cardamom,Iced,Medium,345,"Spices, Chocolate, Cream, Tea Leaves, Sugar",TRUE,4
+1089,COF1089,Espresso,302.18,72,Chocolate,Hot,Small,479,"Tea Leaves, Milk, Chocolate, Coffee Beans, Sugar",TRUE,3.2
+1090,COF1090,Macchiato,197.11,106,Hazelnut,Hot,Large,192,"Coffee Beans, Chocolate, Milk, Ice, Spices",TRUE,4.9
+1091,COF1091,Iced Latte,274.3,36,Chocolate,Iced,Small,383,"Milk, Chocolate",TRUE,2.9
+1092,COF1092,Mocha,190.17,200,Cinnamon,Blended,Small,472,"Coffee Beans, Milk, Tea Leaves",FALSE,4.9
+1093,COF1093,Choco Frappe,308.28,195,None,Cold,Small,477,"Chocolate, Coffee Beans, Spices, Ice",FALSE,4.3
+1094,COF1094,Espresso,300.04,172,Chocolate,Cold,Medium,293,"Sugar, Tea Leaves, Coffee Beans, Spices, Chocolate",FALSE,2
+1095,COF1095,Mocha,226.71,151,Hazelnut,Hot,Medium,303,"Spices, Chocolate, Milk",FALSE,2.6
+1096,COF1096,Espresso,452.47,114,Caramel,Cold,Small,421,"Chocolate, Cream, Spices",TRUE,4.4
+1097,COF1097,Choco Frappe,404.6,11,Caramel,Hot,Small,483,"Chocolate, Milk, Ice, Coffee Beans, Tea Leaves",TRUE,1.9
+1098,COF1098,Cappuccino,334.15,155,Caramel,Blended,Small,490,"Cream, Coffee Beans, Sugar",TRUE,4.4
+1099,COF1099,Frappuccino,128.71,28,Mint,Cold,Medium,310,"Cream, Tea Leaves, Coffee Beans, Sugar, Milk",TRUE,2.3
+1100,COF1100,Latte,462.5,20,Cinnamon,Iced,Large,138,"Milk, Sugar, Cream, Coffee Beans",FALSE,3.8
+1101,COF1101,Masala Chai,262.49,107,Caramel,Cold,Small,391,"Chocolate, Ice, Spices, Tea Leaves, Coffee Beans",TRUE,3.2
+1102,COF1102,Americano,373.51,12,Mint,Cold,Small,155,"Ice, Spices",FALSE,1.6
+1103,COF1103,Iced Latte,165.99,158,Caramel,Blended,Large,193,"Cream, Sugar, Spices, Tea Leaves, Ice",TRUE,2.5
+1104,COF1104,Iced Latte,136.19,26,Vanilla,Blended,Large,158,"Chocolate, Ice",TRUE,2
+1105,COF1105,Iced Latte,220.03,26,Caramel,Iced,Small,353,"Chocolate, Spices, Milk, Ice, Sugar",FALSE,2.3
+1106,COF1106,Latte,463.51,164,Cinnamon,Iced,Large,281,"Chocolate, Spices, Milk",FALSE,2.5
+1107,COF1107,Macchiato,415.68,110,Hazelnut,Cold,Small,292,"Sugar, Ice, Milk, Cream",FALSE,2.8
+1108,COF1108,Iced Latte,481.94,165,Hazelnut,Blended,Medium,116,"Sugar, Tea Leaves",TRUE,1.6
+1109,COF1109,Americano,56.62,55,None,Hot,Large,214,"Coffee Beans, Cream, Milk, Spices, Sugar",FALSE,3.1
+1110,COF1110,Americano,376.59,64,Hazelnut,Cold,Large,111,"Cream, Milk",FALSE,4.4
+1111,COF1111,Americano,140.28,49,Cardamom,Iced,Medium,276,"Sugar, Chocolate, Cream, Ice, Tea Leaves",FALSE,1.2
+1112,COF1112,Masala Chai,423.58,17,Caramel,Cold,Small,466,"Chocolate, Milk, Coffee Beans, Tea Leaves, Sugar",FALSE,4.3
+1113,COF1113,Espresso,460.12,48,Cardamom,Hot,Small,289,"Tea Leaves, Ice, Milk, Chocolate, Coffee Beans",TRUE,2.4
+1114,COF1114,Americano,293.6,64,Cinnamon,Cold,Medium,379,"Spices, Ice",TRUE,1.3
+1115,COF1115,Masala Chai,218.06,30,Caramel,Blended,Small,183,"Chocolate, Coffee Beans",TRUE,1.6
+1116,COF1116,Americano,234.33,79,Caramel,Blended,Small,381,"Sugar, Milk, Tea Leaves, Cream, Spices",FALSE,2.5
+1117,COF1117,Espresso,325.51,131,Cardamom,Iced,Medium,453,"Chocolate, Ice, Coffee Beans, Cream, Spices",FALSE,1.8
+1118,COF1118,Macchiato,101.84,104,Mint,Hot,Large,159,"Coffee Beans, Tea Leaves, Cream",FALSE,2.2
+1119,COF1119,Macchiato,286.76,147,Caramel,Cold,Small,495,"Spices, Cream, Coffee Beans",TRUE,4.3
+1120,COF1120,Choco Frappe,55.63,125,Caramel,Cold,Large,132,"Cream, Milk, Chocolate",FALSE,1.3
+1121,COF1121,Mocha,178.2,85,Hazelnut,Iced,Medium,483,"Coffee Beans, Ice, Chocolate, Spices, Tea Leaves",TRUE,3.7
+1122,COF1122,Espresso,67.58,112,Vanilla,Iced,Medium,142,"Milk, Sugar, Cream",FALSE,3.3
+1123,COF1123,Mocha,444.29,76,Cinnamon,Cold,Large,298,"Ice, Milk",FALSE,4.6
+1124,COF1124,Masala Chai,390.55,81,Vanilla,Blended,Large,190,"Tea Leaves, Sugar, Chocolate",FALSE,4.2
+1125,COF1125,Frappuccino,427.08,184,Mint,Cold,Small,115,"Spices, Cream, Ice",FALSE,3.8
+1126,COF1126,Cappuccino,213.36,118,Caramel,Iced,Small,320,"Cream, Coffee Beans, Chocolate",FALSE,4
+1127,COF1127,Frappuccino,466.05,68,Hazelnut,Cold,Large,227,"Spices, Ice",FALSE,2.6
+1128,COF1128,Frappuccino,116.09,106,Chocolate,Hot,Large,186,"Spices, Ice, Tea Leaves, Milk",TRUE,3
+1129,COF1129,Americano,207.81,11,Chocolate,Iced,Small,444,"Ice, Cream, Tea Leaves",TRUE,4.2
+1130,COF1130,Americano,256.23,84,Caramel,Blended,Small,415,"Ice, Tea Leaves, Cream, Spices",TRUE,4.5
+1131,COF1131,Espresso,125.32,34,Chocolate,Hot,Small,386,"Milk, Tea Leaves, Chocolate, Cream, Spices",TRUE,2.4
+1132,COF1132,Macchiato,413.8,173,Mint,Hot,Medium,462,"Sugar, Coffee Beans, Tea Leaves",TRUE,2.1
+1133,COF1133,Choco Frappe,205.82,162,None,Blended,Small,384,"Tea Leaves, Milk, Spices, Coffee Beans, Sugar",TRUE,4.2
+1134,COF1134,Americano,98.29,77,Cardamom,Cold,Medium,231,"Milk, Coffee Beans, Sugar",FALSE,3.8
+1135,COF1135,Masala Chai,333.14,90,Vanilla,Blended,Medium,108,"Chocolate, Cream, Spices, Sugar, Milk",TRUE,3.7
+1136,COF1136,Mocha,422.27,87,Vanilla,Cold,Medium,141,"Cream, Sugar, Spices",TRUE,2.3
+1137,COF1137,Cappuccino,259.24,92,Caramel,Iced,Small,148,"Ice, Coffee Beans",FALSE,2.6
+1138,COF1138,Choco Frappe,389.09,16,Hazelnut,Iced,Small,441,"Coffee Beans, Milk, Chocolate",TRUE,1.4
+1139,COF1139,Macchiato,271.46,117,Chocolate,Hot,Large,122,"Coffee Beans, Ice, Tea Leaves",TRUE,1
+1140,COF1140,Choco Frappe,138.58,95,Cinnamon,Hot,Large,317,"Spices, Ice, Milk",FALSE,2.8
+1141,COF1141,Frappuccino,391.49,150,Caramel,Cold,Medium,101,"Coffee Beans, Sugar, Cream, Ice, Spices",FALSE,1.2
+1142,COF1142,Iced Latte,331.22,31,Cardamom,Hot,Large,462,"Spices, Chocolate",TRUE,1.8
+1143,COF1143,Americano,59.34,80,Chocolate,Blended,Medium,299,"Tea Leaves, Sugar",TRUE,2.2
+1144,COF1144,Iced Latte,366.48,133,Chocolate,Cold,Large,472,"Ice, Spices, Sugar",TRUE,3.1
+1145,COF1145,Macchiato,369.88,159,Hazelnut,Hot,Small,179,"Ice, Spices",TRUE,3.9
+1146,COF1146,Espresso,319.76,25,None,Hot,Small,495,"Cream, Chocolate, Tea Leaves",FALSE,4.3
+1147,COF1147,Espresso,396.97,144,Mint,Hot,Large,320,"Chocolate, Coffee Beans, Tea Leaves, Milk",TRUE,2.7
+1148,COF1148,Macchiato,154.69,197,Mint,Hot,Large,479,"Milk, Chocolate, Ice",FALSE,1.9
+1149,COF1149,Mocha,116.67,193,Hazelnut,Hot,Small,160,"Milk, Spices",FALSE,2.8
+1150,COF1150,Americano,435.75,166,Cinnamon,Cold,Medium,344,"Chocolate, Milk, Coffee Beans",FALSE,2.6
+1151,COF1151,Iced Latte,192.47,146,Hazelnut,Iced,Large,224,"Spices, Coffee Beans, Cream",FALSE,2.8
+1152,COF1152,Cappuccino,407.51,173,Caramel,Cold,Large,123,"Tea Leaves, Ice, Milk, Sugar, Cream",FALSE,1.8
+1153,COF1153,Frappuccino,94.82,86,Vanilla,Cold,Large,101,"Sugar, Coffee Beans",FALSE,4
+1154,COF1154,Frappuccino,95.02,11,Hazelnut,Iced,Small,152,"Ice, Milk",TRUE,1
+1155,COF1155,Iced Latte,323.22,44,Mint,Cold,Small,425,"Spices, Chocolate, Coffee Beans",TRUE,2.7
+1156,COF1156,Latte,61.81,121,Caramel,Iced,Medium,446,"Chocolate, Cream, Tea Leaves",FALSE,2.3
+1157,COF1157,Latte,240.81,164,Cinnamon,Iced,Medium,321,"Milk, Cream, Chocolate, Coffee Beans, Sugar",FALSE,1.5
+1158,COF1158,Masala Chai,380.09,22,Vanilla,Iced,Small,312,"Milk, Spices, Coffee Beans, Chocolate, Cream",FALSE,2.7
+1159,COF1159,Choco Frappe,74.99,40,None,Blended,Large,177,"Sugar, Chocolate, Coffee Beans, Milk",FALSE,3.8
+1160,COF1160,Choco Frappe,183.59,44,Hazelnut,Cold,Large,484,"Cream, Ice",TRUE,1.5
+1161,COF1161,Espresso,165.95,19,Hazelnut,Hot,Medium,440,"Milk, Cream, Chocolate, Ice",TRUE,1.9
+1162,COF1162,Iced Latte,109.42,188,Chocolate,Hot,Small,445,"Coffee Beans, Tea Leaves",TRUE,1.3
+1163,COF1163,Mocha,100.59,183,Chocolate,Cold,Small,164,"Spices, Sugar, Milk",TRUE,4.3
+1164,COF1164,Choco Frappe,218.77,38,Mint,Hot,Medium,405,"Cream, Tea Leaves, Milk, Spices, Chocolate",TRUE,4.4
+1165,COF1165,Iced Latte,81.47,195,Vanilla,Blended,Small,154,"Cream, Coffee Beans, Chocolate",TRUE,2.1
+1166,COF1166,Latte,354.65,23,Vanilla,Hot,Small,392,"Sugar, Coffee Beans",TRUE,1.3
+1167,COF1167,Frappuccino,150.98,107,Hazelnut,Blended,Small,444,"Tea Leaves, Milk, Coffee Beans, Ice",TRUE,3.5
+1168,COF1168,Americano,284.43,105,Cinnamon,Hot,Large,270,"Spices, Coffee Beans",TRUE,3.5
+1169,COF1169,Latte,70.38,71,Cinnamon,Iced,Small,319,"Cream, Coffee Beans, Tea Leaves",FALSE,2.9
+1170,COF1170,Espresso,488.05,124,Hazelnut,Iced,Large,284,"Coffee Beans, Chocolate, Sugar, Milk",FALSE,2.7
+1171,COF1171,Choco Frappe,340.31,104,None,Cold,Small,302,"Coffee Beans, Milk",FALSE,3.8
+1172,COF1172,Masala Chai,238.3,106,Cinnamon,Iced,Large,121,"Sugar, Spices, Tea Leaves, Milk, Chocolate",FALSE,1.2
+1173,COF1173,Latte,187.3,101,Caramel,Cold,Small,375,"Milk, Spices, Chocolate, Coffee Beans, Sugar",FALSE,2.2
+1174,COF1174,Cappuccino,487.15,145,Hazelnut,Cold,Medium,126,"Coffee Beans, Tea Leaves, Ice",FALSE,4.9
+1175,COF1175,Americano,223.21,140,Cardamom,Cold,Medium,424,"Tea Leaves, Cream",TRUE,4
+1176,COF1176,Iced Latte,220.59,174,Cardamom,Cold,Medium,106,"Spices, Cream",TRUE,4.1
+1177,COF1177,Masala Chai,130.98,52,Cardamom,Hot,Medium,388,"Milk, Sugar, Spices, Chocolate",FALSE,3.9
+1178,COF1178,Espresso,70.71,118,Chocolate,Hot,Large,235,"Milk, Ice, Coffee Beans, Chocolate, Spices",TRUE,3.4
+1179,COF1179,Cappuccino,453.58,111,Cardamom,Iced,Large,111,"Ice, Coffee Beans, Sugar",TRUE,1.2
+1180,COF1180,Macchiato,258.83,198,None,Iced,Small,267,"Ice, Milk, Spices, Sugar, Cream",FALSE,3.6
+1181,COF1181,Iced Latte,387.78,139,Vanilla,Blended,Medium,308,"Coffee Beans, Cream",TRUE,4.9
+1182,COF1182,Frappuccino,392.68,78,Hazelnut,Cold,Small,227,"Ice, Cream, Milk",FALSE,2
+1183,COF1183,Latte,237.99,81,None,Iced,Medium,361,"Sugar, Coffee Beans",TRUE,2.7
+1184,COF1184,Choco Frappe,103.43,78,Hazelnut,Iced,Medium,448,"Milk, Tea Leaves, Ice, Sugar, Cream",TRUE,1.6
+1185,COF1185,Cappuccino,382.18,39,Mint,Blended,Small,383,"Chocolate, Tea Leaves, Coffee Beans, Spices, Cream",FALSE,1.7
+1186,COF1186,Cappuccino,209.57,198,None,Iced,Small,342,"Tea Leaves, Ice, Milk, Chocolate, Cream",FALSE,2
+1187,COF1187,Cappuccino,136.02,20,Cardamom,Iced,Medium,277,"Ice, Spices, Tea Leaves, Cream",TRUE,3.4
+1188,COF1188,Macchiato,214.67,96,Cardamom,Blended,Small,417,"Tea Leaves, Sugar, Chocolate, Spices, Milk",TRUE,3
+1189,COF1189,Americano,251.06,154,Vanilla,Iced,Large,242,"Cream, Sugar, Chocolate, Tea Leaves, Coffee Beans",TRUE,3.4
+1190,COF1190,Masala Chai,446.98,164,Cardamom,Iced,Large,174,"Sugar, Tea Leaves, Milk, Spices, Ice",FALSE,4.9
+1191,COF1191,Americano,159.22,76,Caramel,Hot,Small,343,"Spices, Tea Leaves",FALSE,3.6
+1192,COF1192,Masala Chai,132.92,153,Caramel,Hot,Large,116,"Tea Leaves, Chocolate, Spices, Sugar, Cream",FALSE,3.2
+1193,COF1193,Mocha,317.45,71,Chocolate,Iced,Large,191,"Spices, Milk",TRUE,2
+1194,COF1194,Latte,195.92,186,Cardamom,Iced,Large,219,"Milk, Ice, Coffee Beans",TRUE,1
+1195,COF1195,Frappuccino,336.08,88,Cinnamon,Blended,Medium,182,"Ice, Spices, Coffee Beans, Chocolate",TRUE,1.3
+1196,COF1196,Mocha,80.91,86,Vanilla,Hot,Small,290,"Spices, Coffee Beans, Chocolate",TRUE,2.4
+1197,COF1197,Macchiato,182.99,121,Caramel,Hot,Large,171,"Chocolate, Cream, Milk",TRUE,2.8
+1198,COF1198,Americano,312.32,14,Cinnamon,Cold,Small,257,"Chocolate, Ice, Spices, Tea Leaves, Milk",FALSE,2.5
+1199,COF1199,Americano,55.55,24,Mint,Blended,Medium,488,"Spices, Cream, Ice",FALSE,3.2
+1200,COF1200,Macchiato,90.99,70,Vanilla,Hot,Medium,119,"Tea Leaves, Milk, Ice, Spices",TRUE,3.4
+1201,COF1201,Latte,415.27,45,Chocolate,Blended,Large,387,"Coffee Beans, Tea Leaves, Cream, Milk, Sugar",TRUE,1.1
+1202,COF1202,Frappuccino,452.89,130,Hazelnut,Blended,Small,454,"Milk, Chocolate, Sugar, Coffee Beans, Spices",TRUE,2.7
+1203,COF1203,Cappuccino,260.21,189,None,Iced,Small,351,"Chocolate, Coffee Beans, Sugar, Tea Leaves, Milk",TRUE,4.7
+1204,COF1204,Espresso,478.86,57,Cardamom,Cold,Medium,221,"Coffee Beans, Sugar, Milk, Chocolate, Tea Leaves",TRUE,1.1
+1205,COF1205,Espresso,193.71,187,Vanilla,Blended,Small,170,"Coffee Beans, Spices",FALSE,1.4
+1206,COF1206,Latte,257.57,149,Vanilla,Iced,Large,141,"Spices, Cream",TRUE,3.4
+1207,COF1207,Mocha,209.98,183,Cinnamon,Iced,Small,411,"Cream, Sugar, Tea Leaves, Chocolate, Coffee Beans",TRUE,2.4
+1208,COF1208,Americano,273.63,56,Mint,Iced,Small,309,"Coffee Beans, Spices, Cream",TRUE,4.3
+1209,COF1209,Choco Frappe,223.99,18,Cinnamon,Hot,Medium,234,"Sugar, Milk, Chocolate, Ice, Cream",FALSE,4.6
+1210,COF1210,Latte,81.53,143,Chocolate,Blended,Small,195,"Ice, Cream",FALSE,4.6
+1211,COF1211,Latte,452.03,64,Cinnamon,Hot,Large,489,"Milk, Chocolate, Coffee Beans, Spices",FALSE,4
+1212,COF1212,Frappuccino,274.81,78,Chocolate,Blended,Large,111,"Cream, Chocolate, Milk, Spices",FALSE,2.1
+1213,COF1213,Latte,238.42,137,Mint,Hot,Small,171,"Tea Leaves, Spices, Sugar, Ice",TRUE,4.6
+1214,COF1214,Mocha,376.91,114,Mint,Hot,Large,352,"Ice, Coffee Beans, Tea Leaves, Chocolate, Milk",FALSE,4.1
+1215,COF1215,Iced Latte,315.28,123,Chocolate,Hot,Small,273,"Ice, Milk, Sugar, Tea Leaves, Cream",FALSE,1.4
+1216,COF1216,Latte,288.11,53,Caramel,Blended,Large,452,"Chocolate, Milk",FALSE,4.4
+1217,COF1217,Choco Frappe,394.39,28,Mint,Cold,Medium,154,"Spices, Coffee Beans, Sugar, Cream, Chocolate",TRUE,1.1
+1218,COF1218,Iced Latte,56.8,35,Caramel,Cold,Small,295,"Sugar, Ice, Tea Leaves",TRUE,2.1
+1219,COF1219,Latte,99.77,50,Vanilla,Cold,Medium,428,"Spices, Coffee Beans, Sugar, Milk",FALSE,2.2
+1220,COF1220,Cappuccino,400.17,71,Chocolate,Iced,Medium,397,"Cream, Coffee Beans, Spices, Tea Leaves",TRUE,4.4
+1221,COF1221,Espresso,283.91,106,Hazelnut,Iced,Medium,121,"Spices, Tea Leaves, Ice",TRUE,3.1
+1222,COF1222,Choco Frappe,296.62,57,Chocolate,Blended,Large,137,"Tea Leaves, Coffee Beans, Ice, Milk",TRUE,3.7
+1223,COF1223,Mocha,461.7,179,Hazelnut,Hot,Large,134,"Chocolate, Tea Leaves, Spices",FALSE,2.4
+1224,COF1224,Frappuccino,471.2,155,Cinnamon,Hot,Medium,218,"Sugar, Chocolate, Ice, Milk, Tea Leaves",TRUE,1.4
+1225,COF1225,Choco Frappe,494.11,86,None,Hot,Large,230,"Ice, Chocolate",TRUE,1.1
+1226,COF1226,Masala Chai,290.85,68,Cinnamon,Hot,Medium,443,"Spices, Tea Leaves, Coffee Beans, Cream",TRUE,1.8
+1227,COF1227,Macchiato,349.75,189,Chocolate,Cold,Medium,122,"Coffee Beans, Ice, Tea Leaves",FALSE,1.1
+1228,COF1228,Frappuccino,66.85,56,Cardamom,Blended,Small,463,"Spices, Milk, Sugar, Tea Leaves",TRUE,4.5
+1229,COF1229,Cappuccino,468.72,85,Cardamom,Iced,Large,129,"Coffee Beans, Sugar, Spices",TRUE,2.7
+1230,COF1230,Mocha,489.9,184,Cinnamon,Hot,Medium,127,"Chocolate, Sugar, Cream",FALSE,4.5
+1231,COF1231,Latte,324.08,112,Cinnamon,Cold,Small,186,"Chocolate, Sugar, Coffee Beans",TRUE,2.1
+1232,COF1232,Mocha,53.59,12,Cardamom,Iced,Medium,135,"Tea Leaves, Coffee Beans",TRUE,1.2
+1233,COF1233,Macchiato,73.53,20,Chocolate,Hot,Large,434,"Coffee Beans, Chocolate, Spices, Ice",TRUE,4.4
+1234,COF1234,Espresso,208.1,109,Mint,Blended,Large,159,"Sugar, Coffee Beans",TRUE,2.5
+1235,COF1235,Choco Frappe,444.08,153,Caramel,Hot,Small,327,"Tea Leaves, Ice",FALSE,3.1
+1236,COF1236,Masala Chai,499.32,187,Cardamom,Hot,Small,489,"Spices, Ice, Coffee Beans",FALSE,2.3
+1237,COF1237,Masala Chai,396.15,36,Cardamom,Hot,Medium,388,"Tea Leaves, Coffee Beans, Sugar, Spices",FALSE,3.8
+1238,COF1238,Espresso,419.78,90,Mint,Blended,Medium,178,"Coffee Beans, Ice",FALSE,3.7
+1239,COF1239,Iced Latte,376.35,189,Chocolate,Iced,Small,481,"Sugar, Spices, Ice, Cream, Coffee Beans",TRUE,1.3
+1240,COF1240,Cappuccino,222.9,192,None,Blended,Small,323,"Ice, Coffee Beans, Cream, Sugar, Spices",FALSE,2.5
+1241,COF1241,Macchiato,380.82,142,Mint,Blended,Small,236,"Chocolate, Spices, Ice, Coffee Beans",TRUE,3.2
+1242,COF1242,Masala Chai,258.23,48,Mint,Hot,Large,369,"Sugar, Milk, Coffee Beans",FALSE,3.9
+1243,COF1243,Masala Chai,452.84,96,Vanilla,Cold,Large,347,"Sugar, Cream, Chocolate",FALSE,1.1
+1244,COF1244,Latte,198.03,89,Chocolate,Blended,Medium,385,"Ice, Tea Leaves, Spices, Chocolate",TRUE,3.5
+1245,COF1245,Iced Latte,398.02,195,Cinnamon,Blended,Large,251,"Coffee Beans, Chocolate, Sugar, Milk",FALSE,1.3
+1246,COF1246,Americano,112.75,126,Caramel,Iced,Small,311,"Sugar, Spices, Milk, Tea Leaves",TRUE,3.8
+1247,COF1247,Iced Latte,344.88,172,Cardamom,Cold,Large,132,"Coffee Beans, Sugar, Cream, Spices",FALSE,3.9
+1248,COF1248,Iced Latte,103.98,13,Hazelnut,Blended,Large,127,"Spices, Chocolate, Cream, Coffee Beans, Ice",FALSE,4.8
+1249,COF1249,Choco Frappe,110.15,183,Vanilla,Hot,Medium,191,"Spices, Tea Leaves",FALSE,3
+1250,COF1250,Frappuccino,401.09,57,Caramel,Iced,Medium,480,"Tea Leaves, Coffee Beans, Sugar, Ice, Chocolate",FALSE,4
+1251,COF1251,Espresso,126.32,99,Cinnamon,Hot,Medium,178,"Sugar, Spices, Chocolate, Coffee Beans",TRUE,2.2
+1252,COF1252,Frappuccino,66.78,128,Hazelnut,Cold,Small,224,"Milk, Cream, Sugar",FALSE,1.7
+1253,COF1253,Espresso,85.87,45,Cardamom,Hot,Large,358,"Sugar, Cream, Coffee Beans, Chocolate, Milk",TRUE,2.3
+1254,COF1254,Masala Chai,405.05,141,Vanilla,Blended,Large,347,"Cream, Spices, Chocolate, Tea Leaves",TRUE,2.6
+1255,COF1255,Cappuccino,384.56,19,Vanilla,Iced,Small,249,"Sugar, Chocolate, Ice",FALSE,1.2
+1256,COF1256,Espresso,265.76,55,None,Iced,Large,389,"Ice, Spices, Sugar, Chocolate, Coffee Beans",FALSE,2
+1257,COF1257,Espresso,399.55,43,Mint,Hot,Large,246,"Ice, Coffee Beans, Spices, Cream",TRUE,1.2
+1258,COF1258,Frappuccino,94.45,200,Caramel,Hot,Small,361,"Tea Leaves, Coffee Beans, Ice, Sugar, Cream",TRUE,4.7
+1259,COF1259,Espresso,255.74,152,Cinnamon,Cold,Large,327,"Spices, Ice, Sugar, Milk",FALSE,1.6
+1260,COF1260,Mocha,163.94,176,Chocolate,Cold,Large,156,"Milk, Sugar, Chocolate, Cream",TRUE,4.5
+1261,COF1261,Latte,395.43,44,None,Hot,Large,412,"Coffee Beans, Milk, Cream",FALSE,4.3
+1262,COF1262,Frappuccino,480.54,65,Hazelnut,Iced,Small,116,"Sugar, Spices, Tea Leaves, Chocolate",FALSE,4.8
+1263,COF1263,Mocha,120.43,55,Vanilla,Blended,Large,195,"Ice, Sugar, Tea Leaves, Spices",TRUE,2.1
+1264,COF1264,Cappuccino,385.82,178,Vanilla,Blended,Medium,179,"Cream, Chocolate, Ice",TRUE,3.6
+1265,COF1265,Masala Chai,109.45,163,Cardamom,Hot,Large,294,"Coffee Beans, Sugar, Cream, Milk",TRUE,3.8
+1266,COF1266,Americano,388.28,136,Caramel,Hot,Medium,458,"Sugar, Cream, Ice",TRUE,1.7
+1267,COF1267,Masala Chai,230.99,180,Cinnamon,Blended,Large,429,"Chocolate, Tea Leaves",FALSE,3.7
+1268,COF1268,Masala Chai,398.76,136,Chocolate,Iced,Small,117,"Ice, Chocolate",FALSE,4.5
+1269,COF1269,Frappuccino,101.79,74,Chocolate,Blended,Large,316,"Coffee Beans, Cream",FALSE,2.4
+1270,COF1270,Latte,499.68,123,Caramel,Blended,Small,164,"Ice, Chocolate, Coffee Beans",TRUE,2.1
+1271,COF1271,Mocha,487.37,109,Chocolate,Blended,Large,156,"Sugar, Cream, Coffee Beans",FALSE,4
+1272,COF1272,Frappuccino,95.18,71,Caramel,Iced,Large,400,"Coffee Beans, Spices, Milk, Ice, Sugar",TRUE,1.3
+1273,COF1273,Latte,225.66,156,Caramel,Iced,Small,422,"Cream, Coffee Beans, Sugar",FALSE,2.9
+1274,COF1274,Macchiato,398.31,130,Caramel,Blended,Large,187,"Spices, Cream, Chocolate, Tea Leaves",FALSE,2.1
+1275,COF1275,Espresso,306.5,65,Vanilla,Hot,Large,102,"Spices, Chocolate, Ice",TRUE,4.8
+1276,COF1276,Iced Latte,314.02,68,Mint,Blended,Small,274,"Ice, Chocolate",FALSE,1.6
+1277,COF1277,Iced Latte,288.58,26,Chocolate,Iced,Small,121,"Chocolate, Tea Leaves, Ice",TRUE,2
+1278,COF1278,Iced Latte,247.19,118,Hazelnut,Blended,Large,295,"Ice, Spices, Coffee Beans, Chocolate",TRUE,2.8
+1279,COF1279,Masala Chai,188.05,193,Cardamom,Blended,Medium,104,"Coffee Beans, Milk",FALSE,4
+1280,COF1280,Latte,238.52,132,Vanilla,Hot,Medium,466,"Spices, Sugar, Coffee Beans, Chocolate, Tea Leaves",FALSE,2.7
+1281,COF1281,Masala Chai,81.76,116,Mint,Cold,Small,145,"Coffee Beans, Ice, Chocolate, Sugar",TRUE,3
+1282,COF1282,Choco Frappe,369,178,Cardamom,Blended,Medium,304,"Ice, Cream, Sugar, Tea Leaves",FALSE,2.6
+1283,COF1283,Frappuccino,431.58,73,Cardamom,Hot,Medium,305,"Coffee Beans, Sugar, Ice, Chocolate",FALSE,4.6
+1284,COF1284,Latte,239.6,89,Chocolate,Blended,Medium,168,"Ice, Chocolate, Tea Leaves, Sugar",FALSE,1.2
+1285,COF1285,Americano,370.5,191,Chocolate,Blended,Large,378,"Ice, Cream, Spices, Milk",TRUE,2.2
+1286,COF1286,Frappuccino,116.8,141,Caramel,Cold,Large,464,"Cream, Sugar, Milk",TRUE,3.8
+1287,COF1287,Mocha,189.74,122,Caramel,Iced,Small,366,"Cream, Milk",TRUE,3.7
+1288,COF1288,Americano,249.3,45,Vanilla,Cold,Small,101,"Ice, Tea Leaves",TRUE,2.6
+1289,COF1289,Espresso,117.57,131,None,Iced,Medium,419,"Spices, Chocolate, Sugar, Cream, Tea Leaves",TRUE,1.5
+1290,COF1290,Americano,163.33,82,Caramel,Cold,Small,466,"Ice, Milk",FALSE,4.1
+1291,COF1291,Americano,295.22,72,Vanilla,Cold,Small,308,"Tea Leaves, Coffee Beans, Sugar, Milk, Cream",FALSE,4.1
+1292,COF1292,Cappuccino,257.26,94,Chocolate,Hot,Large,494,"Ice, Spices",TRUE,2.9
+1293,COF1293,Macchiato,207.61,111,Cardamom,Hot,Large,165,"Spices, Sugar",TRUE,3.1
+1294,COF1294,Iced Latte,290.1,122,Vanilla,Hot,Medium,139,"Tea Leaves, Cream, Ice, Sugar, Milk",TRUE,2.3
+1295,COF1295,Cappuccino,334.48,129,None,Cold,Medium,168,"Spices, Ice, Coffee Beans, Sugar",TRUE,4.1
+1296,COF1296,Iced Latte,306.45,160,Hazelnut,Hot,Large,276,"Chocolate, Cream, Coffee Beans, Spices, Sugar",FALSE,3.7
+1297,COF1297,Latte,96.87,163,Cardamom,Blended,Large,143,"Spices, Tea Leaves",FALSE,1.6
+1298,COF1298,Espresso,410.53,21,Caramel,Cold,Medium,469,"Ice, Tea Leaves, Chocolate",TRUE,2.3
+1299,COF1299,Cappuccino,191.34,25,Hazelnut,Cold,Medium,201,"Ice, Tea Leaves, Spices",FALSE,3.2
+1300,COF1300,Americano,412.52,186,Caramel,Cold,Medium,389,"Tea Leaves, Coffee Beans, Spices, Cream",TRUE,3.6
+1301,COF1301,Latte,373.88,34,Cinnamon,Cold,Large,334,"Chocolate, Spices",FALSE,2.9
+1302,COF1302,Americano,325.79,192,Cinnamon,Cold,Medium,383,"Cream, Tea Leaves, Ice",FALSE,3.9
+1303,COF1303,Americano,141.27,161,Cinnamon,Cold,Small,451,"Cream, Ice, Sugar, Spices",FALSE,3.3
+1304,COF1304,Masala Chai,131.58,191,Mint,Hot,Small,134,"Coffee Beans, Spices",FALSE,4.8
+1305,COF1305,Iced Latte,82.86,13,Cinnamon,Iced,Small,489,"Sugar, Coffee Beans, Tea Leaves, Chocolate",FALSE,2.3
+1306,COF1306,Masala Chai,423.91,127,Mint,Hot,Medium,116,"Ice, Tea Leaves, Spices, Chocolate",TRUE,2.3
+1307,COF1307,Latte,62.77,200,Mint,Cold,Large,234,"Coffee Beans, Ice, Cream, Sugar, Tea Leaves",FALSE,4.8
+1308,COF1308,Iced Latte,416.71,36,Hazelnut,Cold,Small,209,"Chocolate, Cream, Tea Leaves",FALSE,1.7
+1309,COF1309,Americano,313.46,199,Cardamom,Iced,Small,470,"Tea Leaves, Sugar",FALSE,3.8
+1310,COF1310,Choco Frappe,265.26,69,Cardamom,Blended,Medium,266,"Spices, Milk, Sugar, Coffee Beans, Ice",FALSE,1.9
+1311,COF1311,Masala Chai,181.8,69,Cardamom,Blended,Medium,294,"Milk, Coffee Beans, Tea Leaves, Ice, Sugar",TRUE,1.4
+1312,COF1312,Frappuccino,323.87,128,None,Hot,Medium,314,"Milk, Tea Leaves, Ice",FALSE,2.7
+1313,COF1313,Frappuccino,130.3,46,Chocolate,Hot,Small,347,"Spices, Chocolate, Milk, Tea Leaves",FALSE,2.3
+1314,COF1314,Macchiato,265.34,33,Vanilla,Iced,Small,127,"Tea Leaves, Ice",TRUE,1.7
+1315,COF1315,Americano,244.26,122,None,Cold,Small,411,"Tea Leaves, Spices, Chocolate, Sugar, Milk",TRUE,1.4
+1316,COF1316,Masala Chai,107.44,42,Caramel,Blended,Medium,388,"Coffee Beans, Tea Leaves, Cream, Chocolate",TRUE,1.1
+1317,COF1317,Frappuccino,87.96,91,None,Hot,Small,453,"Tea Leaves, Chocolate, Sugar",TRUE,2
+1318,COF1318,Choco Frappe,91.95,40,Cardamom,Hot,Large,137,"Tea Leaves, Coffee Beans, Sugar",FALSE,1.4
+1319,COF1319,Americano,111.72,102,Cardamom,Blended,Small,453,"Spices, Sugar, Tea Leaves, Chocolate, Coffee Beans",FALSE,2.1
+1320,COF1320,Masala Chai,158.87,108,Chocolate,Hot,Large,310,"Chocolate, Cream, Sugar",FALSE,1.3
+1321,COF1321,Mocha,339.76,177,Vanilla,Hot,Medium,293,"Sugar, Cream, Tea Leaves, Chocolate, Ice",FALSE,1.5
+1322,COF1322,Espresso,299.81,123,Mint,Cold,Medium,280,"Ice, Spices, Sugar",FALSE,4.9
+1323,COF1323,Mocha,368.12,84,Caramel,Hot,Large,173,"Ice, Cream, Milk",TRUE,3.7
+1324,COF1324,Americano,189.72,31,Caramel,Cold,Large,497,"Chocolate, Tea Leaves, Cream, Spices",FALSE,4.2
+1325,COF1325,Latte,336.47,36,Cardamom,Blended,Large,444,"Coffee Beans, Tea Leaves",FALSE,4.4
+1326,COF1326,Frappuccino,424.6,97,Cinnamon,Hot,Medium,152,"Coffee Beans, Chocolate",TRUE,2.4
+1327,COF1327,Espresso,347.7,65,Vanilla,Hot,Medium,180,"Chocolate, Sugar, Spices, Tea Leaves",TRUE,3.3
+1328,COF1328,Mocha,255.15,23,Vanilla,Blended,Small,113,"Cream, Chocolate, Ice, Spices, Milk",TRUE,3.6
+1329,COF1329,Masala Chai,78.39,72,Caramel,Blended,Medium,370,"Spices, Chocolate, Sugar",FALSE,1.1
+1330,COF1330,Macchiato,142.39,122,None,Iced,Medium,173,"Coffee Beans, Ice",FALSE,1.7
+1331,COF1331,Mocha,122.43,58,Cinnamon,Iced,Medium,242,"Milk, Sugar, Ice, Cream, Coffee Beans",TRUE,4.9
+1332,COF1332,Americano,328.08,65,Caramel,Hot,Small,393,"Coffee Beans, Ice",FALSE,2
+1333,COF1333,Mocha,335.25,130,Mint,Blended,Large,313,"Cream, Tea Leaves",FALSE,1.6
+1334,COF1334,Espresso,54.77,190,Cardamom,Iced,Medium,163,"Sugar, Chocolate, Cream, Coffee Beans",TRUE,1.7
+1335,COF1335,Choco Frappe,468.04,17,Vanilla,Cold,Small,298,"Chocolate, Tea Leaves, Milk, Coffee Beans, Ice",FALSE,4.1
+1336,COF1336,Iced Latte,482.26,169,Caramel,Blended,Small,171,"Ice, Tea Leaves, Milk, Coffee Beans",FALSE,1.9
+1337,COF1337,Frappuccino,220.37,93,Vanilla,Hot,Small,145,"Coffee Beans, Milk, Chocolate, Tea Leaves, Ice",TRUE,3.7
+1338,COF1338,Cappuccino,314.45,168,Vanilla,Hot,Medium,161,"Sugar, Spices",TRUE,2.5
+1339,COF1339,Cappuccino,458.38,154,None,Iced,Small,280,"Milk, Tea Leaves",TRUE,4.6
+1340,COF1340,Cappuccino,349.38,131,Chocolate,Iced,Large,309,"Tea Leaves, Coffee Beans, Sugar",FALSE,1.6
+1341,COF1341,Macchiato,431.5,171,Chocolate,Iced,Medium,238,"Tea Leaves, Sugar, Cream, Ice, Chocolate",TRUE,2.2
+1342,COF1342,Iced Latte,248.91,85,Cinnamon,Blended,Large,406,"Cream, Milk, Spices, Ice, Chocolate",FALSE,2.2
+1343,COF1343,Iced Latte,106.81,18,Hazelnut,Hot,Small,287,"Ice, Spices, Sugar",FALSE,1.2
+1344,COF1344,Latte,449.78,42,None,Hot,Medium,339,"Spices, Ice, Coffee Beans, Cream, Milk",FALSE,3.6
+1345,COF1345,Masala Chai,272.93,28,Cinnamon,Iced,Small,137,"Coffee Beans, Chocolate, Cream",TRUE,4.8
+1346,COF1346,Iced Latte,274.5,127,Hazelnut,Hot,Small,146,"Ice, Spices, Cream, Coffee Beans",TRUE,3.5
+1347,COF1347,Espresso,337.66,193,Vanilla,Iced,Small,341,"Sugar, Ice, Coffee Beans",FALSE,2
+1348,COF1348,Americano,336.44,76,Caramel,Cold,Large,394,"Ice, Chocolate",TRUE,5
+1349,COF1349,Masala Chai,353.41,122,Cinnamon,Iced,Small,492,"Milk, Tea Leaves, Ice, Coffee Beans",FALSE,4.2
+1350,COF1350,Iced Latte,310.41,132,Caramel,Hot,Medium,329,"Tea Leaves, Coffee Beans",TRUE,4.4
+1351,COF1351,Cappuccino,183.96,166,Vanilla,Blended,Small,470,"Spices, Chocolate, Cream, Coffee Beans, Sugar",FALSE,1.3
+1352,COF1352,Mocha,485.98,120,Hazelnut,Iced,Large,498,"Spices, Sugar, Ice, Tea Leaves",FALSE,2.3
+1353,COF1353,Cappuccino,296.02,48,None,Hot,Small,146,"Chocolate, Cream, Milk",TRUE,4.4
+1354,COF1354,Americano,255.29,54,Vanilla,Blended,Small,346,"Ice, Coffee Beans",TRUE,1.9
+1355,COF1355,Americano,462.11,140,None,Iced,Large,461,"Sugar, Spices, Cream",FALSE,3
+1356,COF1356,Masala Chai,251.79,194,Cardamom,Hot,Large,339,"Tea Leaves, Milk, Cream, Ice",FALSE,1.5
+1357,COF1357,Macchiato,474.16,66,None,Hot,Small,232,"Spices, Coffee Beans, Ice, Chocolate",FALSE,2.2
+1358,COF1358,Choco Frappe,128.95,35,Cardamom,Hot,Medium,474,"Coffee Beans, Milk",FALSE,2
+1359,COF1359,Mocha,147.37,95,Cardamom,Blended,Large,422,"Tea Leaves, Coffee Beans, Chocolate",TRUE,4.6
+1360,COF1360,Americano,340.03,115,Mint,Iced,Medium,434,"Milk, Spices, Coffee Beans",FALSE,1.8
+1361,COF1361,Espresso,132.77,121,Caramel,Blended,Large,251,"Tea Leaves, Spices",TRUE,4.9
+1362,COF1362,Macchiato,356.5,83,Cinnamon,Blended,Large,111,"Coffee Beans, Tea Leaves",TRUE,4.2
+1363,COF1363,Latte,202.96,94,Mint,Iced,Small,318,"Ice, Coffee Beans",FALSE,4.9
+1364,COF1364,Mocha,255.84,134,Mint,Iced,Medium,349,"Tea Leaves, Milk, Spices, Coffee Beans",TRUE,4.9
+1365,COF1365,Masala Chai,103.39,127,Vanilla,Hot,Large,106,"Coffee Beans, Tea Leaves",FALSE,2.6
+1366,COF1366,Latte,196.47,135,Chocolate,Hot,Medium,155,"Sugar, Coffee Beans",FALSE,2.1
+1367,COF1367,Frappuccino,219.38,169,Caramel,Cold,Small,151,"Chocolate, Sugar, Cream, Spices, Milk",TRUE,4
+1368,COF1368,Iced Latte,329.28,109,Cinnamon,Blended,Small,139,"Cream, Spices, Sugar",TRUE,3.9
+1369,COF1369,Masala Chai,404.08,61,Chocolate,Cold,Small,481,"Cream, Ice, Milk, Tea Leaves, Sugar",FALSE,4.2
+1370,COF1370,Macchiato,473.4,127,Mint,Blended,Large,242,"Coffee Beans, Spices, Cream, Ice, Tea Leaves",FALSE,1.2
+1371,COF1371,Latte,202.28,181,Cardamom,Iced,Large,148,"Milk, Tea Leaves",FALSE,2.1
+1372,COF1372,Cappuccino,95.49,87,Mint,Blended,Large,140,"Cream, Coffee Beans, Chocolate, Ice",FALSE,2
+1373,COF1373,Frappuccino,491.16,47,Vanilla,Hot,Large,224,"Tea Leaves, Sugar, Spices",TRUE,1.5
+1374,COF1374,Cappuccino,430.01,106,Cardamom,Cold,Medium,382,"Ice, Sugar, Tea Leaves",FALSE,1.1
+1375,COF1375,Frappuccino,229.46,78,None,Iced,Large,191,"Ice, Tea Leaves",TRUE,1.4
+1376,COF1376,Frappuccino,170.8,96,Cinnamon,Blended,Small,266,"Spices, Tea Leaves, Milk, Sugar, Ice",FALSE,4.7
+1377,COF1377,Espresso,468.87,51,Cardamom,Iced,Small,107,"Coffee Beans, Ice, Chocolate, Spices",TRUE,4
+1378,COF1378,Macchiato,235.99,68,Cardamom,Blended,Medium,124,"Sugar, Ice, Tea Leaves, Cream",TRUE,4.3
+1379,COF1379,Cappuccino,348.64,153,Caramel,Blended,Large,469,"Ice, Tea Leaves, Sugar, Milk, Chocolate",TRUE,4.6
+1380,COF1380,Choco Frappe,323.75,63,Caramel,Cold,Medium,334,"Milk, Tea Leaves",FALSE,2.1
+1381,COF1381,Latte,324.02,131,Cardamom,Blended,Large,476,"Spices, Coffee Beans, Tea Leaves, Cream, Chocolate",FALSE,4.5
+1382,COF1382,Cappuccino,455.88,150,None,Hot,Small,231,"Tea Leaves, Ice, Cream, Coffee Beans, Chocolate",FALSE,2.9
+1383,COF1383,Latte,221.39,58,Hazelnut,Blended,Large,137,"Ice, Coffee Beans, Chocolate, Cream",TRUE,4.7
+1384,COF1384,Macchiato,323.98,169,None,Cold,Large,459,"Chocolate, Tea Leaves, Milk",FALSE,3.4
+1385,COF1385,Cappuccino,454.41,117,Cardamom,Blended,Small,464,"Cream, Chocolate, Coffee Beans, Spices",TRUE,4
+1386,COF1386,Macchiato,244.82,37,Caramel,Blended,Small,412,"Milk, Chocolate",TRUE,4.2
+1387,COF1387,Iced Latte,90.64,113,Caramel,Hot,Medium,423,"Coffee Beans, Spices, Tea Leaves, Ice",TRUE,3.3
+1388,COF1388,Masala Chai,349.6,22,None,Cold,Small,166,"Ice, Milk, Tea Leaves, Spices, Coffee Beans",FALSE,2.3
+1389,COF1389,Mocha,460.89,16,Hazelnut,Blended,Small,264,"Sugar, Milk, Cream",FALSE,4.6
+1390,COF1390,Choco Frappe,431.28,192,Chocolate,Iced,Large,500,"Spices, Cream",TRUE,4
+1391,COF1391,Cappuccino,401.31,66,Vanilla,Hot,Large,303,"Spices, Tea Leaves, Milk, Sugar",TRUE,4.4
+1392,COF1392,Mocha,164.1,27,Cardamom,Hot,Small,140,"Cream, Tea Leaves",TRUE,4.9
+1393,COF1393,Frappuccino,319.54,138,Hazelnut,Cold,Medium,374,"Chocolate, Coffee Beans, Sugar, Spices, Milk",FALSE,4.6
+1394,COF1394,Cappuccino,330.49,26,Cardamom,Iced,Medium,411,"Sugar, Chocolate, Tea Leaves, Spices",TRUE,3
+1395,COF1395,Cappuccino,342.14,64,Chocolate,Blended,Small,257,"Sugar, Spices",FALSE,1.1
+1396,COF1396,Cappuccino,254.34,98,Vanilla,Cold,Medium,381,"Chocolate, Sugar, Tea Leaves, Milk, Cream",FALSE,4.1
+1397,COF1397,Americano,477.26,115,Vanilla,Hot,Large,335,"Tea Leaves, Cream, Spices, Chocolate, Coffee Beans",TRUE,2.2
+1398,COF1398,Latte,188.6,164,Cinnamon,Iced,Small,364,"Cream, Sugar",TRUE,1
+1399,COF1399,Masala Chai,288.31,177,Mint,Cold,Large,167,"Tea Leaves, Spices",TRUE,1.5
+1400,COF1400,Iced Latte,265.94,24,Cardamom,Hot,Medium,477,"Sugar, Chocolate",FALSE,2.2
+1401,COF1401,Choco Frappe,274.6,139,Caramel,Cold,Large,348,"Chocolate, Spices, Coffee Beans, Ice, Cream",TRUE,1
+1402,COF1402,Choco Frappe,94.56,24,Cinnamon,Blended,Small,223,"Cream, Sugar, Spices, Ice, Tea Leaves",FALSE,3.5
+1403,COF1403,Frappuccino,416.37,147,Cardamom,Iced,Small,316,"Spices, Coffee Beans",TRUE,3
+1404,COF1404,Espresso,144.4,12,Cinnamon,Cold,Medium,105,"Cream, Milk, Chocolate, Ice",TRUE,4.4
+1405,COF1405,Masala Chai,217.83,128,Chocolate,Hot,Small,324,"Milk, Chocolate, Spices, Cream, Sugar",TRUE,1.2
+1406,COF1406,Choco Frappe,495.21,127,Chocolate,Blended,Small,439,"Sugar, Spices, Chocolate",TRUE,2.6
+1407,COF1407,Cappuccino,164.29,192,Chocolate,Cold,Large,414,"Ice, Chocolate, Coffee Beans, Cream",TRUE,1.7
+1408,COF1408,Choco Frappe,404.43,127,Cardamom,Cold,Large,178,"Coffee Beans, Tea Leaves, Spices, Milk, Ice",TRUE,3.9
+1409,COF1409,Masala Chai,339.78,159,Vanilla,Blended,Small,377,"Cream, Milk, Chocolate",TRUE,1.1
+1410,COF1410,Masala Chai,255.87,139,Cardamom,Blended,Small,269,"Chocolate, Coffee Beans",FALSE,2
+1411,COF1411,Americano,466.39,26,Cardamom,Iced,Medium,482,"Sugar, Chocolate, Cream, Milk",TRUE,1.6
+1412,COF1412,Iced Latte,464.85,27,Cardamom,Hot,Medium,339,"Milk, Chocolate",TRUE,1.2
+1413,COF1413,Americano,294.34,113,Cardamom,Iced,Small,170,"Tea Leaves, Spices",TRUE,4.3
+1414,COF1414,Frappuccino,251.09,185,Chocolate,Hot,Medium,317,"Sugar, Chocolate",TRUE,2.4
+1415,COF1415,Iced Latte,157.99,58,Vanilla,Blended,Medium,129,"Spices, Tea Leaves, Sugar, Coffee Beans",TRUE,2.7
+1416,COF1416,Americano,85.78,188,Hazelnut,Blended,Medium,425,"Spices, Sugar, Cream, Chocolate",TRUE,2.7
+1417,COF1417,Latte,190.44,18,Chocolate,Hot,Large,315,"Coffee Beans, Cream, Ice, Chocolate, Milk",FALSE,4.7
+1418,COF1418,Macchiato,53.83,183,Chocolate,Iced,Large,308,"Coffee Beans, Chocolate, Cream, Milk",FALSE,3.9
+1419,COF1419,Masala Chai,495.28,82,Mint,Cold,Medium,215,"Ice, Coffee Beans",TRUE,2.6
+1420,COF1420,Iced Latte,358.39,17,Cinnamon,Hot,Small,253,"Tea Leaves, Coffee Beans, Cream, Sugar, Milk",TRUE,1.1
+1421,COF1421,Masala Chai,62.97,115,None,Hot,Large,422,"Cream, Tea Leaves",FALSE,1.8
+1422,COF1422,Macchiato,497.87,75,None,Hot,Medium,102,"Cream, Sugar",FALSE,2.5
+1423,COF1423,Macchiato,58.71,95,Mint,Blended,Small,299,"Cream, Ice, Milk",TRUE,3.8
+1424,COF1424,Latte,324.83,120,None,Blended,Medium,122,"Sugar, Tea Leaves, Chocolate, Coffee Beans",TRUE,3.6
+1425,COF1425,Choco Frappe,111.6,64,Mint,Hot,Medium,495,"Sugar, Cream, Milk",FALSE,4.8
+1426,COF1426,Choco Frappe,410.1,59,None,Blended,Small,197,"Tea Leaves, Ice",FALSE,3
+1427,COF1427,Latte,86.47,57,Vanilla,Blended,Large,438,"Cream, Ice",FALSE,1.6
+1428,COF1428,Iced Latte,438.38,25,Chocolate,Blended,Large,291,"Milk, Coffee Beans, Spices, Chocolate, Ice",TRUE,4.4
+1429,COF1429,Cappuccino,205.33,122,Cardamom,Hot,Small,220,"Ice, Coffee Beans",FALSE,1.5
+1430,COF1430,Latte,175.56,192,Chocolate,Hot,Large,366,"Chocolate, Tea Leaves, Coffee Beans, Milk",TRUE,2.1
+1431,COF1431,Mocha,264.13,126,Vanilla,Cold,Medium,236,"Sugar, Tea Leaves",TRUE,2.1
+1432,COF1432,Choco Frappe,274.08,192,Cinnamon,Blended,Small,297,"Cream, Chocolate, Sugar",FALSE,2.4
+1433,COF1433,Espresso,275.21,99,Hazelnut,Cold,Large,404,"Tea Leaves, Sugar, Cream",FALSE,3
+1434,COF1434,Cappuccino,453.67,47,Caramel,Cold,Small,361,"Chocolate, Coffee Beans",FALSE,3.9
+1435,COF1435,Mocha,236.95,138,Mint,Hot,Medium,439,"Sugar, Tea Leaves, Coffee Beans, Milk, Spices",FALSE,2.6
+1436,COF1436,Masala Chai,376.64,148,Cinnamon,Iced,Large,211,"Coffee Beans, Sugar, Ice, Spices",FALSE,3.1
+1437,COF1437,Masala Chai,275.84,28,None,Cold,Medium,190,"Chocolate, Milk, Spices, Ice, Cream",TRUE,4.8
+1438,COF1438,Espresso,82.81,102,Cardamom,Blended,Large,202,"Spices, Cream, Sugar, Ice, Coffee Beans",TRUE,2.7
+1439,COF1439,Latte,236.55,36,Mint,Iced,Medium,156,"Milk, Spices, Tea Leaves, Cream, Sugar",TRUE,3.2
+1440,COF1440,Frappuccino,149.64,51,Cinnamon,Cold,Small,465,"Ice, Chocolate",TRUE,4.2
+1441,COF1441,Choco Frappe,433.79,177,Mint,Hot,Small,400,"Cream, Chocolate, Ice, Tea Leaves",TRUE,3.5
+1442,COF1442,Masala Chai,391.54,115,Cardamom,Cold,Medium,342,"Coffee Beans, Spices, Milk",FALSE,3.2
+1443,COF1443,Iced Latte,365.95,13,Caramel,Blended,Medium,463,"Sugar, Cream, Spices",TRUE,4.7
+1444,COF1444,Frappuccino,290.36,89,Cardamom,Cold,Medium,334,"Ice, Sugar, Cream",TRUE,2.8
+1445,COF1445,Mocha,286.57,107,Hazelnut,Cold,Large,491,"Coffee Beans, Milk, Cream",FALSE,4.3
+1446,COF1446,Latte,123.78,86,Mint,Iced,Medium,330,"Spices, Ice, Coffee Beans",TRUE,1.5
+1447,COF1447,Macchiato,160.36,123,Hazelnut,Hot,Medium,168,"Ice, Milk, Cream",TRUE,5
+1448,COF1448,Mocha,353.96,107,Mint,Hot,Large,407,"Tea Leaves, Cream, Spices, Milk, Sugar",TRUE,4.4
+1449,COF1449,Macchiato,465.02,102,Cardamom,Cold,Medium,424,"Milk, Chocolate, Ice",TRUE,1.6
+1450,COF1450,Macchiato,232.71,42,Hazelnut,Hot,Small,262,"Cream, Tea Leaves, Coffee Beans, Chocolate, Milk",TRUE,2.3
+1451,COF1451,Choco Frappe,196.21,106,None,Cold,Medium,187,"Spices, Cream",TRUE,2.5
+1452,COF1452,Latte,204.09,24,Vanilla,Blended,Medium,272,"Chocolate, Milk, Ice, Coffee Beans, Spices",FALSE,2.5
+1453,COF1453,Mocha,373.82,144,Caramel,Iced,Large,342,"Tea Leaves, Cream, Sugar",FALSE,1.6
+1454,COF1454,Frappuccino,252.79,134,Caramel,Cold,Medium,377,"Milk, Coffee Beans, Tea Leaves",TRUE,2.8
+1455,COF1455,Macchiato,352.73,100,Chocolate,Iced,Small,217,"Cream, Tea Leaves",FALSE,2.6
+1456,COF1456,Espresso,434.97,99,Cinnamon,Cold,Medium,202,"Milk, Spices",TRUE,2.4
+1457,COF1457,Espresso,274.14,66,Chocolate,Blended,Large,481,"Coffee Beans, Ice",TRUE,4.7
+1458,COF1458,Cappuccino,403.9,185,Vanilla,Blended,Small,147,"Sugar, Milk, Tea Leaves, Chocolate",TRUE,4.7
+1459,COF1459,Frappuccino,273.25,141,Cinnamon,Cold,Large,292,"Milk, Tea Leaves, Sugar, Ice, Cream",FALSE,3.3
+1460,COF1460,Cappuccino,421.13,17,Cinnamon,Iced,Small,497,"Sugar, Milk, Chocolate",FALSE,2.1
+1461,COF1461,Frappuccino,67.4,29,Hazelnut,Blended,Small,306,"Spices, Coffee Beans, Cream",TRUE,1.9
+1462,COF1462,Choco Frappe,118.79,189,Cinnamon,Blended,Medium,281,"Chocolate, Milk",TRUE,3.3
+1463,COF1463,Masala Chai,305.61,163,Cardamom,Iced,Small,459,"Tea Leaves, Chocolate, Milk",FALSE,1.3
+1464,COF1464,Americano,221.71,175,None,Blended,Small,368,"Coffee Beans, Spices, Cream, Milk",FALSE,1.5
+1465,COF1465,Mocha,327.66,91,Caramel,Iced,Small,406,"Milk, Tea Leaves",FALSE,3.8
+1466,COF1466,Latte,156,153,Chocolate,Hot,Large,179,"Coffee Beans, Ice, Milk",FALSE,5
+1467,COF1467,Choco Frappe,390.65,127,None,Iced,Large,357,"Milk, Sugar, Spices, Chocolate",FALSE,2.9
+1468,COF1468,Mocha,366.9,188,Cinnamon,Blended,Large,453,"Spices, Cream, Milk, Sugar, Chocolate",FALSE,4.8
+1469,COF1469,Espresso,447.43,108,Vanilla,Hot,Small,261,"Cream, Ice, Milk, Coffee Beans",FALSE,4.9
+1470,COF1470,Iced Latte,115.83,186,None,Cold,Medium,271,"Sugar, Cream, Tea Leaves",FALSE,4.2
+1471,COF1471,Frappuccino,393.92,161,Cinnamon,Blended,Small,246,"Cream, Sugar, Tea Leaves, Chocolate",TRUE,4.2
+1472,COF1472,Espresso,98.28,126,Hazelnut,Iced,Medium,121,"Spices, Sugar, Coffee Beans, Tea Leaves, Ice",TRUE,1.1
+1473,COF1473,Americano,432.46,124,Vanilla,Blended,Small,488,"Coffee Beans, Sugar",TRUE,4.5
+1474,COF1474,Iced Latte,74.17,174,Chocolate,Hot,Medium,487,"Ice, Coffee Beans, Tea Leaves, Chocolate, Milk",TRUE,4.5
+1475,COF1475,Iced Latte,324.15,101,Chocolate,Blended,Medium,277,"Coffee Beans, Sugar, Chocolate, Cream, Milk",TRUE,4.5
+1476,COF1476,Masala Chai,358.04,39,Cardamom,Blended,Medium,400,"Chocolate, Coffee Beans, Milk, Tea Leaves",FALSE,4.7
+1477,COF1477,Masala Chai,98.3,28,Cardamom,Blended,Small,366,"Chocolate, Ice, Milk",TRUE,4.4
+1478,COF1478,Frappuccino,423.96,95,Mint,Iced,Large,273,"Milk, Ice, Tea Leaves",TRUE,3.5
+1479,COF1479,Iced Latte,478.31,126,Caramel,Cold,Small,458,"Milk, Spices, Coffee Beans, Cream",FALSE,3.6
+1480,COF1480,Iced Latte,361.7,92,Vanilla,Blended,Large,436,"Spices, Sugar, Tea Leaves",TRUE,4.3
+1481,COF1481,Cappuccino,287.65,120,Cinnamon,Blended,Small,393,"Chocolate, Ice, Coffee Beans, Spices",FALSE,2.5
+1482,COF1482,Iced Latte,182.31,198,Caramel,Iced,Large,291,"Spices, Coffee Beans, Sugar, Milk, Ice",FALSE,2.2
+1483,COF1483,Frappuccino,409.06,98,None,Cold,Small,290,"Spices, Cream",TRUE,4.1
+1484,COF1484,Latte,244.19,135,None,Iced,Small,140,"Spices, Milk, Ice",TRUE,4.5
+1485,COF1485,Latte,207.78,52,Hazelnut,Blended,Medium,322,"Chocolate, Spices, Coffee Beans, Sugar, Tea Leaves",TRUE,2.6
+1486,COF1486,Americano,372.47,162,Cinnamon,Hot,Medium,153,"Cream, Milk",TRUE,2
+1487,COF1487,Macchiato,90.05,31,Cinnamon,Iced,Large,208,"Ice, Tea Leaves, Sugar, Coffee Beans",FALSE,2.8
+1488,COF1488,Americano,139.15,167,Hazelnut,Iced,Medium,464,"Ice, Cream, Tea Leaves, Spices, Coffee Beans",TRUE,4.6
+1489,COF1489,Espresso,125.98,102,None,Iced,Small,425,"Chocolate, Ice",FALSE,3.3
+1490,COF1490,Frappuccino,160.24,178,None,Cold,Large,337,"Sugar, Milk, Cream, Ice, Coffee Beans",TRUE,4.2
+1491,COF1491,Masala Chai,335.73,34,Cinnamon,Iced,Small,393,"Milk, Cream, Sugar",TRUE,3.5
+1492,COF1492,Choco Frappe,471.07,193,Cinnamon,Blended,Large,161,"Tea Leaves, Ice, Sugar",TRUE,2.3
+1493,COF1493,Americano,444.45,51,Hazelnut,Blended,Medium,241,"Ice, Spices",TRUE,3.1
+1494,COF1494,Cappuccino,132.71,199,None,Cold,Large,212,"Chocolate, Cream, Tea Leaves, Milk",TRUE,2.2
+1495,COF1495,Frappuccino,173.68,157,Vanilla,Hot,Medium,291,"Chocolate, Milk, Cream, Sugar",FALSE,3
+1496,COF1496,Masala Chai,240.49,165,None,Blended,Small,351,"Milk, Sugar, Ice",TRUE,4.4
+1497,COF1497,Espresso,451.33,76,Hazelnut,Hot,Small,420,"Coffee Beans, Spices, Chocolate",FALSE,2
+1498,COF1498,Latte,125.44,91,Mint,Cold,Medium,435,"Coffee Beans, Milk",TRUE,4
+1499,COF1499,Choco Frappe,482.67,108,Cinnamon,Iced,Medium,153,"Cream, Ice",FALSE,4.4
+1500,COF1500,Iced Latte,171.3,118,Cinnamon,Blended,Large,156,"Chocolate, Ice",FALSE,1.4
+1501,COF1501,Mocha,259.92,158,Caramel,Blended,Medium,272,"Ice, Tea Leaves, Cream, Coffee Beans",TRUE,4.7
+1502,COF1502,Choco Frappe,437.88,60,Vanilla,Hot,Medium,112,"Sugar, Tea Leaves, Coffee Beans",FALSE,5
+1503,COF1503,Choco Frappe,64.12,159,Cardamom,Iced,Large,226,"Sugar, Milk, Chocolate, Cream, Coffee Beans",TRUE,4.2
+1504,COF1504,Cappuccino,65.98,104,Mint,Iced,Medium,276,"Tea Leaves, Coffee Beans",TRUE,3.2
+1505,COF1505,Macchiato,126.52,81,Vanilla,Hot,Small,422,"Cream, Coffee Beans, Ice, Sugar",TRUE,2.5
+1506,COF1506,Latte,72.51,93,None,Hot,Medium,138,"Cream, Sugar, Ice, Tea Leaves",FALSE,4.4
+1507,COF1507,Espresso,245.02,17,Cardamom,Hot,Large,332,"Tea Leaves, Ice, Chocolate",TRUE,3.5
+1508,COF1508,Americano,464.14,51,Caramel,Cold,Medium,303,"Chocolate, Spices, Sugar",FALSE,4.9
+1509,COF1509,Mocha,84.57,44,Cinnamon,Iced,Small,129,"Coffee Beans, Sugar, Cream",FALSE,4.2
+1510,COF1510,Iced Latte,82.6,130,Chocolate,Cold,Small,484,"Tea Leaves, Chocolate, Coffee Beans, Cream",FALSE,3.4
+1511,COF1511,Choco Frappe,365.98,117,Cardamom,Hot,Large,136,"Chocolate, Sugar",FALSE,1.4
+1512,COF1512,Choco Frappe,434.59,59,None,Iced,Large,312,"Spices, Ice, Sugar",TRUE,4.2
+1513,COF1513,Espresso,263.94,162,Cardamom,Hot,Small,389,"Coffee Beans, Milk, Sugar, Cream, Ice",FALSE,2.8
+1514,COF1514,Latte,228.64,164,None,Hot,Small,425,"Cream, Coffee Beans, Chocolate, Spices, Tea Leaves",FALSE,1.3
+1515,COF1515,Macchiato,241.55,62,Mint,Cold,Medium,454,"Ice, Spices",FALSE,2.9
+1516,COF1516,Macchiato,82.73,62,Mint,Hot,Medium,400,"Cream, Coffee Beans, Ice",TRUE,2.8
+1517,COF1517,Americano,171.49,135,Chocolate,Hot,Large,232,"Sugar, Spices, Tea Leaves, Milk",FALSE,1.5
+1518,COF1518,Cappuccino,117.73,135,Vanilla,Blended,Small,272,"Spices, Coffee Beans",TRUE,3.7
+1519,COF1519,Latte,313.15,84,Caramel,Hot,Medium,127,"Tea Leaves, Spices",FALSE,4.2
+1520,COF1520,Choco Frappe,154.34,33,Chocolate,Iced,Large,278,"Spices, Coffee Beans, Tea Leaves",TRUE,4.9
+1521,COF1521,Choco Frappe,141,177,Cinnamon,Cold,Medium,473,"Sugar, Milk, Chocolate, Coffee Beans",FALSE,4.3
+1522,COF1522,Americano,79.21,33,Cardamom,Hot,Small,495,"Milk, Chocolate, Ice, Spices, Tea Leaves",FALSE,2.2
+1523,COF1523,Espresso,432.41,51,Chocolate,Iced,Medium,262,"Spices, Ice, Sugar, Coffee Beans, Tea Leaves",TRUE,3.9
+1524,COF1524,Latte,256.81,52,Caramel,Hot,Medium,368,"Chocolate, Coffee Beans, Milk, Spices",FALSE,1.6
+1525,COF1525,Frappuccino,287.44,28,Vanilla,Iced,Small,310,"Chocolate, Spices, Ice, Coffee Beans",FALSE,4.4
+1526,COF1526,Cappuccino,313.11,100,Cinnamon,Hot,Large,131,"Spices, Cream",FALSE,1.5
+1527,COF1527,Macchiato,272.17,46,Vanilla,Blended,Small,308,"Ice, Cream, Chocolate, Milk, Coffee Beans",TRUE,2.2
+1528,COF1528,Espresso,493.26,71,Hazelnut,Hot,Medium,344,"Chocolate, Spices, Tea Leaves",FALSE,4.2
+1529,COF1529,Cappuccino,397.14,79,Hazelnut,Hot,Medium,351,"Cream, Coffee Beans",TRUE,2.6
+1530,COF1530,Cappuccino,220.17,75,Caramel,Blended,Medium,349,"Chocolate, Coffee Beans, Ice, Spices",TRUE,3.1
+1531,COF1531,Masala Chai,151.04,109,Vanilla,Iced,Small,171,"Milk, Tea Leaves, Coffee Beans, Sugar",FALSE,2.7
+1532,COF1532,Iced Latte,273.12,39,Hazelnut,Blended,Small,300,"Coffee Beans, Spices, Milk",TRUE,1.9
+1533,COF1533,Mocha,111.57,157,Cardamom,Cold,Large,246,"Ice, Milk, Chocolate, Spices",TRUE,4.4
+1534,COF1534,Americano,165.75,132,Chocolate,Iced,Medium,269,"Sugar, Ice, Cream, Spices, Chocolate",FALSE,3
+1535,COF1535,Macchiato,168.59,194,Hazelnut,Cold,Large,319,"Tea Leaves, Spices, Chocolate",FALSE,3.4
+1536,COF1536,Choco Frappe,435.68,139,Mint,Cold,Large,156,"Cream, Chocolate, Sugar, Spices",FALSE,4.2
+1537,COF1537,Latte,195.74,14,Caramel,Blended,Large,354,"Tea Leaves, Ice, Coffee Beans, Spices, Milk",TRUE,3.3
+1538,COF1538,Iced Latte,359.27,89,Mint,Blended,Small,470,"Ice, Cream",TRUE,4.1
+1539,COF1539,Macchiato,226.75,94,Hazelnut,Iced,Small,384,"Sugar, Chocolate, Milk",FALSE,3.4
+1540,COF1540,Masala Chai,291.18,178,Caramel,Cold,Medium,154,"Ice, Spices, Cream, Coffee Beans, Chocolate",FALSE,2.2
+1541,COF1541,Masala Chai,322.28,175,Vanilla,Hot,Medium,457,"Coffee Beans, Spices",TRUE,2.5
+1542,COF1542,Macchiato,309.01,98,Chocolate,Hot,Large,120,"Tea Leaves, Coffee Beans, Sugar, Ice",TRUE,3.6
+1543,COF1543,Mocha,266.08,63,Chocolate,Hot,Medium,427,"Tea Leaves, Chocolate",FALSE,4.6
+1544,COF1544,Latte,100.72,34,None,Hot,Large,456,"Tea Leaves, Cream, Chocolate, Ice",TRUE,4.6
+1545,COF1545,Cappuccino,53.84,111,Cinnamon,Blended,Large,497,"Milk, Cream",TRUE,4.4
+1546,COF1546,Choco Frappe,69.02,90,Cinnamon,Iced,Medium,109,"Coffee Beans, Cream, Sugar, Chocolate, Milk",TRUE,4.6
+1547,COF1547,Macchiato,257.63,101,Caramel,Hot,Large,298,"Ice, Milk",FALSE,3.5
+1548,COF1548,Mocha,482.66,31,None,Iced,Medium,441,"Sugar, Tea Leaves, Ice, Coffee Beans, Chocolate",TRUE,3.8
+1549,COF1549,Iced Latte,268.03,195,Mint,Blended,Large,266,"Tea Leaves, Spices, Cream",FALSE,1.9
+1550,COF1550,Masala Chai,68.62,78,Chocolate,Cold,Small,342,"Milk, Cream, Spices, Ice",TRUE,1.4
+1551,COF1551,Frappuccino,93.14,145,None,Iced,Large,408,"Cream, Coffee Beans, Spices",FALSE,3.9
+1552,COF1552,Americano,57.59,54,None,Iced,Large,201,"Milk, Sugar",FALSE,4.7
+1553,COF1553,Iced Latte,322.54,77,None,Hot,Large,131,"Sugar, Milk, Tea Leaves, Chocolate",FALSE,4.1
+1554,COF1554,Cappuccino,82.29,25,Mint,Blended,Large,244,"Tea Leaves, Milk, Chocolate, Cream, Sugar",TRUE,3.1
+1555,COF1555,Masala Chai,67.8,137,Cinnamon,Hot,Large,201,"Coffee Beans, Ice",FALSE,4.8
+1556,COF1556,Macchiato,356,196,Mint,Blended,Medium,483,"Spices, Milk, Sugar, Ice, Tea Leaves",FALSE,1.7
+1557,COF1557,Frappuccino,68.88,112,Mint,Hot,Large,246,"Milk, Sugar, Chocolate, Spices",FALSE,1.3
+1558,COF1558,Iced Latte,330.81,47,Vanilla,Cold,Small,362,"Sugar, Spices",TRUE,3.3
+1559,COF1559,Iced Latte,448.7,135,Cinnamon,Hot,Medium,228,"Sugar, Spices",FALSE,3.2
+1560,COF1560,Mocha,449.24,114,Vanilla,Iced,Small,380,"Spices, Cream, Ice",TRUE,5
+1561,COF1561,Americano,465.07,184,Caramel,Blended,Large,146,"Cream, Ice, Spices, Milk, Tea Leaves",FALSE,4.8
+1562,COF1562,Americano,220.89,196,Caramel,Iced,Large,348,"Chocolate, Sugar, Spices, Cream",FALSE,3.7
+1563,COF1563,Masala Chai,485.68,126,Caramel,Hot,Medium,439,"Chocolate, Spices",TRUE,2.6
+1564,COF1564,Macchiato,387.35,36,Caramel,Hot,Medium,253,"Coffee Beans, Sugar",TRUE,4
+1565,COF1565,Latte,478.68,120,None,Iced,Large,280,"Chocolate, Cream",FALSE,3.4
+1566,COF1566,Macchiato,134.41,97,Caramel,Cold,Medium,418,"Milk, Cream, Chocolate, Ice",FALSE,4.2
+1567,COF1567,Cappuccino,290.62,54,Hazelnut,Blended,Medium,127,"Spices, Tea Leaves, Coffee Beans",TRUE,1.1
+1568,COF1568,Masala Chai,248.53,22,None,Cold,Large,233,"Ice, Spices",TRUE,1.6
+1569,COF1569,Masala Chai,264.57,154,Cinnamon,Iced,Large,331,"Chocolate, Cream, Tea Leaves, Spices, Coffee Beans",FALSE,2.5
+1570,COF1570,Choco Frappe,251.28,169,None,Iced,Medium,428,"Sugar, Milk",TRUE,4.4
+1571,COF1571,Iced Latte,230.33,98,Mint,Blended,Large,337,"Cream, Milk, Sugar, Coffee Beans",FALSE,4.5
+1572,COF1572,Espresso,437.32,159,Cardamom,Cold,Medium,121,"Sugar, Milk, Tea Leaves",TRUE,1.7
+1573,COF1573,Espresso,67.68,197,Chocolate,Cold,Medium,184,"Cream, Milk",FALSE,1.2
+1574,COF1574,Cappuccino,103.36,12,Vanilla,Blended,Large,216,"Cream, Chocolate",FALSE,2.6
+1575,COF1575,Espresso,357.79,160,Mint,Blended,Small,476,"Milk, Cream",TRUE,1.2
+1576,COF1576,Espresso,366.49,200,Chocolate,Blended,Medium,176,"Sugar, Cream, Spices",FALSE,2.7
+1577,COF1577,Choco Frappe,296.08,61,Vanilla,Hot,Large,144,"Chocolate, Cream, Coffee Beans, Sugar, Ice",TRUE,3.9
+1578,COF1578,Choco Frappe,210.02,135,Caramel,Cold,Medium,436,"Ice, Tea Leaves, Chocolate, Cream, Milk",TRUE,4.1
+1579,COF1579,Frappuccino,117.9,145,Cardamom,Cold,Small,402,"Coffee Beans, Cream, Tea Leaves",FALSE,4.4
+1580,COF1580,Cappuccino,350.95,182,Chocolate,Iced,Large,347,"Spices, Ice",FALSE,4.7
+1581,COF1581,Choco Frappe,175.76,149,Caramel,Cold,Large,299,"Ice, Sugar, Tea Leaves",FALSE,1.8
+1582,COF1582,Americano,309.11,152,Mint,Hot,Large,251,"Tea Leaves, Milk",TRUE,1.1
+1583,COF1583,Americano,334.14,171,Mint,Cold,Small,469,"Chocolate, Ice, Sugar, Spices, Tea Leaves",FALSE,3.5
+1584,COF1584,Mocha,488.99,32,Vanilla,Cold,Large,408,"Ice, Sugar, Cream, Spices",FALSE,2.3
+1585,COF1585,Macchiato,222.42,170,Cardamom,Hot,Small,139,"Cream, Ice, Spices, Tea Leaves",FALSE,3.7
+1586,COF1586,Cappuccino,129.23,194,None,Hot,Small,397,"Tea Leaves, Coffee Beans, Sugar",TRUE,3.1
+1587,COF1587,Latte,81.72,189,Caramel,Hot,Medium,487,"Sugar, Coffee Beans, Cream, Chocolate",TRUE,3.8
+1588,COF1588,Masala Chai,339.77,127,Mint,Cold,Medium,137,"Cream, Sugar, Milk, Chocolate, Ice",FALSE,3.1
+1589,COF1589,Americano,376.57,180,Chocolate,Hot,Medium,420,"Coffee Beans, Chocolate, Tea Leaves",FALSE,4.5
+1590,COF1590,Masala Chai,192.01,13,Mint,Hot,Medium,495,"Coffee Beans, Ice, Tea Leaves",TRUE,4.5
+1591,COF1591,Choco Frappe,345.15,53,Mint,Iced,Small,489,"Cream, Coffee Beans, Ice, Sugar, Tea Leaves",TRUE,4.2
+1592,COF1592,Masala Chai,88.99,117,Caramel,Iced,Large,407,"Chocolate, Milk, Coffee Beans",FALSE,3.5
+1593,COF1593,Latte,232.3,180,Cardamom,Hot,Large,302,"Spices, Cream",TRUE,4.6
+1594,COF1594,Choco Frappe,96.74,36,Hazelnut,Cold,Large,317,"Chocolate, Milk",TRUE,1.3
+1595,COF1595,Masala Chai,464.86,81,Hazelnut,Cold,Small,100,"Ice, Coffee Beans, Tea Leaves, Cream, Milk",TRUE,4.6
+1596,COF1596,Americano,411.66,145,Hazelnut,Blended,Small,437,"Spices, Tea Leaves, Coffee Beans, Milk, Chocolate",FALSE,1.1
+1597,COF1597,Latte,223.04,44,Cinnamon,Blended,Medium,495,"Ice, Tea Leaves, Chocolate, Cream, Spices",FALSE,2.8
+1598,COF1598,Masala Chai,91.39,141,Caramel,Blended,Small,116,"Ice, Cream, Chocolate",FALSE,1.9
+1599,COF1599,Macchiato,179.89,78,Mint,Blended,Medium,468,"Ice, Spices, Coffee Beans, Chocolate",TRUE,1.2
+1600,COF1600,Choco Frappe,473.32,200,Vanilla,Hot,Large,204,"Spices, Coffee Beans",FALSE,3.4
+1601,COF1601,Frappuccino,490.69,94,Mint,Blended,Medium,344,"Spices, Milk, Chocolate",TRUE,1.1
+1602,COF1602,Americano,151.5,133,Cinnamon,Hot,Medium,448,"Milk, Tea Leaves, Sugar",FALSE,2.4
+1603,COF1603,Masala Chai,58.26,17,Chocolate,Cold,Medium,280,"Cream, Coffee Beans, Tea Leaves, Ice, Milk",TRUE,1.2
+1604,COF1604,Latte,474.61,24,None,Cold,Small,380,"Spices, Milk, Tea Leaves",FALSE,3.4
+1605,COF1605,Masala Chai,101.15,151,None,Hot,Medium,219,"Coffee Beans, Sugar, Ice, Chocolate",FALSE,1.7
+1606,COF1606,Macchiato,265.04,38,Cardamom,Hot,Large,247,"Coffee Beans, Sugar, Spices, Ice",TRUE,2.3
+1607,COF1607,Espresso,354.59,96,Hazelnut,Iced,Medium,272,"Sugar, Spices",TRUE,2.3
+1608,COF1608,Masala Chai,250.4,106,Chocolate,Blended,Large,103,"Cream, Coffee Beans, Milk, Chocolate",TRUE,3.9
+1609,COF1609,Mocha,334.2,168,Chocolate,Blended,Small,357,"Sugar, Tea Leaves",TRUE,4.9
+1610,COF1610,Masala Chai,114.49,200,Caramel,Hot,Small,246,"Chocolate, Sugar, Cream, Coffee Beans",FALSE,4.7
+1611,COF1611,Americano,316.67,177,Vanilla,Iced,Large,202,"Milk, Chocolate",TRUE,3.7
+1612,COF1612,Choco Frappe,465.83,70,Vanilla,Blended,Small,220,"Coffee Beans, Tea Leaves, Cream",TRUE,2
+1613,COF1613,Choco Frappe,284.11,164,Vanilla,Iced,Small,143,"Coffee Beans, Spices, Ice",TRUE,3.8
+1614,COF1614,Iced Latte,412.11,24,Cardamom,Cold,Medium,194,"Chocolate, Tea Leaves, Milk, Cream, Ice",TRUE,5
+1615,COF1615,Masala Chai,475.17,132,Hazelnut,Hot,Small,437,"Tea Leaves, Cream, Coffee Beans, Milk",FALSE,2.2
+1616,COF1616,Latte,93.77,133,Caramel,Hot,Large,448,"Sugar, Coffee Beans, Tea Leaves, Spices, Ice",FALSE,1.9
+1617,COF1617,Espresso,407.61,164,None,Iced,Small,407,"Ice, Sugar",TRUE,2.7
+1618,COF1618,Mocha,143.56,77,Caramel,Iced,Large,199,"Tea Leaves, Milk",TRUE,4.4
+1619,COF1619,Cappuccino,345.4,131,Cardamom,Cold,Medium,496,"Chocolate, Sugar, Coffee Beans, Tea Leaves",FALSE,3.8
+1620,COF1620,Cappuccino,118.21,179,None,Cold,Large,385,"Spices, Ice, Tea Leaves, Chocolate",TRUE,4.5
+1621,COF1621,Macchiato,189.34,86,Caramel,Hot,Medium,345,"Ice, Spices, Milk, Cream, Coffee Beans",TRUE,3
+1622,COF1622,Cappuccino,429.64,148,Chocolate,Iced,Large,461,"Cream, Spices, Tea Leaves",TRUE,4.4
+1623,COF1623,Iced Latte,208.01,136,Vanilla,Iced,Large,402,"Milk, Cream",FALSE,3.5
+1624,COF1624,Latte,118.57,180,Vanilla,Cold,Large,388,"Coffee Beans, Ice, Chocolate, Milk",TRUE,3
+1625,COF1625,Choco Frappe,355.82,174,None,Hot,Medium,140,"Sugar, Spices, Ice",TRUE,3.3
+1626,COF1626,Frappuccino,395.38,171,Mint,Cold,Medium,292,"Chocolate, Ice, Spices",TRUE,4.3
+1627,COF1627,Macchiato,227.94,11,Cinnamon,Blended,Medium,394,"Tea Leaves, Sugar, Chocolate",TRUE,3.1
+1628,COF1628,Latte,291.5,189,Caramel,Hot,Large,244,"Cream, Milk, Coffee Beans, Spices",FALSE,2
+1629,COF1629,Mocha,430.31,41,None,Blended,Large,298,"Chocolate, Spices, Cream, Ice, Milk",TRUE,4.4
+1630,COF1630,Masala Chai,341.66,20,Cardamom,Hot,Small,426,"Chocolate, Milk, Sugar, Coffee Beans, Cream",FALSE,2.5
+1631,COF1631,Mocha,146.62,110,Caramel,Cold,Small,231,"Coffee Beans, Ice, Spices",TRUE,4.3
+1632,COF1632,Iced Latte,116.26,126,Cinnamon,Iced,Large,421,"Chocolate, Coffee Beans",FALSE,3
+1633,COF1633,Cappuccino,160.15,100,Hazelnut,Iced,Medium,389,"Coffee Beans, Ice",FALSE,2.3
+1634,COF1634,Americano,76.35,169,Hazelnut,Iced,Medium,130,"Sugar, Spices, Chocolate",FALSE,2
+1635,COF1635,Cappuccino,481.36,162,Cardamom,Iced,Small,149,"Ice, Coffee Beans",TRUE,2
+1636,COF1636,Macchiato,103.16,187,Hazelnut,Hot,Small,469,"Cream, Ice, Sugar, Coffee Beans, Spices",TRUE,2.4
+1637,COF1637,Americano,368.44,95,Vanilla,Blended,Large,258,"Sugar, Chocolate, Coffee Beans, Ice, Cream",FALSE,3.4
+1638,COF1638,Espresso,404.08,42,Caramel,Hot,Medium,222,"Cream, Tea Leaves, Milk",FALSE,2.5
+1639,COF1639,Choco Frappe,485.58,92,Caramel,Iced,Small,267,"Milk, Coffee Beans",FALSE,4.5
+1640,COF1640,Americano,272.87,125,Cinnamon,Hot,Medium,178,"Sugar, Ice, Cream, Chocolate, Tea Leaves",TRUE,1.5
+1641,COF1641,Frappuccino,67.48,56,None,Cold,Small,398,"Milk, Chocolate, Spices, Cream, Coffee Beans",TRUE,4
+1642,COF1642,Americano,165.14,180,Chocolate,Hot,Small,141,"Ice, Chocolate",FALSE,1.8
+1643,COF1643,Macchiato,451.23,130,Cinnamon,Iced,Small,236,"Ice, Tea Leaves, Sugar, Spices",TRUE,3.3
+1644,COF1644,Espresso,52.71,167,Vanilla,Iced,Large,279,"Chocolate, Coffee Beans",FALSE,3.3
+1645,COF1645,Iced Latte,65.57,30,Chocolate,Hot,Medium,200,"Ice, Sugar, Tea Leaves, Cream",FALSE,4.4
+1646,COF1646,Iced Latte,97.48,104,Cardamom,Hot,Small,316,"Coffee Beans, Tea Leaves, Chocolate, Spices",FALSE,4.1
+1647,COF1647,Espresso,134.57,145,Vanilla,Hot,Medium,133,"Coffee Beans, Cream",TRUE,2.8
+1648,COF1648,Americano,349.93,171,Hazelnut,Hot,Small,309,"Sugar, Ice",TRUE,3.9
+1649,COF1649,Americano,339.85,162,Vanilla,Blended,Large,168,"Tea Leaves, Cream",FALSE,2.5
+1650,COF1650,Espresso,131.78,119,Vanilla,Cold,Large,148,"Sugar, Ice, Chocolate",FALSE,1.3
+1651,COF1651,Choco Frappe,235.61,150,Hazelnut,Iced,Small,362,"Milk, Chocolate, Cream, Spices",FALSE,3.7
+1652,COF1652,Frappuccino,124.41,10,Mint,Blended,Medium,314,"Cream, Tea Leaves, Ice, Chocolate, Coffee Beans",FALSE,3
+1653,COF1653,Iced Latte,355.24,22,Hazelnut,Blended,Small,318,"Chocolate, Ice, Sugar",FALSE,3.1
+1654,COF1654,Mocha,162.16,184,Chocolate,Blended,Small,226,"Spices, Ice, Milk",TRUE,4.5
+1655,COF1655,Masala Chai,91.24,171,None,Hot,Large,183,"Ice, Spices, Chocolate, Coffee Beans, Cream",TRUE,1.2
+1656,COF1656,Frappuccino,279.28,51,None,Cold,Small,341,"Sugar, Cream",FALSE,1.1
+1657,COF1657,Espresso,418.14,185,Mint,Iced,Medium,276,"Tea Leaves, Chocolate, Cream, Sugar, Ice",FALSE,4.3
+1658,COF1658,Masala Chai,347.67,37,Cardamom,Blended,Large,365,"Chocolate, Coffee Beans",FALSE,4.4
+1659,COF1659,Latte,487.97,69,Vanilla,Iced,Small,493,"Coffee Beans, Milk",TRUE,3.9
+1660,COF1660,Masala Chai,98.29,159,None,Blended,Small,373,"Ice, Cream, Sugar, Spices",FALSE,2.3
+1661,COF1661,Macchiato,120.05,135,None,Blended,Medium,422,"Milk, Cream, Tea Leaves, Sugar",FALSE,2.3
+1662,COF1662,Cappuccino,236.37,29,Hazelnut,Blended,Medium,460,"Tea Leaves, Sugar",FALSE,1.1
+1663,COF1663,Iced Latte,323.99,188,Hazelnut,Blended,Large,453,"Chocolate, Spices, Tea Leaves, Ice, Cream",TRUE,2.1
+1664,COF1664,Macchiato,393.34,121,Cardamom,Hot,Medium,116,"Ice, Cream, Milk, Chocolate, Spices",FALSE,1.2
+1665,COF1665,Espresso,306.59,141,Mint,Cold,Medium,354,"Coffee Beans, Chocolate, Ice, Tea Leaves",TRUE,3.8
+1666,COF1666,Frappuccino,282.01,126,Cinnamon,Hot,Large,212,"Milk, Spices, Tea Leaves, Cream, Chocolate",FALSE,4.1
+1667,COF1667,Choco Frappe,421.52,135,Mint,Cold,Medium,373,"Cream, Chocolate, Tea Leaves, Milk",TRUE,3.4
+1668,COF1668,Frappuccino,477.2,156,Mint,Blended,Small,213,"Spices, Chocolate, Ice",FALSE,2.7
+1669,COF1669,Frappuccino,294.07,26,None,Blended,Small,301,"Chocolate, Spices, Tea Leaves, Sugar",FALSE,2.6
+1670,COF1670,Cappuccino,237.31,77,Cinnamon,Blended,Medium,419,"Ice, Spices",TRUE,2.6
+1671,COF1671,Espresso,64.88,136,None,Iced,Large,145,"Coffee Beans, Milk, Sugar, Cream, Chocolate",TRUE,1.1
+1672,COF1672,Latte,481.2,163,None,Hot,Small,493,"Spices, Chocolate, Cream, Ice, Milk",TRUE,2.2
+1673,COF1673,Cappuccino,117.15,192,Chocolate,Iced,Large,404,"Coffee Beans, Sugar",TRUE,2.4
+1674,COF1674,Americano,353.76,67,Cardamom,Iced,Medium,428,"Coffee Beans, Chocolate",TRUE,4.4
+1675,COF1675,Frappuccino,131.02,16,None,Iced,Large,104,"Ice, Coffee Beans, Chocolate, Spices",TRUE,4.6
+1676,COF1676,Frappuccino,388.5,145,Cardamom,Iced,Medium,113,"Tea Leaves, Sugar",FALSE,2.4
+1677,COF1677,Espresso,106.04,137,Cardamom,Cold,Small,382,"Chocolate, Ice, Cream",FALSE,3.4
+1678,COF1678,Latte,155.16,127,Mint,Iced,Small,480,"Tea Leaves, Cream, Milk",TRUE,2.4
+1679,COF1679,Americano,358.74,10,Chocolate,Hot,Medium,213,"Ice, Tea Leaves, Milk, Chocolate, Spices",FALSE,3.6
+1680,COF1680,Mocha,206.9,190,Chocolate,Iced,Small,437,"Ice, Coffee Beans",TRUE,1.7
+1681,COF1681,Masala Chai,322,156,None,Cold,Medium,375,"Milk, Ice, Sugar",TRUE,4.8
+1682,COF1682,Frappuccino,165.85,167,Vanilla,Blended,Small,100,"Ice, Tea Leaves, Cream, Sugar",FALSE,5
+1683,COF1683,Iced Latte,415.97,29,Mint,Blended,Small,292,"Spices, Coffee Beans, Chocolate, Cream, Ice",TRUE,4.1
+1684,COF1684,Cappuccino,319.24,170,None,Hot,Large,256,"Spices, Milk, Sugar, Cream",FALSE,3.8
+1685,COF1685,Cappuccino,284.78,126,Caramel,Iced,Medium,157,"Chocolate, Tea Leaves, Coffee Beans, Cream, Ice",TRUE,3.8
+1686,COF1686,Frappuccino,91.87,129,Vanilla,Blended,Small,471,"Spices, Chocolate, Coffee Beans, Milk, Sugar",FALSE,4.2
+1687,COF1687,Iced Latte,341.49,104,Vanilla,Blended,Large,220,"Sugar, Coffee Beans, Ice",FALSE,4.5
+1688,COF1688,Espresso,260.82,106,Vanilla,Cold,Large,152,"Spices, Milk, Chocolate, Cream, Coffee Beans",TRUE,4.6
+1689,COF1689,Choco Frappe,317.69,143,Vanilla,Iced,Medium,143,"Coffee Beans, Tea Leaves, Sugar, Ice, Chocolate",FALSE,4.1
+1690,COF1690,Macchiato,126.42,193,Vanilla,Hot,Medium,476,"Chocolate, Tea Leaves, Sugar",TRUE,2.9
+1691,COF1691,Iced Latte,468.42,63,Vanilla,Hot,Medium,135,"Chocolate, Cream, Ice",TRUE,1.3
+1692,COF1692,Cappuccino,191.15,113,Chocolate,Blended,Large,400,"Cream, Ice, Coffee Beans, Spices",TRUE,3.8
+1693,COF1693,Masala Chai,486.59,123,None,Hot,Large,212,"Chocolate, Milk, Ice",FALSE,2
+1694,COF1694,Masala Chai,290.45,180,Mint,Hot,Medium,320,"Sugar, Cream",TRUE,2
+1695,COF1695,Latte,230.31,185,None,Blended,Small,248,"Coffee Beans, Sugar, Tea Leaves, Ice, Cream",FALSE,2
+1696,COF1696,Macchiato,185.33,175,Chocolate,Hot,Small,308,"Tea Leaves, Milk",FALSE,3.1
+1697,COF1697,Latte,409.3,140,Cardamom,Blended,Small,500,"Spices, Chocolate",FALSE,2.9
+1698,COF1698,Iced Latte,335.82,13,Hazelnut,Iced,Medium,122,"Tea Leaves, Ice, Spices, Coffee Beans",FALSE,4.4
+1699,COF1699,Macchiato,110.1,43,Cardamom,Blended,Large,333,"Coffee Beans, Chocolate, Spices, Cream, Ice",FALSE,1.4
+1700,COF1700,Mocha,450.44,195,Chocolate,Cold,Medium,485,"Chocolate, Spices, Cream, Milk, Sugar",FALSE,3.2
+1701,COF1701,Americano,321.51,133,Mint,Iced,Medium,403,"Milk, Coffee Beans",TRUE,4.3
+1702,COF1702,Cappuccino,149.51,31,Caramel,Blended,Medium,151,"Milk, Cream, Coffee Beans, Chocolate",TRUE,3.3
+1703,COF1703,Mocha,309,18,Cinnamon,Blended,Large,404,"Tea Leaves, Coffee Beans",TRUE,1.2
+1704,COF1704,Masala Chai,124.1,191,Caramel,Iced,Medium,402,"Milk, Coffee Beans, Spices",FALSE,3.9
+1705,COF1705,Iced Latte,127.23,195,Caramel,Cold,Large,230,"Tea Leaves, Chocolate, Coffee Beans, Sugar",FALSE,1.2
+1706,COF1706,Macchiato,281.34,89,None,Iced,Medium,181,"Milk, Coffee Beans",FALSE,1.8
+1707,COF1707,Cappuccino,218.36,63,Hazelnut,Iced,Medium,113,"Cream, Ice, Milk, Spices, Coffee Beans",TRUE,2.6
+1708,COF1708,Choco Frappe,115.11,76,Vanilla,Blended,Medium,192,"Tea Leaves, Cream, Milk, Ice",FALSE,4.3
+1709,COF1709,Masala Chai,346.06,173,Cardamom,Cold,Small,243,"Chocolate, Sugar, Ice, Milk",TRUE,3
+1710,COF1710,Frappuccino,92.49,52,Cinnamon,Cold,Medium,261,"Sugar, Cream, Ice, Chocolate, Tea Leaves",FALSE,3.2
+1711,COF1711,Frappuccino,114.05,132,Hazelnut,Blended,Small,369,"Spices, Tea Leaves, Cream, Coffee Beans",TRUE,2.9
+1712,COF1712,Frappuccino,100.61,162,None,Blended,Small,434,"Coffee Beans, Tea Leaves, Sugar, Ice, Milk",TRUE,3.9
+1713,COF1713,Iced Latte,220.89,197,Vanilla,Hot,Small,432,"Sugar, Ice, Cream",TRUE,1.6
+1714,COF1714,Frappuccino,150.07,74,None,Cold,Medium,272,"Spices, Tea Leaves, Cream",FALSE,2.7
+1715,COF1715,Macchiato,199.53,129,Caramel,Blended,Small,135,"Chocolate, Ice, Tea Leaves, Sugar",FALSE,2.5
+1716,COF1716,Latte,320.39,142,Cinnamon,Cold,Large,254,"Spices, Sugar, Tea Leaves",TRUE,4.3
+1717,COF1717,Macchiato,166.74,120,None,Iced,Large,232,"Spices, Coffee Beans, Sugar, Milk",FALSE,1.1
+1718,COF1718,Iced Latte,95.35,68,None,Blended,Small,276,"Cream, Ice, Chocolate, Tea Leaves, Spices",TRUE,2.4
+1719,COF1719,Iced Latte,351.41,18,Mint,Cold,Medium,493,"Coffee Beans, Milk, Tea Leaves, Sugar",TRUE,4.2
+1720,COF1720,Espresso,471.37,38,Cardamom,Blended,Large,147,"Cream, Spices, Chocolate",FALSE,1.8
+1721,COF1721,Cappuccino,461.49,155,Caramel,Cold,Large,367,"Spices, Coffee Beans, Tea Leaves, Sugar, Chocolate",TRUE,3.3
+1722,COF1722,Americano,52.43,62,Chocolate,Cold,Small,438,"Sugar, Spices, Cream",FALSE,1.7
+1723,COF1723,Frappuccino,383.39,145,Caramel,Hot,Medium,140,"Milk, Ice, Tea Leaves, Cream",FALSE,1.1
+1724,COF1724,Masala Chai,342.97,77,Mint,Cold,Medium,278,"Cream, Chocolate, Ice",FALSE,2.6
+1725,COF1725,Americano,422.52,39,Mint,Hot,Large,103,"Tea Leaves, Cream, Chocolate, Milk, Ice",TRUE,4.9
+1726,COF1726,Espresso,183.74,31,Hazelnut,Iced,Large,334,"Chocolate, Spices, Tea Leaves, Coffee Beans, Cream",FALSE,3
+1727,COF1727,Choco Frappe,336.41,92,Cardamom,Blended,Large,172,"Spices, Milk, Coffee Beans",FALSE,3.3
+1728,COF1728,Masala Chai,68.9,118,Hazelnut,Blended,Medium,260,"Sugar, Spices, Coffee Beans, Chocolate, Tea Leaves",FALSE,2.8
+1729,COF1729,Cappuccino,282.79,59,Vanilla,Cold,Medium,484,"Coffee Beans, Tea Leaves, Ice, Milk, Chocolate",TRUE,1.6
+1730,COF1730,Iced Latte,483.48,132,Cinnamon,Blended,Small,335,"Cream, Spices, Coffee Beans, Milk",TRUE,4.2
+1731,COF1731,Frappuccino,191.5,55,Cinnamon,Blended,Medium,264,"Ice, Cream, Coffee Beans",FALSE,3.5
+1732,COF1732,Masala Chai,219.99,84,Chocolate,Hot,Large,206,"Ice, Chocolate",TRUE,2.3
+1733,COF1733,Espresso,241.14,88,Cardamom,Iced,Medium,160,"Milk, Chocolate, Spices",TRUE,4
+1734,COF1734,Espresso,214.85,66,Mint,Cold,Large,159,"Coffee Beans, Ice, Milk, Tea Leaves, Chocolate",FALSE,2.4
+1735,COF1735,Masala Chai,163.61,104,Cardamom,Blended,Small,498,"Tea Leaves, Spices, Ice, Coffee Beans",FALSE,4.9
+1736,COF1736,Choco Frappe,51.48,169,Chocolate,Iced,Small,467,"Tea Leaves, Spices, Ice, Milk",FALSE,4.6
+1737,COF1737,Frappuccino,65.98,180,Caramel,Cold,Small,121,"Ice, Cream, Chocolate, Sugar, Tea Leaves",TRUE,2.9
+1738,COF1738,Latte,383.88,163,Cinnamon,Cold,Medium,493,"Coffee Beans, Cream, Milk",FALSE,4.8
+1739,COF1739,Latte,220.6,43,Hazelnut,Hot,Small,357,"Sugar, Ice, Spices, Cream, Tea Leaves",TRUE,1.5
+1740,COF1740,Choco Frappe,282.79,48,Vanilla,Hot,Small,326,"Cream, Spices, Tea Leaves, Chocolate, Milk",TRUE,2.5
+1741,COF1741,Mocha,247.6,160,Cinnamon,Cold,Small,139,"Milk, Spices, Coffee Beans, Chocolate",FALSE,4.6
+1742,COF1742,Espresso,430.74,60,Cardamom,Blended,Large,494,"Sugar, Tea Leaves",TRUE,1.6
+1743,COF1743,Americano,376.36,176,Hazelnut,Iced,Small,242,"Sugar, Milk, Tea Leaves, Chocolate, Coffee Beans",FALSE,5
+1744,COF1744,Macchiato,396.2,14,Hazelnut,Blended,Small,211,"Sugar, Coffee Beans, Chocolate, Spices, Cream",TRUE,2.1
+1745,COF1745,Frappuccino,279,172,Cinnamon,Hot,Medium,488,"Spices, Coffee Beans, Chocolate, Tea Leaves, Cream",FALSE,4.2
+1746,COF1746,Latte,275.01,143,Caramel,Iced,Large,381,"Ice, Coffee Beans, Spices",TRUE,2.6
+1747,COF1747,Frappuccino,214.07,117,Mint,Hot,Large,431,"Cream, Coffee Beans, Tea Leaves",TRUE,3
+1748,COF1748,Frappuccino,198.82,199,Mint,Iced,Medium,290,"Cream, Spices, Sugar, Milk",TRUE,4.6
+1749,COF1749,Espresso,233.91,10,Vanilla,Blended,Medium,104,"Sugar, Ice, Coffee Beans, Milk",FALSE,2.5
+1750,COF1750,Mocha,499.28,103,Chocolate,Hot,Medium,128,"Chocolate, Sugar, Ice, Cream, Spices",TRUE,3.8
+1751,COF1751,Espresso,132.65,45,None,Blended,Small,304,"Chocolate, Ice, Sugar, Tea Leaves, Coffee Beans",TRUE,4
+1752,COF1752,Latte,228.39,33,Chocolate,Blended,Large,119,"Ice, Chocolate, Cream, Sugar, Spices",TRUE,2.9
+1753,COF1753,Cappuccino,265.82,113,Caramel,Iced,Medium,317,"Tea Leaves, Chocolate, Coffee Beans, Ice",FALSE,3.9
+1754,COF1754,Cappuccino,414.06,179,Hazelnut,Blended,Medium,222,"Coffee Beans, Sugar, Ice, Chocolate, Milk",FALSE,3.3
+1755,COF1755,Mocha,423.68,163,Cinnamon,Blended,Large,424,"Ice, Spices, Cream, Coffee Beans, Tea Leaves",TRUE,4.5
+1756,COF1756,Choco Frappe,231.25,168,Vanilla,Hot,Large,476,"Chocolate, Tea Leaves, Cream, Coffee Beans",TRUE,2.7
+1757,COF1757,Cappuccino,362.29,162,Cardamom,Hot,Medium,113,"Coffee Beans, Spices, Milk, Chocolate, Cream",FALSE,1.5
+1758,COF1758,Iced Latte,72.71,178,None,Hot,Large,480,"Cream, Ice, Coffee Beans",FALSE,5
+1759,COF1759,Frappuccino,187.19,110,Chocolate,Iced,Medium,127,"Sugar, Tea Leaves, Coffee Beans, Chocolate",TRUE,4.8
+1760,COF1760,Americano,495,163,Caramel,Blended,Small,493,"Spices, Coffee Beans",FALSE,4.5
+1761,COF1761,Iced Latte,453.59,10,Chocolate,Blended,Large,237,"Spices, Cream, Ice, Tea Leaves",FALSE,4.3
+1762,COF1762,Iced Latte,259.48,69,Hazelnut,Cold,Medium,492,"Coffee Beans, Sugar, Spices",TRUE,3.2
+1763,COF1763,Espresso,441.02,174,None,Cold,Small,386,"Sugar, Chocolate, Ice, Tea Leaves, Coffee Beans",TRUE,1.5
+1764,COF1764,Iced Latte,336.13,30,Chocolate,Blended,Large,340,"Chocolate, Spices",FALSE,2.5
+1765,COF1765,Macchiato,151.42,69,Chocolate,Blended,Small,337,"Chocolate, Cream, Milk",TRUE,2
+1766,COF1766,Macchiato,309.95,43,Chocolate,Iced,Small,381,"Milk, Spices, Tea Leaves",TRUE,1.8
+1767,COF1767,Americano,425.89,66,Caramel,Iced,Small,271,"Spices, Cream",FALSE,1.5
+1768,COF1768,Americano,214.1,37,Cardamom,Iced,Medium,474,"Sugar, Milk",FALSE,2.6
+1769,COF1769,Mocha,189.15,172,Cardamom,Hot,Large,434,"Tea Leaves, Cream",TRUE,2.1
+1770,COF1770,Mocha,277.38,106,Hazelnut,Cold,Small,220,"Ice, Tea Leaves, Coffee Beans, Spices",FALSE,1.6
+1771,COF1771,Frappuccino,170.12,176,None,Blended,Small,260,"Sugar, Spices, Coffee Beans, Tea Leaves, Milk",FALSE,4.3
+1772,COF1772,Mocha,307.72,177,Hazelnut,Hot,Small,208,"Chocolate, Tea Leaves, Spices",FALSE,1.1
+1773,COF1773,Choco Frappe,379.1,15,Caramel,Blended,Small,428,"Coffee Beans, Milk, Chocolate, Ice, Tea Leaves",TRUE,2.1
+1774,COF1774,Iced Latte,155.28,142,Hazelnut,Hot,Small,419,"Coffee Beans, Spices, Ice",TRUE,3.2
+1775,COF1775,Macchiato,418.14,59,Cinnamon,Hot,Medium,126,"Tea Leaves, Spices, Milk, Chocolate",TRUE,3.4
+1776,COF1776,Latte,343.73,48,Vanilla,Iced,Medium,202,"Coffee Beans, Tea Leaves",FALSE,2.9
+1777,COF1777,Americano,324.36,167,Mint,Cold,Large,297,"Chocolate, Milk, Coffee Beans, Cream, Sugar",TRUE,2.9
+1778,COF1778,Mocha,354.84,105,Hazelnut,Iced,Medium,124,"Chocolate, Sugar",TRUE,2.7
+1779,COF1779,Espresso,467.73,94,Hazelnut,Blended,Small,306,"Spices, Tea Leaves, Milk, Chocolate, Ice",TRUE,5
+1780,COF1780,Americano,317.04,122,Chocolate,Hot,Small,201,"Chocolate, Cream, Tea Leaves, Sugar",FALSE,3.2
+1781,COF1781,Iced Latte,180.89,179,Mint,Blended,Large,405,"Coffee Beans, Spices, Milk, Ice",FALSE,4.1
+1782,COF1782,Americano,204.82,46,Cardamom,Iced,Large,308,"Tea Leaves, Sugar, Cream, Spices",FALSE,2.6
+1783,COF1783,Macchiato,463.91,118,Cinnamon,Hot,Small,457,"Tea Leaves, Spices, Cream",TRUE,1.5
+1784,COF1784,Macchiato,483.59,170,None,Hot,Medium,232,"Tea Leaves, Coffee Beans, Milk, Chocolate, Sugar",TRUE,2.5
+1785,COF1785,Latte,247.12,65,Caramel,Iced,Medium,347,"Cream, Milk, Coffee Beans, Spices",FALSE,1.8
+1786,COF1786,Latte,447.6,194,Cinnamon,Iced,Medium,256,"Coffee Beans, Cream, Milk, Spices, Sugar",TRUE,4.8
+1787,COF1787,Espresso,110.5,86,Mint,Blended,Medium,417,"Chocolate, Ice, Coffee Beans",FALSE,2.5
+1788,COF1788,Mocha,186.46,116,Mint,Blended,Small,292,"Cream, Ice, Sugar, Milk, Coffee Beans",TRUE,2.9
+1789,COF1789,Masala Chai,186.44,104,Cinnamon,Hot,Large,351,"Coffee Beans, Sugar, Tea Leaves, Ice, Chocolate",FALSE,3.3
+1790,COF1790,Iced Latte,129.06,55,Vanilla,Hot,Large,336,"Cream, Tea Leaves, Ice, Sugar",FALSE,1.6
+1791,COF1791,Masala Chai,473.38,103,Vanilla,Hot,Large,148,"Ice, Tea Leaves, Cream, Spices",FALSE,3.3
+1792,COF1792,Frappuccino,313.58,25,Cardamom,Iced,Large,324,"Milk, Sugar, Spices, Tea Leaves",TRUE,1.2
+1793,COF1793,Espresso,144.38,60,Vanilla,Hot,Small,103,"Ice, Spices, Coffee Beans, Tea Leaves",TRUE,1.5
+1794,COF1794,Americano,398.35,56,Mint,Iced,Small,358,"Spices, Cream, Coffee Beans, Chocolate",TRUE,3.4
+1795,COF1795,Iced Latte,396.8,85,Cinnamon,Cold,Small,333,"Tea Leaves, Spices, Sugar, Milk",FALSE,4.5
+1796,COF1796,Latte,216.94,187,Vanilla,Blended,Medium,366,"Spices, Milk, Chocolate",FALSE,2.9
+1797,COF1797,Mocha,159.88,41,Caramel,Hot,Small,126,"Sugar, Coffee Beans, Chocolate, Ice",FALSE,1.1
+1798,COF1798,Macchiato,234.97,180,None,Cold,Large,454,"Coffee Beans, Chocolate",FALSE,2.5
+1799,COF1799,Macchiato,337.77,147,Hazelnut,Cold,Small,352,"Milk, Spices, Chocolate, Sugar",TRUE,3.6
+1800,COF1800,Macchiato,264.57,186,Cinnamon,Blended,Small,229,"Milk, Sugar, Ice, Coffee Beans",FALSE,1.3
+1801,COF1801,Espresso,327.67,129,None,Cold,Medium,418,"Chocolate, Milk, Cream",FALSE,4.6
+1802,COF1802,Americano,378.8,31,Chocolate,Hot,Small,268,"Tea Leaves, Cream",FALSE,2.9
+1803,COF1803,Choco Frappe,448.04,139,Chocolate,Blended,Small,273,"Coffee Beans, Ice",TRUE,3.7
+1804,COF1804,Macchiato,419.16,53,None,Iced,Large,377,"Spices, Coffee Beans, Sugar, Milk, Tea Leaves",TRUE,4.1
+1805,COF1805,Iced Latte,269.97,76,Cardamom,Hot,Medium,376,"Chocolate, Sugar",FALSE,2.7
+1806,COF1806,Masala Chai,64.11,154,Vanilla,Iced,Large,345,"Milk, Coffee Beans",FALSE,1.8
+1807,COF1807,Espresso,369.37,191,Cinnamon,Cold,Medium,493,"Cream, Tea Leaves, Spices, Milk, Coffee Beans",FALSE,4.3
+1808,COF1808,Macchiato,235.92,161,Hazelnut,Hot,Small,306,"Coffee Beans, Milk, Ice",FALSE,4.3
+1809,COF1809,Espresso,74.33,138,None,Hot,Small,188,"Ice, Sugar",TRUE,3.4
+1810,COF1810,Choco Frappe,162.83,61,None,Blended,Small,165,"Coffee Beans, Tea Leaves, Milk",TRUE,4.7
+1811,COF1811,Cappuccino,480.68,49,Cardamom,Blended,Medium,427,"Sugar, Coffee Beans, Ice, Milk",FALSE,1.7
+1812,COF1812,Iced Latte,221.92,84,Hazelnut,Iced,Large,115,"Coffee Beans, Chocolate, Ice",TRUE,4.5
+1813,COF1813,Frappuccino,60.5,140,Cinnamon,Hot,Large,223,"Ice, Chocolate",TRUE,1.1
+1814,COF1814,Latte,258.92,112,Chocolate,Cold,Large,453,"Tea Leaves, Spices",FALSE,2.4
+1815,COF1815,Americano,155.24,48,Cardamom,Hot,Medium,205,"Milk, Tea Leaves, Ice",TRUE,2.3
+1816,COF1816,Macchiato,220.67,155,Vanilla,Hot,Medium,281,"Ice, Sugar",FALSE,1.3
+1817,COF1817,Latte,336.33,133,Hazelnut,Blended,Small,175,"Milk, Chocolate, Tea Leaves",FALSE,4.7
+1818,COF1818,Choco Frappe,67.59,82,Cinnamon,Iced,Small,385,"Coffee Beans, Ice",FALSE,3.8
+1819,COF1819,Latte,297.97,15,Cinnamon,Cold,Medium,438,"Tea Leaves, Cream, Coffee Beans, Spices, Chocolate",TRUE,4.3
+1820,COF1820,Iced Latte,216.22,35,Hazelnut,Hot,Medium,191,"Chocolate, Coffee Beans, Spices",TRUE,2.2
+1821,COF1821,Mocha,301.3,53,Mint,Iced,Large,360,"Ice, Sugar, Tea Leaves",TRUE,3.3
+1822,COF1822,Choco Frappe,113.26,61,Mint,Hot,Medium,325,"Spices, Chocolate, Sugar, Cream",TRUE,4.1
+1823,COF1823,Latte,308.7,180,Cardamom,Cold,Small,177,"Cream, Tea Leaves, Sugar",TRUE,3.5
+1824,COF1824,Macchiato,322.5,106,Chocolate,Iced,Medium,458,"Spices, Ice, Cream, Tea Leaves, Sugar",TRUE,2.3
+1825,COF1825,Latte,255.13,19,Mint,Iced,Medium,140,"Sugar, Spices, Chocolate",TRUE,2.2
+1826,COF1826,Choco Frappe,55.35,192,Cardamom,Blended,Large,225,"Sugar, Spices, Chocolate, Ice",FALSE,3.2
+1827,COF1827,Macchiato,111.41,171,Cinnamon,Hot,Medium,378,"Cream, Sugar",FALSE,3.9
+1828,COF1828,Macchiato,268.33,67,None,Cold,Small,485,"Milk, Sugar, Ice",TRUE,2.1
+1829,COF1829,Cappuccino,197.83,175,Caramel,Iced,Medium,319,"Spices, Sugar, Ice",TRUE,3
+1830,COF1830,Latte,378.78,92,Cinnamon,Cold,Large,346,"Chocolate, Cream, Milk",FALSE,2.6
+1831,COF1831,Macchiato,350.18,22,Cinnamon,Hot,Medium,313,"Sugar, Coffee Beans, Cream, Spices",TRUE,1.8
+1832,COF1832,Macchiato,443.55,76,Caramel,Hot,Small,100,"Ice, Milk",TRUE,4.9
+1833,COF1833,Choco Frappe,456.82,138,Cinnamon,Iced,Small,336,"Coffee Beans, Spices, Sugar, Milk",TRUE,2.1
+1834,COF1834,Cappuccino,471.4,106,Caramel,Blended,Medium,310,"Coffee Beans, Tea Leaves, Sugar, Cream, Milk",FALSE,1.8
+1835,COF1835,Macchiato,201.38,137,Chocolate,Blended,Small,253,"Cream, Coffee Beans",FALSE,2.4
+1836,COF1836,Cappuccino,124.34,57,Caramel,Hot,Medium,464,"Coffee Beans, Chocolate, Ice",TRUE,1.7
+1837,COF1837,Americano,329.74,30,Vanilla,Iced,Small,472,"Coffee Beans, Milk, Ice",TRUE,1.4
+1838,COF1838,Cappuccino,189.98,120,Cardamom,Cold,Large,386,"Tea Leaves, Ice, Chocolate, Coffee Beans, Milk",FALSE,1.1
+1839,COF1839,Americano,123.04,139,Chocolate,Blended,Large,404,"Cream, Sugar, Coffee Beans, Chocolate",FALSE,2.3
+1840,COF1840,Mocha,253.91,28,Chocolate,Iced,Medium,197,"Chocolate, Cream, Coffee Beans, Tea Leaves",FALSE,3.7
+1841,COF1841,Masala Chai,461.28,64,Chocolate,Cold,Large,493,"Tea Leaves, Coffee Beans, Chocolate, Sugar",FALSE,4.6
+1842,COF1842,Iced Latte,112.56,68,Chocolate,Cold,Medium,224,"Ice, Milk, Chocolate, Tea Leaves, Cream",TRUE,4.3
+1843,COF1843,Frappuccino,291.06,150,Mint,Iced,Large,375,"Spices, Ice, Tea Leaves, Cream, Milk",FALSE,4.5
+1844,COF1844,Latte,408.11,60,Vanilla,Cold,Small,462,"Tea Leaves, Milk, Sugar, Spices",FALSE,4.5
+1845,COF1845,Choco Frappe,388.57,98,Cinnamon,Cold,Small,445,"Tea Leaves, Coffee Beans",FALSE,1.9
+1846,COF1846,Masala Chai,186.41,152,None,Blended,Medium,279,"Cream, Tea Leaves, Milk, Coffee Beans, Spices",FALSE,4.1
+1847,COF1847,Latte,101.48,147,Mint,Cold,Small,364,"Chocolate, Tea Leaves, Spices",TRUE,1.1
+1848,COF1848,Choco Frappe,405.47,151,None,Blended,Medium,350,"Sugar, Chocolate, Ice",TRUE,4.9
+1849,COF1849,Espresso,472.07,41,Hazelnut,Blended,Large,288,"Cream, Coffee Beans, Tea Leaves",FALSE,2.6
+1850,COF1850,Mocha,187.31,154,Cardamom,Hot,Medium,353,"Coffee Beans, Tea Leaves, Spices",FALSE,4.4
+1851,COF1851,Iced Latte,154.13,171,Chocolate,Iced,Medium,499,"Coffee Beans, Tea Leaves, Ice",FALSE,1.9
+1852,COF1852,Masala Chai,464.9,15,Mint,Blended,Small,121,"Tea Leaves, Milk",FALSE,2
+1853,COF1853,Choco Frappe,366.93,144,Hazelnut,Cold,Medium,359,"Cream, Chocolate, Tea Leaves, Spices",TRUE,3
+1854,COF1854,Cappuccino,283.3,47,Cinnamon,Hot,Medium,225,"Sugar, Ice, Milk, Chocolate, Coffee Beans",FALSE,3.1
+1855,COF1855,Masala Chai,116.93,162,Mint,Hot,Small,189,"Sugar, Ice, Milk",TRUE,2.4
+1856,COF1856,Americano,347.04,97,Chocolate,Hot,Medium,203,"Sugar, Ice, Chocolate, Coffee Beans",FALSE,4.4
+1857,COF1857,Latte,314.83,90,Vanilla,Hot,Small,478,"Ice, Chocolate, Cream, Milk, Spices",FALSE,3.8
+1858,COF1858,Iced Latte,234.73,16,Mint,Hot,Small,493,"Ice, Spices, Milk, Tea Leaves",FALSE,4.7
+1859,COF1859,Mocha,99.99,154,Mint,Cold,Medium,262,"Tea Leaves, Ice, Spices, Coffee Beans, Chocolate",FALSE,2.9
+1860,COF1860,Macchiato,379.62,80,None,Hot,Large,192,"Sugar, Coffee Beans, Chocolate",FALSE,3.6
+1861,COF1861,Choco Frappe,55.57,60,Cardamom,Iced,Large,177,"Chocolate, Milk, Tea Leaves",TRUE,2.5
+1862,COF1862,Latte,260,109,None,Cold,Small,294,"Ice, Spices, Milk",TRUE,4
+1863,COF1863,Frappuccino,316.3,73,Hazelnut,Blended,Medium,477,"Tea Leaves, Sugar, Spices",TRUE,2.7
+1864,COF1864,Frappuccino,113.4,63,Mint,Iced,Large,389,"Sugar, Cream, Chocolate, Coffee Beans",FALSE,3
+1865,COF1865,Macchiato,289.86,126,Cardamom,Iced,Small,174,"Spices, Cream",FALSE,3.7
+1866,COF1866,Macchiato,118.95,179,Hazelnut,Hot,Medium,141,"Milk, Spices, Sugar",TRUE,1.6
+1867,COF1867,Iced Latte,237.09,106,Vanilla,Blended,Medium,480,"Chocolate, Milk, Coffee Beans",TRUE,3.5
+1868,COF1868,Frappuccino,280.75,108,Vanilla,Blended,Large,201,"Sugar, Spices, Coffee Beans, Tea Leaves, Ice",TRUE,3.1
+1869,COF1869,Latte,62.69,45,Cinnamon,Hot,Large,397,"Coffee Beans, Chocolate, Sugar",FALSE,4.6
+1870,COF1870,Frappuccino,114.75,174,Chocolate,Cold,Medium,286,"Cream, Coffee Beans, Sugar, Spices",FALSE,2.1
+1871,COF1871,Latte,252.2,18,Cardamom,Hot,Large,266,"Cream, Ice",FALSE,1.3
+1872,COF1872,Americano,201.28,101,Caramel,Hot,Medium,411,"Chocolate, Milk",FALSE,4.1
+1873,COF1873,Iced Latte,387.09,35,None,Iced,Small,376,"Cream, Ice, Milk, Sugar",TRUE,2.2
+1874,COF1874,Masala Chai,319.56,156,Cardamom,Blended,Small,425,"Chocolate, Ice",FALSE,1.2
+1875,COF1875,Iced Latte,368.09,17,Cinnamon,Cold,Small,172,"Milk, Tea Leaves, Coffee Beans, Spices, Sugar",TRUE,4.9
+1876,COF1876,Latte,104.2,29,Chocolate,Hot,Large,403,"Milk, Spices, Sugar",FALSE,1.1
+1877,COF1877,Frappuccino,259.36,66,Mint,Hot,Medium,488,"Coffee Beans, Sugar",FALSE,4.6
+1878,COF1878,Espresso,212.26,65,Vanilla,Iced,Large,353,"Sugar, Ice, Chocolate",FALSE,1.9
+1879,COF1879,Iced Latte,336.86,120,Mint,Blended,Small,172,"Cream, Tea Leaves, Chocolate",FALSE,4.2
+1880,COF1880,Masala Chai,305.07,179,Cinnamon,Iced,Large,496,"Chocolate, Spices",FALSE,4.6
+1881,COF1881,Macchiato,307.64,184,Hazelnut,Blended,Small,133,"Ice, Cream, Coffee Beans, Spices",FALSE,2.2
+1882,COF1882,Iced Latte,420.98,46,Hazelnut,Iced,Small,157,"Milk, Sugar, Cream, Ice, Coffee Beans",FALSE,3.6
+1883,COF1883,Latte,421.78,15,Vanilla,Cold,Large,405,"Coffee Beans, Cream, Chocolate",FALSE,2.9
+1884,COF1884,Cappuccino,214.47,193,Caramel,Iced,Medium,390,"Milk, Coffee Beans, Tea Leaves, Ice",FALSE,2
+1885,COF1885,Frappuccino,291.97,30,Vanilla,Hot,Small,349,"Chocolate, Ice, Sugar",FALSE,2.2
+1886,COF1886,Choco Frappe,354.89,186,Mint,Blended,Large,370,"Chocolate, Tea Leaves, Ice, Coffee Beans",FALSE,1.6
+1887,COF1887,Iced Latte,391.57,132,None,Hot,Large,204,"Tea Leaves, Sugar, Ice",FALSE,2.2
+1888,COF1888,Mocha,482.09,12,Caramel,Hot,Small,451,"Cream, Spices, Tea Leaves",FALSE,1.1
+1889,COF1889,Americano,411.92,171,Cinnamon,Hot,Medium,411,"Coffee Beans, Ice, Tea Leaves",TRUE,3.6
+1890,COF1890,Masala Chai,303.92,186,Caramel,Hot,Medium,449,"Sugar, Coffee Beans, Cream",FALSE,2.5
+1891,COF1891,Masala Chai,377.65,59,Caramel,Iced,Medium,447,"Cream, Sugar, Ice, Spices",TRUE,2.5
+1892,COF1892,Americano,346.08,55,None,Blended,Large,169,"Chocolate, Coffee Beans, Milk, Ice, Sugar",FALSE,1.9
+1893,COF1893,Choco Frappe,331.51,137,None,Iced,Large,455,"Spices, Milk, Coffee Beans",TRUE,3.7
+1894,COF1894,Latte,192.2,53,Hazelnut,Blended,Large,385,"Ice, Chocolate, Cream",TRUE,3.6
+1895,COF1895,Frappuccino,293.13,186,None,Cold,Large,260,"Coffee Beans, Tea Leaves",FALSE,3.2
+1896,COF1896,Mocha,196.71,37,Cardamom,Iced,Small,217,"Milk, Tea Leaves, Spices",TRUE,2
+1897,COF1897,Cappuccino,77.34,154,Vanilla,Hot,Small,344,"Sugar, Ice, Coffee Beans, Milk, Spices",TRUE,1.8
+1898,COF1898,Mocha,52.04,42,Cardamom,Hot,Large,109,"Spices, Sugar, Cream",TRUE,2.6
+1899,COF1899,Frappuccino,439.11,198,Cinnamon,Cold,Small,225,"Chocolate, Milk, Tea Leaves, Sugar",TRUE,3.2
+1900,COF1900,Frappuccino,454.44,115,Vanilla,Iced,Small,471,"Chocolate, Sugar, Ice",TRUE,3.9
+1901,COF1901,Mocha,153.18,23,Cinnamon,Iced,Medium,373,"Ice, Coffee Beans, Sugar, Cream, Chocolate",FALSE,3.4
+1902,COF1902,Mocha,364.23,179,Hazelnut,Cold,Large,148,"Ice, Sugar",FALSE,1.1
+1903,COF1903,Iced Latte,164.5,118,Cardamom,Blended,Medium,119,"Tea Leaves, Ice, Spices, Sugar, Cream",TRUE,2.3
+1904,COF1904,Frappuccino,326.06,179,Caramel,Blended,Medium,234,"Sugar, Ice, Chocolate, Milk",TRUE,2.7
+1905,COF1905,Iced Latte,187.4,57,None,Hot,Medium,343,"Sugar, Chocolate, Coffee Beans, Spices, Tea Leaves",TRUE,3.5
+1906,COF1906,Latte,370.51,81,Hazelnut,Hot,Large,341,"Sugar, Spices, Tea Leaves, Milk",TRUE,2.2
+1907,COF1907,Americano,432.97,187,Mint,Blended,Medium,373,"Tea Leaves, Sugar",TRUE,2.4
+1908,COF1908,Espresso,128.04,185,Caramel,Hot,Small,294,"Spices, Cream, Milk",TRUE,4.7
+1909,COF1909,Latte,342.79,163,Cinnamon,Iced,Medium,197,"Sugar, Cream",FALSE,4.5
+1910,COF1910,Latte,315.8,160,Vanilla,Cold,Large,200,"Sugar, Ice, Chocolate, Spices",TRUE,4
+1911,COF1911,Cappuccino,412.08,129,Hazelnut,Iced,Small,285,"Sugar, Chocolate, Cream, Milk",TRUE,1.2
+1912,COF1912,Masala Chai,272.12,84,Mint,Iced,Large,478,"Sugar, Chocolate, Spices, Cream, Tea Leaves",FALSE,3.7
+1913,COF1913,Choco Frappe,268.3,90,Chocolate,Iced,Small,212,"Sugar, Ice, Coffee Beans",TRUE,3.5
+1914,COF1914,Macchiato,399.71,103,Caramel,Hot,Large,453,"Ice, Coffee Beans, Cream, Sugar",FALSE,3.6
+1915,COF1915,Cappuccino,277.13,11,Mint,Blended,Small,148,"Coffee Beans, Sugar",TRUE,2.7
+1916,COF1916,Cappuccino,254.92,98,Caramel,Cold,Medium,438,"Spices, Sugar, Tea Leaves, Chocolate",FALSE,3.7
+1917,COF1917,Frappuccino,59.06,171,Caramel,Iced,Small,331,"Chocolate, Milk, Ice, Cream, Sugar",TRUE,4.1
+1918,COF1918,Choco Frappe,385.73,10,Chocolate,Hot,Small,131,"Chocolate, Coffee Beans, Ice, Tea Leaves",FALSE,4.9
+1919,COF1919,Americano,138.65,127,Caramel,Blended,Medium,238,"Cream, Spices, Tea Leaves, Sugar, Milk",TRUE,3.3
+1920,COF1920,Mocha,470.3,92,Vanilla,Blended,Medium,105,"Tea Leaves, Chocolate, Coffee Beans, Milk, Cream",TRUE,3.6
+1921,COF1921,Espresso,410.01,98,Cardamom,Iced,Small,346,"Coffee Beans, Tea Leaves, Spices",TRUE,2.9
+1922,COF1922,Masala Chai,435.92,85,Cardamom,Cold,Small,196,"Spices, Ice, Coffee Beans",FALSE,3.7
+1923,COF1923,Masala Chai,141.91,35,Hazelnut,Cold,Large,425,"Chocolate, Milk, Coffee Beans",FALSE,1.2
+1924,COF1924,Frappuccino,362.49,69,Chocolate,Hot,Small,254,"Spices, Milk",FALSE,2.8
+1925,COF1925,Americano,223.99,12,Cardamom,Blended,Large,414,"Chocolate, Milk, Ice",FALSE,4.2
+1926,COF1926,Macchiato,82.18,49,None,Cold,Medium,377,"Tea Leaves, Ice",TRUE,4.4
+1927,COF1927,Mocha,488.17,32,Chocolate,Cold,Large,179,"Sugar, Spices",TRUE,3.9
+1928,COF1928,Americano,69.54,139,Vanilla,Cold,Small,125,"Coffee Beans, Sugar, Cream",FALSE,2.6
+1929,COF1929,Americano,419.6,156,Hazelnut,Cold,Small,428,"Milk, Coffee Beans, Sugar, Cream",TRUE,2.5
+1930,COF1930,Frappuccino,287.9,154,None,Blended,Small,345,"Cream, Sugar, Ice",TRUE,4.7
+1931,COF1931,Mocha,351.3,148,Mint,Hot,Large,113,"Coffee Beans, Sugar, Tea Leaves, Milk",TRUE,4.1
+1932,COF1932,Iced Latte,300.88,32,Cardamom,Blended,Large,380,"Spices, Milk, Tea Leaves, Chocolate, Cream",TRUE,2.9
+1933,COF1933,Macchiato,421.56,86,Vanilla,Iced,Small,387,"Milk, Tea Leaves, Coffee Beans",FALSE,2.7
+1934,COF1934,Mocha,342.4,101,Cardamom,Blended,Large,429,"Tea Leaves, Chocolate, Cream, Sugar, Ice",FALSE,4.9
+1935,COF1935,Espresso,333.33,62,Cinnamon,Cold,Large,168,"Tea Leaves, Cream, Spices, Milk, Coffee Beans",FALSE,3.4
+1936,COF1936,Mocha,369.48,27,Chocolate,Hot,Small,393,"Milk, Cream, Sugar, Chocolate, Tea Leaves",FALSE,2.2
+1937,COF1937,Frappuccino,236.98,119,Caramel,Hot,Small,410,"Spices, Sugar, Milk, Coffee Beans, Cream",FALSE,3.6
+1938,COF1938,Latte,363.56,188,Chocolate,Hot,Medium,343,"Coffee Beans, Ice, Cream, Spices",TRUE,4
+1939,COF1939,Cappuccino,325.51,192,Mint,Iced,Medium,264,"Spices, Sugar, Coffee Beans, Tea Leaves",FALSE,3.8
+1940,COF1940,Latte,114.94,10,Hazelnut,Iced,Medium,318,"Sugar, Spices",FALSE,2
+1941,COF1941,Macchiato,263.38,100,None,Hot,Small,316,"Spices, Coffee Beans, Cream",FALSE,2.5
+1942,COF1942,Americano,241.96,75,Hazelnut,Cold,Medium,458,"Chocolate, Spices",FALSE,2.9
+1943,COF1943,Espresso,390.93,59,Caramel,Cold,Large,463,"Coffee Beans, Ice, Spices, Sugar",FALSE,2.8
+1944,COF1944,Macchiato,402.71,124,None,Cold,Medium,259,"Ice, Tea Leaves, Chocolate, Spices, Coffee Beans",TRUE,1.9
+1945,COF1945,Latte,496.49,80,Caramel,Hot,Small,347,"Coffee Beans, Chocolate, Cream, Milk, Ice",TRUE,2.7
+1946,COF1946,Latte,302.1,36,Chocolate,Cold,Small,185,"Tea Leaves, Ice",FALSE,5
+1947,COF1947,Mocha,161.51,106,Caramel,Iced,Medium,335,"Coffee Beans, Milk, Sugar",FALSE,4.9
+1948,COF1948,Masala Chai,101.86,22,Hazelnut,Iced,Large,227,"Tea Leaves, Sugar",TRUE,2.5
+1949,COF1949,Mocha,375.39,53,Hazelnut,Cold,Small,297,"Milk, Spices, Sugar",TRUE,2.4
+1950,COF1950,Iced Latte,181.97,138,Caramel,Blended,Medium,191,"Tea Leaves, Ice, Spices",TRUE,2.1
+1951,COF1951,Mocha,192.59,25,Chocolate,Cold,Medium,377,"Milk, Cream, Spices",FALSE,3.8
+1952,COF1952,Iced Latte,217.2,169,Chocolate,Iced,Medium,407,"Ice, Cream, Spices",TRUE,1.5
+1953,COF1953,Cappuccino,373.72,194,Mint,Blended,Medium,132,"Chocolate, Milk, Ice, Spices, Tea Leaves",TRUE,2.1
+1954,COF1954,Choco Frappe,160.04,134,Vanilla,Cold,Small,214,"Coffee Beans, Chocolate, Cream, Milk",FALSE,2
+1955,COF1955,Espresso,229.69,118,Vanilla,Iced,Medium,206,"Chocolate, Milk, Cream, Tea Leaves",TRUE,3.3
+1956,COF1956,Mocha,313.84,169,Cardamom,Iced,Large,481,"Sugar, Chocolate, Tea Leaves, Milk, Ice",TRUE,4
+1957,COF1957,Iced Latte,300.38,134,Cinnamon,Iced,Medium,270,"Sugar, Chocolate, Spices, Milk",FALSE,4.2
+1958,COF1958,Latte,413.35,10,Cinnamon,Cold,Large,378,"Chocolate, Cream, Milk, Spices, Sugar",TRUE,5
+1959,COF1959,Masala Chai,211.26,41,Caramel,Cold,Medium,445,"Chocolate, Sugar, Coffee Beans",FALSE,5
+1960,COF1960,Iced Latte,187.57,24,Cinnamon,Cold,Large,430,"Coffee Beans, Chocolate, Sugar, Spices",FALSE,2.2
+1961,COF1961,Mocha,497.17,151,Mint,Cold,Small,424,"Spices, Tea Leaves, Sugar, Milk, Ice",TRUE,4
+1962,COF1962,Espresso,307.66,89,Cardamom,Hot,Medium,382,"Ice, Sugar, Milk, Tea Leaves, Chocolate",TRUE,4
+1963,COF1963,Choco Frappe,339.65,161,None,Iced,Small,144,"Milk, Chocolate, Sugar, Spices, Tea Leaves",FALSE,2.6
+1964,COF1964,Macchiato,315.23,175,Hazelnut,Cold,Large,498,"Ice, Chocolate, Milk, Tea Leaves, Spices",FALSE,4.7
+1965,COF1965,Masala Chai,86.21,137,Vanilla,Hot,Large,266,"Tea Leaves, Spices, Ice",TRUE,1.2
+1966,COF1966,Frappuccino,479.75,34,Hazelnut,Iced,Medium,395,"Chocolate, Coffee Beans, Ice",TRUE,4.2
+1967,COF1967,Macchiato,424.83,149,Mint,Cold,Large,368,"Cream, Sugar",FALSE,4.2
+1968,COF1968,Frappuccino,60.9,37,Caramel,Blended,Large,433,"Tea Leaves, Chocolate, Ice",TRUE,2.8
+1969,COF1969,Mocha,236.85,143,Chocolate,Hot,Large,299,"Cream, Tea Leaves",TRUE,1.2
+1970,COF1970,Cappuccino,203.64,116,Cinnamon,Iced,Large,284,"Tea Leaves, Milk",FALSE,4.3
+1971,COF1971,Masala Chai,293.02,87,Vanilla,Iced,Small,462,"Ice, Chocolate, Milk",TRUE,1.5
+1972,COF1972,Iced Latte,265.88,146,Caramel,Blended,Large,405,"Cream, Coffee Beans, Sugar, Chocolate, Ice",FALSE,3.8
+1973,COF1973,Masala Chai,482.3,190,Cardamom,Iced,Small,468,"Coffee Beans, Spices, Cream, Chocolate, Tea Leaves",TRUE,1.2
+1974,COF1974,Masala Chai,233.16,94,Chocolate,Iced,Small,131,"Chocolate, Milk, Sugar, Ice, Tea Leaves",FALSE,1.3
+1975,COF1975,Iced Latte,96.46,139,None,Hot,Large,433,"Tea Leaves, Spices, Cream, Ice, Milk",FALSE,1.2
+1976,COF1976,Latte,349.34,192,Chocolate,Blended,Small,202,"Spices, Milk, Coffee Beans",FALSE,3.9
+1977,COF1977,Macchiato,212.91,118,Caramel,Hot,Small,290,"Chocolate, Sugar, Spices, Ice",FALSE,1.7
+1978,COF1978,Cappuccino,139.75,178,Chocolate,Hot,Small,363,"Spices, Chocolate",FALSE,3.2
+1979,COF1979,Frappuccino,204.13,28,Chocolate,Cold,Large,424,"Cream, Sugar",FALSE,1.2
+1980,COF1980,Americano,481.33,10,Chocolate,Hot,Small,174,"Tea Leaves, Cream, Ice, Milk, Chocolate",FALSE,1.3
+1981,COF1981,Latte,188.65,46,Caramel,Cold,Large,491,"Tea Leaves, Sugar",TRUE,2.5
+1982,COF1982,Choco Frappe,176.39,170,None,Blended,Small,137,"Coffee Beans, Cream",TRUE,2.3
+1983,COF1983,Mocha,409.83,106,None,Iced,Medium,275,"Cream, Chocolate, Coffee Beans, Milk",TRUE,4.7
+1984,COF1984,Frappuccino,377.44,56,Caramel,Blended,Medium,186,"Tea Leaves, Coffee Beans, Ice",FALSE,4.9
+1985,COF1985,Espresso,485.83,81,Caramel,Hot,Medium,494,"Coffee Beans, Milk",FALSE,3.5
+1986,COF1986,Cappuccino,461.56,168,Caramel,Iced,Large,421,"Sugar, Coffee Beans, Tea Leaves, Milk, Ice",TRUE,2.5
+1987,COF1987,Cappuccino,218.7,83,Cinnamon,Iced,Large,370,"Spices, Cream, Tea Leaves, Coffee Beans",TRUE,3.3
+1988,COF1988,Espresso,269.32,163,Cinnamon,Hot,Medium,370,"Sugar, Milk, Tea Leaves",TRUE,1.1
+1989,COF1989,Cappuccino,67.51,37,Chocolate,Hot,Small,402,"Spices, Sugar, Ice, Coffee Beans",TRUE,2.8
+1990,COF1990,Espresso,93.59,55,None,Blended,Small,106,"Ice, Cream",TRUE,4.7
+1991,COF1991,Macchiato,183.59,172,Caramel,Hot,Large,480,"Coffee Beans, Chocolate, Spices, Ice",FALSE,1.9
+1992,COF1992,Mocha,369.49,95,Mint,Hot,Large,324,"Cream, Milk, Ice",FALSE,1.2
+1993,COF1993,Espresso,214.37,115,Cardamom,Iced,Small,453,"Coffee Beans, Cream, Spices, Chocolate, Sugar",TRUE,3.1
+1994,COF1994,Mocha,135.45,22,Cinnamon,Hot,Large,272,"Chocolate, Sugar",FALSE,4.7
+1995,COF1995,Espresso,383.72,10,Cardamom,Iced,Large,417,"Chocolate, Ice, Coffee Beans",TRUE,2.5
+1996,COF1996,Cappuccino,347.71,87,None,Hot,Large,491,"Chocolate, Spices",TRUE,1.9
+1997,COF1997,Masala Chai,378.81,61,Mint,Cold,Medium,407,"Milk, Cream, Spices, Coffee Beans, Ice",TRUE,4.6
+1998,COF1998,Cappuccino,414.92,82,Hazelnut,Cold,Large,109,"Chocolate, Spices, Milk, Tea Leaves",TRUE,4
+1999,COF1999,Americano,455.15,23,Hazelnut,Cold,Large,132,"Chocolate, Coffee Beans, Sugar",FALSE,1.5
+2000,COF2000,Iced Latte,50.43,86,Caramel,Hot,Medium,128,"Chocolate, Tea Leaves, Coffee Beans, Spices",FALSE,4
